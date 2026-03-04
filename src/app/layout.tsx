@@ -1,13 +1,10 @@
 import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 
 import "./globals.css";
-
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `Next.js Blog Example with ${CMS_NAME}`,
@@ -25,6 +22,20 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        <style>{`
+          @import url('https://fonts.googleapis.com/css2?family=Crano:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,900&display=swap');
+          :root {
+            --font-headings: 'Crano', sans-serif;
+            --font-body: 'EB Garamond', serif;
+          }
+          body {
+            font-family: var(--font-body);
+            font-feature-settings: 'liga', 'kern';
+          }
+          h1, h2, h3, h4, h5, h6, p, li, span, a {
+            font-family: var(--font-headings);
+          }
+        `}</style>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -58,7 +69,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
+        className="dark:bg-slate-950 dark:text-slate-200"
       >
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>

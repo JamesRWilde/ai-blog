@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  /* Editorial dark base */
+  --bg-primary: #0c0c0e;
+  --bg-secondary: #141416;
+  --text-primary: #f5f5f7;
+  --text-secondary: #a1a1a6;
+  --accent-cyan: #22d3ee;
+  --accent-purple: #a855f7;
+  --border-subtle: rgba(255, 255, 255, 0.1);
+  --font-headings: var(--font-crano);
+  --font-body: var(--font-egaramond);
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+.dark {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
