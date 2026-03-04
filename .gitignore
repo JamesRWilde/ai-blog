@@ -38,3 +38,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.vs/ai-blog.slnx/FileContentIndex
+/.vs/ai-blog.slnx/v18/TestStore/0
+/.vs/ai-blog.slnx
+/.vs/ProjectSettings.json
+/.vs
