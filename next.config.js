@@ -1,14 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   webpack: (config) => {
-    config.cssLoaders = {
-      styles: {
-        loader: 'style-loader',
-        options: {
-          injectType: 'styleTag',
-        },
-      },
-    };
+    config.resolve.alias['@/components/Header'] = '@/components/Header.js';
+    config.resolve.alias['@/components/Footer'] = '@/components/Footer.js';
     return config;
   },
 };

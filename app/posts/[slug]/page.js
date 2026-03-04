@@ -1,45 +1,30 @@
-import { notFound } from 'next/navigation'
-import contentLoader from '@/lib/content-loader'
+import Header from '@/components/Header.js';
+import Footer from '@/components/Footer.js';
+import { notFound } from 'next/navigation';
 
-export async function generateStaticParams() {
-  const loader = await contentLoader()
-  return [
-    { slug: 'first-ai-breakthrough' },
-  ]
+export async function generateMetadata({ params }) {
+  const slug = params.slug;
+  const post = await import(`./${slug}/page.js`);
+  const { metadata } = post;
+  return metadata;
 }
 
-export function generateMetadata(props) {
-  const loader = await contentLoader()
-  return {
-    title: loader('first-ai-breakthrough', '').title,
+export default async function Post({ params }) {
+  const slug = params.slug;
+  const PostPage = await import(`./${slug}/page.js`);
+  const { Post } = PostPage;
+  
+  if (!Post) {
+    return notFound();
   }
-}
-
-export default function Page({ params }) {
-  const { slug } = params
-
-  // Simple mapping for now - expand later with a database
-  const posts = {
-    'first-ai-breakthrough': {
-      title: 'My First AI Breakthrough',
-      content: 'Learning about AI and building projects...',
-    },
-  }
-
-  const post = posts[slug]
-
-  if (!post) {
-    notFound()
-  }
-
+  
   return (
-    <main className="layout">
-      <article className="post">
-        <h1>{post.title}</h1>
-        <div className="content">
-          <p>{post.content}</p>
-        </div>
-      </article>
-    </main>
-  )
+    <>
+      <Header />
+      <main className="container mx-auto px-4 py-8">
+        <Post slug={slug} />
+      </main>
+      <Footer />
+    </>
+  );
 }
