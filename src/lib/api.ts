@@ -15,7 +15,10 @@ export function getPostBySlug(slug: string) {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
-  return { ...data, slug: realSlug, content } as Post;
+  // Gray-matter (yaml) can parse dates into Date objects, but our Post type expects a string.
+  const date = data.date instanceof Date ? data.date.toISOString() : data.date;
+
+  return { ...data, date, slug: realSlug, content } as Post;
 }
 
 export function getAllPosts(): Post[] {
