@@ -12,22 +12,32 @@ type Props = {
 };
 
 export function PostHeader({ title, coverImage, date, author }: Props) {
+  // Determine category from title
+  const isSiliconflow = title.toLowerCase().includes("siliconflow");
+  const category = isSiliconflow ? "Cloud Platform" : "API Platform";
+  const badgeClass = isSiliconflow ? "category-badge-cyan" : "category-badge-violet";
+
   return (
     <>
+      {/* Category badge */}
+      <div className="mb-6">
+        <span className={`category-badge ${badgeClass}`}>{category}</span>
+      </div>
+
+      {/* Title */}
       <PostTitle>{title}</PostTitle>
-      <div className="hidden md:block md:mb-12">
+
+      {/* Meta row */}
+      <div className="flex flex-wrap items-center gap-6 mb-10 pb-10 border-b border-white/5">
         <Avatar name={author.name} picture={author.picture} />
-      </div>
-      <div className="mb-8 md:mb-16 sm:mx-0">
-        <CoverImage title={title} src={coverImage} />
-      </div>
-      <div className="max-w-2xl mx-auto">
-        <div className="block md:hidden mb-6">
-          <Avatar name={author.name} picture={author.picture} />
-        </div>
-        <div className="mb-6 text-lg">
+        <div className="flex items-center gap-2 text-zinc-500" style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
           <DateFormatter dateString={date} />
         </div>
+      </div>
+
+      {/* Cover image */}
+      <div className="mb-12 rounded-2xl overflow-hidden border border-white/5 shadow-2xl">
+        <CoverImage title={title} src={coverImage} />
       </div>
     </>
   );

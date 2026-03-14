@@ -1,13 +1,10 @@
 import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import cn from "classnames";
-import { ThemeSwitcher } from "./_components/theme-switcher";
-
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
+  title: `AI News — ${CMS_NAME}`,
   description: `All the latest and greatest in the world of AI.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
@@ -23,17 +20,14 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=Crano:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,900&display=swap');
+          @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600;700;800;900&display=swap');
           :root {
-            --font-headings: 'Crano', sans-serif;
-            --font-body: 'EB Garamond', serif;
+            --font-headings: 'Inter', system-ui, sans-serif;
+            --font-body: 'EB Garamond', Georgia, serif;
           }
           body {
             font-family: var(--font-body);
             font-feature-settings: 'liga', 'kern';
-          }
-          h1, h2, h3, h4, h5, h6, p, li, span, a {
-            font-family: var(--font-headings);
           }
         `}</style>
         <link
@@ -65,13 +59,10 @@ export default function RootLayout({
           name="msapplication-config"
           content="/favicon/browserconfig.xml"
         />
-        <meta name="theme-color" content="#000" />
+        <meta name="theme-color" content="#09090b" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body
-        className="dark:bg-slate-950 dark:text-slate-200"
-      >
-        <ThemeSwitcher />
+      <body className="dark">
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
