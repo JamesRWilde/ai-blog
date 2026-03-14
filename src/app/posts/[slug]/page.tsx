@@ -19,6 +19,8 @@ export default async function Post(props: Params) {
 
   return (
     <main className="min-h-screen">
+      <a href="#content" className="skip-link">Skip to content</a>
+
       <nav className="nav-glass sticky top-0 z-50">
         <Container>
           <div className="flex items-center justify-between h-14">
@@ -40,7 +42,7 @@ export default async function Post(props: Params) {
       </nav>
 
       <Container>
-        <article className="py-12 md:py-16 mb-32">
+        <article id="content" className="py-12 md:py-16 mb-32">
           <PostHeader
             title={post.title}
             coverImage={post.coverImage}
@@ -50,6 +52,32 @@ export default async function Post(props: Params) {
           <PostBody content={content} />
         </article>
       </Container>
+
+      <script
+        dangerouslySetInnerHTML={{
+          __html: `
+            (function() {
+              if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelectorAll('.reveal').forEach(function(el) {
+                  el.classList.add('visible');
+                });
+                return;
+              }
+              var observer = new IntersectionObserver(function(entries) {
+                entries.forEach(function(entry) {
+                  if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    observer.unobserve(entry.target);
+                  }
+                });
+              }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+              document.querySelectorAll('.reveal').forEach(function(el) {
+                observer.observe(el);
+              });
+            })();
+          `,
+        }}
+      />
     </main>
   );
 }

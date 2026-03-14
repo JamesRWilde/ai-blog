@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("http://192.168.50.173:3001"),
   title: `AI News — ${CMS_NAME}`,
   description: `All the latest and greatest in the world of AI.`,
   openGraph: {

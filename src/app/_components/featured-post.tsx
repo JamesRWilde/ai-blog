@@ -11,7 +11,6 @@ type Props = {
   excerpt: string;
   author: Author;
   slug: string;
-  index: number;
 };
 
 const categoryMap: Record<string, { label: string; badge: string }> = {
@@ -26,40 +25,49 @@ function getCategory(slug: string) {
   return { label: "AI", badge: "badge-indigo" };
 }
 
-export function PostPreview({
+export function FeaturedPost({
   title,
   coverImage,
   date,
   excerpt,
   author,
   slug,
-  index,
 }: Props) {
   const cat = getCategory(slug);
 
   return (
-    <article className={`article-card anim-fade-up-d${Math.min(index + 1, 3)}`}>
+    <article className="featured-card">
       <Link href={`/posts/${slug}`} className="block">
         <div className="card-image relative">
           <CoverImage title={title} src={coverImage} />
+          {/* Featured badge overlay */}
+          <div className="absolute top-5 right-5 z-10 flex items-center gap-2.5 bg-black/60 backdrop-blur-md border border-white/10 rounded-full px-4 py-2">
+            <span className="relative flex h-2 w-2">
+              <span className="absolute inline-flex h-full w-full rounded-full bg-indigo-500 opacity-75 featured-pulse" />
+              <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-400" />
+            </span>
+            <span className="text-xs font-body font-semibold text-white/90 tracking-wide">
+              Featured
+            </span>
+          </div>
         </div>
       </Link>
 
-      <div className="p-6 md:p-8">
+      <div className="p-8 md:p-10">
         <div className="flex items-center gap-3 mb-4">
           <span className={`badge ${cat.badge}`}>{cat.label}</span>
-          <span className="text-xs text-zinc-500 font-mono tracking-wider">
+          <span className="text-sm text-zinc-500 font-mono tracking-wider">
             <DateFormatter dateString={date} />
           </span>
         </div>
 
-        <h3 className="font-display text-xl md:text-2xl font-bold mb-3 leading-snug tracking-tight text-zinc-100 hover:text-white transition-colors duration-200">
+        <h3 className="font-display text-3xl md:text-4xl font-bold mb-4 leading-snug tracking-tight text-zinc-100 hover:text-white transition-colors duration-200">
           <Link href={`/posts/${slug}`}>{title}</Link>
         </h3>
 
-        <p className="font-body text-sm md:text-base leading-relaxed text-zinc-400 mb-6 line-clamp-3">{excerpt}</p>
+        <p className="font-body text-base md:text-lg leading-relaxed text-zinc-400 mb-8 max-w-3xl">{excerpt}</p>
 
-        <div className="pt-4 border-t border-white/5">
+        <div className="pt-5 border-t border-white/5">
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>
