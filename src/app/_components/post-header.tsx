@@ -29,15 +29,12 @@ export function PostHeader({ title, coverImage, date, author }: Props) {
 
   return (
     <>
-      {/* Badge */}
       <div className="mb-6">
         <span className={`badge ${cat.badge}`}>{cat.label}</span>
       </div>
 
-      {/* Title */}
       <PostTitle>{title}</PostTitle>
 
-      {/* Meta */}
       <div className="flex flex-wrap items-center gap-5 mt-8 mb-10 pb-10 border-b border-white/5">
         <Avatar name={author.name} picture={author.picture} />
         <div className="w-px h-4 bg-white/10" />
@@ -46,7 +43,6 @@ export function PostHeader({ title, coverImage, date, author }: Props) {
         </span>
       </div>
 
-      {/* Cover */}
       <div className="mb-14 rounded-2xl overflow-hidden border border-white/5 shadow-2xl shadow-black/40">
         <CoverImage title={title} src={coverImage} />
       </div>

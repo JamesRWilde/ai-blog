@@ -13,7 +13,7 @@ export function MoreStories({ posts }: Props) {
         <div className="accent-tag anim-slide-in mb-5">
           Latest Articles
         </div>
-        <h2 className="text-5xl md:text-7xl font-black tracking-tighter leading-none text-white">
+        <h2 className="font-display text-5xl md:text-7xl font-black tracking-tighter leading-none text-white">
           Latest
         </h2>
       </div>

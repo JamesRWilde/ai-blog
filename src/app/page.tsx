@@ -17,7 +17,7 @@ export default function Index() {
                 <span className="absolute inline-flex h-full w-full rounded-full bg-indigo-500 opacity-75 animate-ping" />
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-500" />
               </span>
-              <span className="text-base font-bold tracking-tight text-white group-hover:text-indigo-400 transition-colors">
+              <span className="font-display text-base font-bold tracking-tight text-white group-hover:text-indigo-400 transition-colors">
                 AI News
               </span>
             </a>

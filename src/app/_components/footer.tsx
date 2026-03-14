@@ -6,18 +6,16 @@ export function Footer() {
       <Container>
         <div className="py-20 md:py-28">
           <div className="flex flex-col lg:flex-row items-start justify-between gap-12">
-            {/* Left */}
             <div className="lg:w-2/3">
-              <h3 className="text-4xl md:text-6xl font-black tracking-tighter leading-none mb-5">
+              <h3 className="font-display text-4xl md:text-6xl font-black tracking-tighter leading-none mb-5">
                 <span className="shimmer-text">AI News</span>
               </h3>
-              <p className="text-base md:text-lg text-zinc-500 max-w-md leading-relaxed font-light tracking-wide">
+              <p className="font-body text-base md:text-lg text-zinc-500 max-w-md leading-relaxed font-light tracking-wide">
                 Curated intelligence on the latest breakthroughs in artificial intelligence.
                 Built with care. Delivered with clarity.
               </p>
             </div>
 
-            {/* Right */}
             <div className="flex flex-col items-start lg:items-end gap-4">
               <div className="flex items-center gap-2.5">
                 <span className="relative flex h-2.5 w-2.5">

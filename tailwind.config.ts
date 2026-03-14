@@ -37,6 +37,10 @@ const config: Config = {
         sm: "0 5px 10px rgba(0, 0, 0, 0.12)",
         md: "0 8px 30px rgba(0, 0, 0, 0.12)",
       },
+      fontFamily: {
+        display: ["'Cabinet Grotesk'", "system-ui", "sans-serif"],
+        body: ["'Satoshi'", "system-ui", "sans-serif"],
+      },
     },
   },
   plugins: [],
