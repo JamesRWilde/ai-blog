@@ -1,6 +1,7 @@
 import Container from "@/app/_components/container";
 import Hero from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
+import { ScrollRevealInit } from "@/app/_components/scroll-reveal-init";
 import { getAllPosts } from "@/lib/api";
 
 export default function Index() {
@@ -8,10 +9,9 @@ export default function Index() {
 
   return (
     <main className="min-h-screen">
-      {/* Skip to content link (accessibility) */}
+      <ScrollRevealInit />
       <a href="#latest" className="skip-link">Skip to articles</a>
 
-      {/* Sticky nav */}
       <nav className="nav-glass sticky top-0 z-50">
         <Container>
           <div className="flex items-center justify-between h-14">
@@ -42,33 +42,6 @@ export default function Index() {
         <Hero />
         {allPosts.length > 0 && <MoreStories posts={allPosts} />}
       </Container>
-
-      {/* Scroll reveal script */}
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `
-            (function() {
-              if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelectorAll('.reveal').forEach(function(el) {
-                  el.classList.add('visible');
-                });
-                return;
-              }
-              var observer = new IntersectionObserver(function(entries) {
-                entries.forEach(function(entry) {
-                  if (entry.isIntersecting) {
-                    entry.target.classList.add('visible');
-                    observer.unobserve(entry.target);
-                  }
-                });
-              }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
-              document.querySelectorAll('.reveal').forEach(function(el) {
-                observer.observe(el);
-              });
-            })();
-          `,
-        }}
-      />
     </main>
   );
 }

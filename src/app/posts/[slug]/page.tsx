@@ -6,6 +6,7 @@ import markdownToHtml from "@/lib/markdownToHtml";
 import Container from "@/app/_components/container";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import { ScrollRevealInit } from "@/app/_components/scroll-reveal-init";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -19,6 +20,7 @@ export default async function Post(props: Params) {
 
   return (
     <main className="min-h-screen">
+      <ScrollRevealInit />
       <a href="#content" className="skip-link">Skip to content</a>
 
       <nav className="nav-glass sticky top-0 z-50">
@@ -52,32 +54,6 @@ export default async function Post(props: Params) {
           <PostBody content={content} />
         </article>
       </Container>
-
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `
-            (function() {
-              if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelectorAll('.reveal').forEach(function(el) {
-                  el.classList.add('visible');
-                });
-                return;
-              }
-              var observer = new IntersectionObserver(function(entries) {
-                entries.forEach(function(entry) {
-                  if (entry.isIntersecting) {
-                    entry.target.classList.add('visible');
-                    observer.unobserve(entry.target);
-                  }
-                });
-              }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
-              document.querySelectorAll('.reveal').forEach(function(el) {
-                observer.observe(el);
-              });
-            })();
-          `,
-        }}
-      />
     </main>
   );
 }
