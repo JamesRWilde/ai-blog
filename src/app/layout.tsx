@@ -19,17 +19,12 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600;700;800;900&display=swap');
-          :root {
-            --font-headings: 'Inter', system-ui, sans-serif;
-            --font-body: 'EB Garamond', Georgia, serif;
-          }
-          body {
-            font-family: var(--font-body);
-            font-feature-settings: 'liga', 'kern';
-          }
-        `}</style>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap"
+          rel="stylesheet"
+        />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -59,7 +54,7 @@ export default function RootLayout({
           name="msapplication-config"
           content="/favicon/browserconfig.xml"
         />
-        <meta name="theme-color" content="#09090b" />
+        <meta name="theme-color" content="#050508" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body className="dark">

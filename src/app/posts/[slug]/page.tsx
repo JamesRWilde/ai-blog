@@ -19,31 +19,29 @@ export default async function Post(props: Params) {
 
   return (
     <main className="min-h-screen">
-      {/* Back to home nav */}
+      {/* Sticky nav */}
       <nav className="nav-glass sticky top-0 z-50">
         <Container>
-          <div className="flex items-center justify-between h-16">
-            <a href="/" className="flex items-center gap-2 group">
-              <div className="w-2 h-2 rounded-full bg-cyan-400 group-hover:bg-cyan-300 transition-colors" />
-              <span className="text-lg font-bold tracking-tight text-white group-hover:text-cyan-400 transition-colors"
-                    style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
+          <div className="flex items-center justify-between h-14">
+            <a href="/" className="flex items-center gap-2.5 group">
+              <span className="relative flex h-2 w-2">
+                <span className="absolute inline-flex h-full w-full rounded-full bg-indigo-500 opacity-75 animate-ping" />
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-500" />
+              </span>
+              <span className="text-base font-bold tracking-tight text-white group-hover:text-indigo-400 transition-colors">
                 AI News
               </span>
             </a>
             <a href="/"
-               className="text-sm text-zinc-400 hover:text-white transition-colors flex items-center gap-2"
-               style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M10 12L6 8L10 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
-              Back to all articles
+               className="text-xs font-mono text-zinc-500 hover:text-zinc-300 transition-colors tracking-wider uppercase flex items-center gap-2">
+              ← Back
             </a>
           </div>
         </Container>
       </nav>
 
       <Container>
-        <article className="py-12 md:py-20 mb-32">
+        <article className="py-12 md:py-16 mb-32">
           <PostHeader
             title={post.title}
             coverImage={post.coverImage}

@@ -1,64 +1,54 @@
 export default function Hero() {
   return (
-    <section className="relative mb-20 md:mb-28 overflow-hidden py-12 md:py-20">
-      {/* Animated gradient orbs */}
-      <div className="hero-orb absolute -top-32 -left-32 w-[500px] h-[500px] rounded-full opacity-30"
+    <section className="relative mb-16 md:mb-24 py-16 md:py-24 overflow-hidden">
+      {/* Animated orbs */}
+      <div className="hero-orb-1 absolute -top-40 -left-40 w-[600px] h-[600px] rounded-full"
         style={{
-          background: 'radial-gradient(circle, rgba(34,211,238,0.3) 0%, rgba(34,211,238,0) 70%)',
-          filter: 'blur(80px)',
+          background: 'radial-gradient(circle, rgba(99,102,241,0.2) 0%, transparent 70%)',
         }}
       />
-      <div className="hero-orb-2 absolute -bottom-40 -right-20 w-[600px] h-[600px] rounded-full opacity-25"
+      <div className="hero-orb-2 absolute -bottom-48 -right-32 w-[700px] h-[700px] rounded-full"
         style={{
-          background: 'radial-gradient(circle, rgba(167,139,250,0.35) 0%, rgba(167,139,250,0) 70%)',
-          filter: 'blur(100px)',
+          background: 'radial-gradient(circle, rgba(6,182,212,0.15) 0%, transparent 70%)',
         }}
       />
-      <div className="hero-glow absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] rounded-full"
+      <div className="hero-orb-3 absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[300px] rounded-full"
         style={{
-          background: 'radial-gradient(ellipse, rgba(232,121,249,0.08) 0%, transparent 70%)',
-          filter: 'blur(60px)',
+          background: 'radial-gradient(ellipse, rgba(217,70,239,0.08) 0%, transparent 70%)',
         }}
       />
 
-      {/* Grid pattern overlay */}
-      <div className="absolute inset-0 opacity-[0.03]"
-        style={{
-          backgroundImage: `linear-gradient(rgba(255,255,255,0.1) 1px, transparent 1px),
-                            linear-gradient(90deg, rgba(255,255,255,0.1) 1px, transparent 1px)`,
-          backgroundSize: '60px 60px',
-        }}
-      />
+      {/* Dot grid */}
+      <div className="absolute inset-0 dot-pattern" />
 
-      <div className="relative z-10 max-w-5xl mx-auto px-5">
-        <div className="animate-fade-in-up">
-          {/* Eyebrow */}
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-8 h-[2px] bg-gradient-to-r from-cyan-400 to-violet-400 rounded-full" />
-            <span className="text-sm font-semibold tracking-[0.2em] uppercase text-zinc-400"
-                  style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
-              Intelligence Briefing
-            </span>
-          </div>
+      {/* Noise overlay */}
+      <div className="absolute inset-0 noise-bg" />
 
-          {/* Main heading */}
-          <h1 className="text-6xl md:text-8xl lg:text-9xl font-black tracking-tighter leading-[0.9] mb-8"
-              style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
-            <span className="shimmer-text">AI News</span>
-          </h1>
-
-          {/* Subtitle */}
-          <p className="text-xl md:text-2xl lg:text-3xl text-zinc-400 leading-relaxed max-w-2xl"
-             style={{ fontFamily: "'EB Garamond', Georgia, serif" }}>
-            All the latest and greatest in the world of AI.
-            <span className="text-zinc-500 block mt-2 text-lg md:text-xl">
-              Curated intelligence. Future-focused insights.
-            </span>
-          </p>
+      <div className="relative z-10">
+        {/* Accent tag */}
+        <div className="accent-tag anim-slide-in mb-8">
+          Intelligence Briefing
         </div>
 
-        {/* Decorative line */}
-        <div className="mt-12 h-[1px] w-full bg-gradient-to-r from-transparent via-white/10 to-transparent animate-fade-in-up-delay-1" />
+        {/* Main heading */}
+        <h1 className="text-7xl md:text-[8rem] lg:text-[10rem] font-black tracking-tighter leading-[0.85] mb-8 anim-fade-up">
+          <span className="shimmer-text">AI News</span>
+        </h1>
+
+        {/* Subtitle */}
+        <p className="text-xl md:text-2xl text-zinc-400 leading-relaxed max-w-xl anim-fade-up-d1 font-light tracking-wide">
+          All the latest and greatest in the world of AI.
+        </p>
+        <p className="text-base md:text-lg text-zinc-500 mt-3 anim-fade-up-d2 font-light tracking-wide">
+          Curated intelligence. Future-focused insights.
+        </p>
+
+        {/* Divider */}
+        <div className="mt-12 h-[1px] w-full anim-fade-up-d3"
+          style={{
+            background: 'linear-gradient(90deg, #6366f1, rgba(6,182,212,0.3), transparent)',
+          }}
+        />
       </div>
     </section>
   );

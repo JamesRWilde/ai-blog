@@ -11,32 +11,43 @@ type Props = {
   author: Author;
 };
 
+const categoryMap: Record<string, { label: string; badge: string }> = {
+  siliconflow: { label: "Cloud Platform", badge: "badge-cyan" },
+  aimlapi: { label: "API Platform", badge: "badge-indigo" },
+};
+
+function getCategory(title: string) {
+  const lower = title.toLowerCase();
+  for (const [key, val] of Object.entries(categoryMap)) {
+    if (lower.includes(key)) return val;
+  }
+  return { label: "AI", badge: "badge-indigo" };
+}
+
 export function PostHeader({ title, coverImage, date, author }: Props) {
-  // Determine category from title
-  const isSiliconflow = title.toLowerCase().includes("siliconflow");
-  const category = isSiliconflow ? "Cloud Platform" : "API Platform";
-  const badgeClass = isSiliconflow ? "category-badge-cyan" : "category-badge-violet";
+  const cat = getCategory(title);
 
   return (
     <>
-      {/* Category badge */}
+      {/* Badge */}
       <div className="mb-6">
-        <span className={`category-badge ${badgeClass}`}>{category}</span>
+        <span className={`badge ${cat.badge}`}>{cat.label}</span>
       </div>
 
       {/* Title */}
       <PostTitle>{title}</PostTitle>
 
-      {/* Meta row */}
-      <div className="flex flex-wrap items-center gap-6 mb-10 pb-10 border-b border-white/5">
+      {/* Meta */}
+      <div className="flex flex-wrap items-center gap-5 mt-8 mb-10 pb-10 border-b border-white/5">
         <Avatar name={author.name} picture={author.picture} />
-        <div className="flex items-center gap-2 text-zinc-500" style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
+        <div className="w-px h-4 bg-white/10" />
+        <span className="text-sm text-zinc-500 font-mono tracking-wider">
           <DateFormatter dateString={date} />
-        </div>
+        </span>
       </div>
 
-      {/* Cover image */}
-      <div className="mb-12 rounded-2xl overflow-hidden border border-white/5 shadow-2xl">
+      {/* Cover */}
+      <div className="mb-14 rounded-2xl overflow-hidden border border-white/5 shadow-2xl shadow-black/40">
         <CoverImage title={title} src={coverImage} />
       </div>
     </>

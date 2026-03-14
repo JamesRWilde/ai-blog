@@ -14,6 +14,18 @@ type Props = {
   index: number;
 };
 
+const categoryMap: Record<string, { label: string; badge: string }> = {
+  siliconflow: { label: "Cloud Platform", badge: "badge-cyan" },
+  aimlapi: { label: "API Platform", badge: "badge-indigo" },
+};
+
+function getCategory(slug: string) {
+  for (const [key, val] of Object.entries(categoryMap)) {
+    if (slug.toLowerCase().includes(key)) return val;
+  }
+  return { label: "AI", badge: "badge-indigo" };
+}
+
 export function PostPreview({
   title,
   coverImage,
@@ -23,49 +35,36 @@ export function PostPreview({
   slug,
   index,
 }: Props) {
-  // Assign category based on slug for visual variety
-  const isSiliconflow = slug.includes("siliconflow");
-  const category = isSiliconflow ? "Cloud Platform" : "API Platform";
-  const badgeClass = isSiliconflow ? "category-badge-cyan" : "category-badge-violet";
+  const cat = getCategory(slug);
 
   return (
-    <article
-      className={`article-card animate-fade-in-up-delay-${index + 1}`}
-      style={{ animationFillMode: 'forwards' }}
-    >
+    <article className={`article-card anim-fade-up-d${Math.min(index + 1, 3)}`}>
       {/* Image */}
       <Link href={`/posts/${slug}`} className="block">
         <div className="card-image relative">
           <CoverImage slug={slug} title={title} src={coverImage} />
-          {/* Gradient overlay on image */}
-          <div className="absolute inset-0 bg-gradient-to-t from-[#131316] via-transparent to-transparent opacity-60" />
         </div>
       </Link>
 
       {/* Content */}
-      <div className="p-6 pt-4">
-        {/* Category badge */}
-        <div className="mb-4">
-          <span className={`category-badge ${badgeClass}`}>
-            {category}
+      <div className="p-6 md:p-7">
+        {/* Category + date row */}
+        <div className="flex items-center gap-3 mb-4">
+          <span className={`badge ${cat.badge}`}>{cat.label}</span>
+          <span className="text-xs text-zinc-500 font-mono tracking-wider">
+            <DateFormatter dateString={date} />
           </span>
         </div>
 
         {/* Title */}
-        <h3 className="text-2xl md:text-3xl mb-3 leading-snug font-bold tracking-tight"
-            style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
-          <Link href={`/posts/${slug}`} className="hover:text-cyan-400 transition-colors duration-200">
+        <h3 className="text-xl md:text-2xl font-bold mb-3 leading-snug tracking-tight text-zinc-100 hover:text-white transition-colors duration-200">
+          <Link href={`/posts/${slug}`}>
             {title}
           </Link>
         </h3>
 
-        {/* Date */}
-        <div className="text-base text-zinc-500 mb-4" style={{ fontFamily: "'Inter', system-ui, sans-serif" }}>
-          <DateFormatter dateString={date} />
-        </div>
-
         {/* Excerpt */}
-        <p className="text-lg leading-relaxed mb-6 text-zinc-400">{excerpt}</p>
+        <p className="text-sm md:text-base leading-relaxed text-zinc-400 mb-6 line-clamp-3">{excerpt}</p>
 
         {/* Author */}
         <div className="pt-4 border-t border-white/5">
