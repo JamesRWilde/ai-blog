@@ -24,7 +24,7 @@ export default function Hero() {
       {/* Noise overlay */}
       <div className="absolute inset-0 noise-bg" />
 
-      <div className="relative z-10">
+      <div className="relative z-10 max-w-7xl mx-auto px-5 md:px-8">
         {/* Accent tag */}
         <div className="accent-tag anim-slide-in mb-8">
           <span className="accent-line" />
@@ -32,12 +32,12 @@ export default function Hero() {
         </div>
 
         {/* Main heading — Cabinet Grotesk display */}
-        <h1 className="font-display text-6xl sm:text-7xl md:text-8xl lg:text-[7.5rem] xl:text-[9rem] font-black tracking-tighter leading-[0.88] mb-8 anim-fade-up max-w-[90vw]">
+        <h1 className="font-display text-6xl sm:text-7xl md:text-8xl lg:text-[7.5rem] xl:text-[9rem] font-black tracking-tighter leading-[0.88] mb-8 anim-fade-up">
           <span className="shimmer-text">AI News</span>
         </h1>
 
         {/* Subtitle — Satoshi body */}
-        <p className="font-body text-xl md:text-2xl text-zinc-400 leading-relaxed max-w-lg mb-2 anim-fade-up-d1 font-light tracking-wide">
+        <p className="font-body text-xl md:text-2xl text-zinc-400 leading-relaxed max-w-2xl mb-2 anim-fade-up-d1 font-light tracking-wide">
           All the latest and greatest in the world of AI.
         </p>
         <p className="font-body text-base md:text-lg text-zinc-500 anim-fade-up-d2 font-light tracking-wide">

@@ -38,8 +38,9 @@ export default function Index() {
         </Container>
       </nav>
 
+      <Hero />
+
       <Container>
-        <Hero />
         {allPosts.length > 0 && <MoreStories posts={allPosts} />}
       </Container>
     </main>
