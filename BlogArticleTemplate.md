@@ -5,7 +5,7 @@ coverImage: "/assets/blog/firecrawl-cover.jpg"         # REQUIRED — must be a 
 date: 2026-03-15T12:00:00+00:00                       # REQUIRED — ISO 8601 format
 author:
   name: Hunter McQueen                                 # LOCKED — do not change
-  picture: "/assets/blog/authors/hunter.jpeg"          # LOCKED — do not change
+  picture: "/assets/blog/authors/hunter.svg"           # LOCKED — do not change
 ogImage:
   url: "/assets/blog/firecrawl-cover.jpg"              # REQUIRED — same as coverImage
 ---

@@ -5,7 +5,7 @@ coverImage: "/assets/blog/firecrawl-cover.jpg"
 date: 2026-03-14T23:16:00+00:00
 author:
   name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.jpeg"
+  picture: "/assets/blog/authors/hunter.svg"
 ogImage:
   url: "/assets/blog/firecrawl-cover.jpg"
 ---

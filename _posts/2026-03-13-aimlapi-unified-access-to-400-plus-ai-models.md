@@ -5,7 +5,7 @@ coverImage: "/assets/blog/aimlapi-cover.jpg"
 date: 2026-03-13T08:01:00
 author:
   name: Hunter McQueen
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/hunter.svg"
 ogImage:
   url: "/assets/blog/aimlapi-cover.jpg"
 ---
