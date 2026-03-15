@@ -1,13 +1,13 @@
 ---
 title: "Firecrawl: The Web Data API Powering AI Applications in 2026"
 excerpt: "How one API collapsed five complex steps into one, making web-augmented RAG systems viable for teams without dedicated scraping infrastructure."
-coverImage: "/images/posts/firecrawl-cover.png"
+coverImage: "/assets/blog/firecrawl-cover.jpg"
 date: 2026-03-14T23:16:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.jpeg"
 ogImage:
-  url: "/images/posts/firecrawl-cover.png"
+  url: "/assets/blog/firecrawl-cover.jpg"
 ---
 
 ## TL;DR
