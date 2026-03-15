@@ -15,6 +15,32 @@ export function getPostBySlug(slug: string) {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
+  // Validate required fields
+  const missing: string[] = [];
+  if (!data.title) missing.push("title");
+  if (!data.excerpt) missing.push("excerpt");
+  if (!data.coverImage) {
+    missing.push(`coverImage — add it to _posts/${realSlug}.md and put the image in public/assets/blog/`);
+  } else {
+    // Check the image file actually exists on disk
+    const imgPath = join(process.cwd(), "public", data.coverImage);
+    if (!fs.existsSync(imgPath)) {
+      throw new Error(
+        `Post "${realSlug}": coverImage "${data.coverImage}" not found at ${imgPath}. ` +
+        `Add the image file to public/assets/blog/`
+      );
+    }
+  }
+  if (!data.ogImage?.url) missing.push("ogImage.url");
+  if (!data.author?.name) missing.push("author.name");
+  if (!data.author?.picture) missing.push("author.picture");
+
+  if (missing.length > 0) {
+    throw new Error(
+      `Post "${realSlug}" is missing required fields:\n  - ${missing.join("\n  - ")}`
+    );
+  }
+
   // Gray-matter (yaml) can parse dates into Date objects, but our Post type expects a string.
   const date = data.date instanceof Date ? data.date.toISOString() : data.date;
 
