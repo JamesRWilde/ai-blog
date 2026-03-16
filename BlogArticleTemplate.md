@@ -28,6 +28,7 @@ Brief summary...
    - Test: does the file exist on disk? If not, add it before committing.
    - **🖼️ Image type: OFFICIAL/BRANDED images only.** Use the company's official hero image, product screenshot, or branded graphic — NOT generic AI diagrams, purple flowcharts, or stock illustrations.
    - **Where to find them:** Check the company's website hero section, their docs landing page, GitHub README, or Twitter/X banner. Download the main branded image (usually 1200–1920px wide).
+   - **💡 Fallback — Google Image Search:** If the company's website doesn't have usable imagery, search Google Images for `company name logo` or `company name branding`. This often yields high-quality official logos on clean backgrounds. Use the company's actual logo — it's always better than a generic image. Ensure the logo is on a clean/dark background and not watermarked or miscolored.
    - **Format:** JPG preferred. Save with a descriptive name (e.g., `companyname-cover.jpg`).
    - **Aspect ratio:** Landscape (wider than tall, ideally 16:9 or similar). No square images.
 
