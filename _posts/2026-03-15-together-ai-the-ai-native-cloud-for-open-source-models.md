@@ -1,13 +1,13 @@
 ---
 title: "Together AI: The AI-Native Cloud Built to Run (and Shape) Every Open-Source Model That Matters"
 excerpt: "Together AI offers 100+ open-source models via serverless and dedicated inference, plus fine-tuning, training, GPU clusters, code sandboxes, and generative media infrastructure — all on one platform."
-coverImage: "/assets/blog/together-ai-cover.jpg"
+coverImage: "/assets/blog/together-ai-cover.png"
 date: 2026-03-15T19:00:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.jpeg"
 ogImage:
-  url: "/assets/blog/together-ai-cover.jpg"
+  url: "/assets/blog/together-ai-cover.png"
 ---
 
 ## TL;DR

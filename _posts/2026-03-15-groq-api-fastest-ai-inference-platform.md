@@ -1,13 +1,13 @@
 ---
 title: "Groq API: Custom LPU Silicon Delivers the Fastest AI Inference You Can Buy"
 excerpt: "Groq's purpose-built Language Processing Unit runs open-source models at 500-1,000+ tokens per second — 5-10x faster than GPU-based providers — with OpenAI-compatible pricing starting at $0.05 per million input tokens."
-coverImage: "/assets/blog/groq-cover.jpg"
+coverImage: "/assets/blog/groq-cover.png"
 date: 2026-03-15T07:30:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.jpeg"
 ogImage:
-  url: "/assets/blog/groq-cover.jpg"
+  url: "/assets/blog/groq-cover.png"
 ---
 
 ## TL;DR

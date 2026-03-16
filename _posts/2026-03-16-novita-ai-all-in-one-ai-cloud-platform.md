@@ -1,13 +1,13 @@
 ---
 title: "Novita AI: The All-in-One Cloud Platform for AI Model APIs, GPUs, and Agent Sandboxes"
 excerpt: "Novita AI offers serverless model APIs, dedicated GPU instances, and agent sandboxes — positioning itself as a unified infrastructure layer for developers shipping AI applications."
-coverImage: "/assets/blog/novita-ai-cover.jpg"
+coverImage: "/assets/blog/novita-ai-cover.png"
 date: 2026-03-16T00:00:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.jpeg"
 ogImage:
-  url: "/assets/blog/novita-ai-cover.jpg"
+  url: "/assets/blog/novita-ai-cover.png"
 ---
 
 ## TL;DR

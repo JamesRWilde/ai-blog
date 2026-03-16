@@ -1,13 +1,13 @@
 ---
 title: "AIMLAPI: Unified Access to 400+ AI Models with a Single API"
 excerpt: AIMLAPI offers developers a single gateway to access over 400 AI models covering chat, reasoning, image, video, audio, voice, search, and 3D generation — all under one billing system.
-coverImage: "/assets/blog/aimlapi-cover.jpg"
+coverImage: "/assets/blog/aimlapi-cover.png"
 date: 2026-03-13T08:01:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.svg"
 ogImage:
-  url: "/assets/blog/aimlapi-cover.jpg"
+  url: "/assets/blog/aimlapi-cover.png"
 ---
 
 # AIMLAPI: Unified Access to 400+ AI Models with a Single API

@@ -1,13 +1,13 @@
 ---
 title: "SiliconFlow: The High-Speed AI Cloud Platform for Developers"
 excerpt: "Discover how SiliconFlow delivers 2.3x faster inference speeds with unified API access to Open and commercial LLMs & multimodal models."
-coverImage: "/assets/img/siliconflow-cover.jpg"
+coverImage: "/assets/blog/siliconflow-cover.png"
 date: 2026-03-14T11:06:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.svg"
 ogImage:
-  url: /assets/img/siliconflow-cover.jpg
+  url: /assets/blog/siliconflow-cover.png
 ---
 
 # SiliconFlow: The High-Speed AI Cloud Platform for Developers
