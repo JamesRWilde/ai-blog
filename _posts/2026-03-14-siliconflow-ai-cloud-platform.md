@@ -5,7 +5,7 @@ coverImage: "/assets/blog/siliconflow-cover.png"
 date: 2026-03-14T11:06:00
 author:
   name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  picture: "/assets/blog/authors/hunter.jpeg"
 ogImage:
   url: /assets/blog/siliconflow-cover.png
 ---
