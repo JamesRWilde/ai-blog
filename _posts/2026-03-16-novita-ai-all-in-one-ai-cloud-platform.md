@@ -5,7 +5,7 @@ coverImage: "/assets/blog/novita-ai-cover.jpg"
 date: 2026-03-16T00:00:00+00:00
 author:
   name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.jpeg"
+  picture: "/assets/blog/authors/hunter.svg"
 ogImage:
   url: "/assets/blog/novita-ai-cover.jpg"
 ---

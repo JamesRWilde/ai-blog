@@ -5,7 +5,7 @@ coverImage: "/assets/blog/modal-cover.jpg"
 date: 2026-03-15T13:00:00+00:00
 author:
   name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.jpeg"
+  picture: "/assets/blog/authors/hunter.svg"
 ogImage:
   url: "/assets/blog/modal-cover.jpg"
 ---

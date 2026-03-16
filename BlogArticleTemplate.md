@@ -5,7 +5,7 @@ coverImage: "/assets/blog/firecrawl-cover.jpg"         # REQUIRED — must be a 
 date: 2026-03-15T12:00:00+00:00                       # REQUIRED — ISO 8601 format
 author:
   name: Hunter McQueen                                 # LOCKED — do not change
-  picture: "/assets/blog/authors/hunter.jpeg"  # LOCKED — do not change
+  picture: "/assets/blog/authors/hunter.svg"                                 # LOCKED — do not change
 ogImage:
   url: "/assets/blog/firecrawl-cover.jpg"              # REQUIRED — same as coverImage
 ---
@@ -34,7 +34,7 @@ Brief summary...
 
 2. **Author is LOCKED — DO NOT CHANGE.**
    - name: `Hunter McQueen` (exactly, no variations)
-   - picture: `/assets/blog/authors/hunter.jpeg` (not .svg, not .png, not any other file)
+   - picture: `/assets/blog/authors/hunter.svg` (not .jpeg, not .png, not any other file)
    - ⚠️ DO NOT use any other author name or avatar file. This is a solo-author blog.
 
 3. **ogImage.url must match coverImage.** Copy-paste it.
