@@ -1,13 +1,13 @@
 ---
 title: "Multiverse Computing's CompactifAI API Brings Compressed NVIDIA Nemotron 3 Models to Developers"
 excerpt: "The Spanish AI compression startup is adding NVIDIA's Nemotron 3 family to its CompactifAI API, promising 95% model compression with minimal accuracy loss."
-coverImage: "/assets/blog/multiverse-computing-cover.png"
+coverImage: "/assets/blog/multiverse-computing-cover.jpg"
 date: 2026-03-17T12:30:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.svg"
 ogImage:
-  url: "/assets/blog/multiverse-computing-cover.png"
+  url: "/assets/blog/multiverse-computing-cover.jpg"
 ---
 
 ## TL;DR

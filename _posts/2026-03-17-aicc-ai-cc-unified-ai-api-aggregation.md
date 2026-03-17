@@ -1,18 +1,18 @@
 ---
 title: "AICC (AI.cc): Unified AI API Aggregation for 300+ Models"
 excerpt: "A single API endpoint that gives you access to over 300 AI models with OpenAI-compatible formatting, up to 80% cost savings, and zero vendor lock-in."
-coverImage: "/assets/blog/aicc-ai-cc-cover.jpg"
+coverImage: "/assets/blog/aicc-ai-cc-cover.png"
 date: 2026-03-17T14:00:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.svg"
 ogImage:
-  url: "/assets/blog/aicc-ai-cc-cover.jpg"
+  url: "/assets/blog/aicc-ai-cc-cover.png"
 ---
 
 ## TL;DR
 
-AICC (AI.cc) is a unified AI API aggregation platform that routes requests to over 300 models through a single OpenAI-compatible endpoint. Swap your `base_url` and API key, and you get access to GPT-4o, Claude, Gemini, DeepSeek, Qwen, and dozens more, with pricing that undercuts direct provider rates by 20 to 80 percent.
+[AICC (AI.cc)](https://www.ai.cc/) is a unified AI API aggregation platform that routes requests to over 300 models through a single OpenAI-compatible endpoint. Swap your `base_url` and API key, and you get access to GPT-4o, Claude, Gemini, DeepSeek, Qwen, and dozens more, with pricing that undercuts direct provider rates by 20 to 80 percent.
 
 ## The Problem
 
@@ -114,3 +114,10 @@ AICC is a pragmatic solution to a real problem. Managing multiple AI provider in
 The bigger question is whether the aggregation layer becomes essential infrastructure or a temporary convenience. As model providers compete harder on price and simplify their own APIs, the value of a middleman narrows. But for now, in March 2026, the math works.
 
 If you are spending more than $100/month on AI APIs and using more than one provider, it is worth running the numbers on AICC. The free tier costs nothing to try, and swapping a base URL is a five-minute experiment.
+
+## Links
+
+- [AICC (AI.cc)](https://www.ai.cc/)
+- [Documentation](https://www.ai.cc/about/)
+- [Pricing](https://www.ai.cc/enterprise-plans/)
+- [DeepSeek API via AICC](https://www.ai.cc/deepseek/)
