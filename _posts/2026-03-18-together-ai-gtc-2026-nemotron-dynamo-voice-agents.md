@@ -1,13 +1,13 @@
 ---
 title: "Together AI Unveils Voice Agents, Nemotron 3 Super, and NVIDIA Dynamo Integration at GTC 2026"
 excerpt: "Together AI goes big at NVIDIA GTC 2026 with Nemotron 3 Super on dedicated inference, Parakeet-powered voice agents, and NVIDIA Dynamo 1.0 integration for production-scale AI."
-coverImage: "/assets/blog/together-ai-gtc-2026-cover.jpg"
+coverImage: "/assets/blog/together-ai-cover.png"
 date: 2026-03-18T11:00:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.svg"
 ogImage:
-  url: "/assets/blog/together-ai-gtc-2026-cover.jpg"
+  url: "/assets/blog/together-ai-cover.png"
 ---
 
 ## TL;DR
