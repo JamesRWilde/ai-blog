@@ -22,13 +22,15 @@ export function getPostBySlug(slug: string) {
   if (!data.coverImage) {
     missing.push(`coverImage — add it to _posts/${realSlug}.md and put the image in public/assets/blog/`);
   } else {
-    // Check the image file actually exists on disk
-    const imgPath = join(process.cwd(), "public", data.coverImage);
-    if (!fs.existsSync(imgPath)) {
-      throw new Error(
-        `Post "${realSlug}": coverImage "${data.coverImage}" not found at ${imgPath}. ` +
-        `Add the image file to public/assets/blog/`
-      );
+    // Check the image file actually exists on disk (skip check for external URLs)
+    if (!data.coverImage.startsWith("http://") && !data.coverImage.startsWith("https://")) {
+      const imgPath = join(process.cwd(), "public", data.coverImage);
+      if (!fs.existsSync(imgPath)) {
+        throw new Error(
+          `Post "${realSlug}": coverImage "${data.coverImage}" not found at ${imgPath}. ` +
+          `Add the image file to public/assets/blog/`
+        );
+      }
     }
   }
   if (!data.ogImage?.url) missing.push("ogImage.url");
