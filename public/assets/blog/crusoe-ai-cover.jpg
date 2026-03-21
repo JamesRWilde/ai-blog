@@ -1,0 +1,1308 @@
+<!DOCTYPE html><!-- Last Published: Fri Mar 20 2026 17:57:32 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.crusoe.ai" data-wf-page="6877ac6de0d3a35d49c5610b" data-wf-site="6855c1aa175582ee23e0aa19" data-wf-intellimize-customer-id="117827212" lang="en" data-wf-experiences="417252074"><head><meta charset="utf-8"/><title>Not Found</title><meta content="Not Found" property="og:title"/><meta content="Not Found" property="twitter:title"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/css/crusoe-staging.shared.9d90ffcfd.min.css" rel="stylesheet" type="text/css" integrity="sha384-nZD/z9Lub7+3ysirfzurepdrT9lPA3hgzSxSCmJENk50w4xWhvieEfu7tiCSBrvD" crossorigin="anonymous"/><style>html.w-mod-js:not(.w-mod-ix3) :is([data-anima="split-line"], [data-anima="fade-in"], [data-anima="word-reveal"], [data-anima="scale-in"]) {visibility: hidden !important;}</style><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/687fc08be763a844e55c26ca_32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68934b7ef165ad996914d921_Webclip.png" rel="apple-touch-icon"/><link href="https://www.crusoe.ai/404" rel="canonical"/><style>.anti-flicker, .anti-flicker * {visibility: hidden !important; opacity: 0 !important;}</style><style>[data-wf-hidden-variation], [data-wf-hidden-variation] * {
+        display: none !important;
+      }</style><script type="text/javascript">localStorage.removeItem('intellimize_opt_out_117827212'); if (localStorage.getItem('intellimize_data_tracking_type') !== 'always') { localStorage.setItem('intellimize_data_tracking_type', 'always'); }</script><script type="text/javascript">(function(e){var s={r:[]};e.wf={r:s.r,ready:t=>{s.r.push(t)}}})(window)</script><script type="text/javascript">(function(e,t,p){var n=document.documentElement,s={p:[],r:[]},u={p:s.p,r:s.r,push:function(e){s.p.push(e)},ready:function(e){s.r.push(e)}};e.intellimize=u,n.className+=" "+p,setTimeout(function(){n.className=n.className.replace(RegExp(" ?"+p),"")},t)})(window, 4000, 'anti-flicker')</script><link href="https://cdn.intellimize.co/snippet/117827212.js" rel="preload" as="script"/><script type="text/javascript">var wfClientScript=document.createElement("script");wfClientScript.src="https://cdn.intellimize.co/snippet/117827212.js",wfClientScript.async=!0,wfClientScript.onerror=function(){document.documentElement.className=document.documentElement.className.replace(RegExp(" ?anti-flicker"),"")},document.head.appendChild(wfClientScript);</script><link href="https://api.intellimize.co" rel="preconnect" crossorigin="true"/><link href="https://log.intellimize.co" rel="preconnect" crossorigin="true"/><link href="https://117827212.intellimizeio.com" rel="preconnect"/><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-ND865CWJ');</script>
+<!-- End Google Tag Manager -->
+
+<style>
+.card-item .card-dp-wr {
+  max-height: 0px;
+}
+.card-item.open .card-dp-wr {
+  max-height: 500px;
+}
+.card-item.open .is-card-arrow{
+	transform: rotateZ(180deg);
+}
+.ts-h3-scroll .char {
+  display: inline-block;
+  will-change: color;
+}
+</style>
+<style>
+.ts-h3-scroll {
+  white-space: normal;
+  word-break: normal;
+}
+
+.ts-h3-scroll .word {
+  white-space: nowrap; 
+}
+
+.ts-h3-scroll .char {
+  display: inline-block;
+}
+.nav__banner{
+	display: none;
+}
+.nav__banner.show{
+	display: block;
+}
+
+</style>
+<!-- Light/Dark Favicon/Apple Touch -->
+<script>
+  let faviconEl = document.querySelector('link[rel="icon"]') || document.querySelector('link[rel="shortcut icon"]');
+
+  if (!faviconEl) {
+    faviconEl = document.createElement('link');
+    faviconEl.setAttribute('rel', 'icon');
+    document.head.appendChild(faviconEl);
+  }
+
+  const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  mediaQuery.addEventListener('change', handleThemeChange);
+  document.addEventListener('visibilitychange', handleVisibilityChange);
+
+  function updateFavicon() {
+    const url = mediaQuery.matches
+    ? 'https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68810f752a17aa45c260d10a_favicon-dark.png' // Light
+    : 'https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68810f754d7b9bee542b3310_favicon-light.png'; // Dark
+    faviconEl.setAttribute('href', url);
+  }
+
+  function handleThemeChange() {
+    updateFavicon();
+  }
+
+  function handleVisibilityChange() {
+    if (!document.hidden) {
+      updateFavicon();
+    }
+  }
+  updateFavicon();
+</script>
+<!-- Paste this right before your closing head tag -->
+<script type="text/javascript">
+    (function (f, b) { if (!b.__SV) { var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) { function g(a, d) { var b = d.split("."); 2 == b.length && ((a = a[b[0]]), (d = b[1])); a[d] = function () { a.push([d].concat(Array.prototype.slice.call(arguments, 0))); }; } var a = b; "undefined" !== typeof c ? (a = b[c] = []) : (c = "mixpanel"); a.people = a.people || []; a.toString = function (a) { var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d; }; a.people.toString = function () { return a.toString(1) + ".people (stub)"; }; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split( " "); for (h = 0; h < i.length; h++) g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function () { function b(c) { d[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2]); }; } for ( var d = {}, e = ["get_group"].concat( Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++) b(j[c]); return d; }; b._i.push([e, f, c]); }; b.__SV = 1.2; e = f.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === f.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; g = f.getElementsByTagName("script")[0]; g.parentNode.insertBefore(e, g); } })(document, window.mixpanel || []);
+
+const PUBLIC_MIXPANEL_TOKEN='8042b3dec0bfff4aa17111d4d235a511'
+mixpanel.init('PUBLIC_MIXPANEL_TOKEN', { track_pageview: true, persistence: "localStorage" });
+mixpanel.track_pageview();
+</script><style>
+
+.header {
+  
+  border-bottom-color: #181717;
+}
+</style>
+</head><body><div class="page-wrapper is-contact"><div class="styles"><div class="global-styles w-embed"><style>
+
+/* Make text look crisper and more legible in all browsers */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+/* Create a class of .div-square which maintains a 1:1 dimension of a div */
+.div-square::after {
+	content: "";
+	display: block;
+	padding-bottom: 100%;
+}
+
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large, .container-huge {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/* 
+Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+*/
+/*
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+*/
+
+/* Apply "..." after 3 lines of text */
+.ts-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.ts-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+/* Apply "..." after 1 lines of text */
+.ts-1line {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+}
+/* Adds inline flex display */
+.display-inlineflex {
+  display: inline-flex;
+}
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 991px), 
+  @media screen and (max-width: 767px), 
+  @media screen and (max-width: 479px){
+    .hide, .hide-tablet{
+      display: none !important;
+    }
+  }
+  @media screen and (max-width: 767px)
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+  }
+  @media screen and (max-width: 479px)
+    .hide-mobile{
+      display: none !important;
+    }
+  }
+
+/* Removes native scrollbar */  
+.no-scrollbar,  
+[data-scrollbar="none"] {  
+    -ms-overflow-style: none;  /* For Internet Explorer and Edge */  
+    overflow: -moz-scrollbars-none; /* For Firefox */  
+}  
+
+.no-scrollbar::-webkit-scrollbar,  
+[data-scrollbar="none"]::-webkit-scrollbar {  
+    display: none; /* For Chrome, Safari, and Opera */  
+}
+@media screen and (min-width: 992px){
+  body:has(.nav__banner.show) .section.is-hero{
+    height: calc(100vh - 15.25rem);
+    max-height: 62rem;
+    min-height: 50.5rem;
+  }
+}
+@media screen and (max-width: 992px){
+	body:has(.nav__banner.show) .section.is-hero{
+    min-height: 41.25rem;
+  }
+}
+@media screen and (max-width: 479px) {
+  .nav__banner[data-banner-mobile="vertical"] .nav-banner-content-mobile{
+    display: flex;
+    text-align: left;
+  }
+  .nav__banner[data-banner-mobile="vertical"] .banner-text{
+    display: block;
+  }
+  body:has(.nav__banner.show) .section.is-hero.is-home{
+  	height: auto;
+  }
+}
+p a{
+	color: #181717;
+}
+</style></div><div class="project-styles w-embed"><style>
+.button .embed-icon{
+	transform: translateX(0);
+  transition: ease 250ms transform;
+}
+.button:hover .embed-icon{
+	transform: translateX(4px);
+}
+.report-div:hover .button .embed-icon{
+	transform: translateX(4px);
+}
+
+
+
+.block-btn-form .embed-icon{
+	transform: translateX(0);
+  transition: ease 250ms transform;
+}
+.block-btn-form:hover .embed-icon{
+	transform: translateX(4px);
+}
+
+.partners {
+  width: 100%;
+}
+
+.logo-list {
+  display: flex;
+  flex-shrink: 0;
+  animation: scroll-left 20s linear infinite;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+
+.card-dp-wr .dropdown-global-wr:first-child{
+	border-top: 1px solid #000;
+}
+.dropdown-global-wr .plus-minus-line.is-02{
+	transform: rotateZ(90deg);
+}	
+.dropdown-global-wr:has(.dropdown-toggle-global.w--open) .plus-minus-line.is-02{
+	transform: rotateZ(0deg);
+}	
+
+.blog-link .blog-image,
+.video-cover-wr .video-cover-image{
+	transform: scale(1);
+}
+.blog-link:hover .blog-image,
+.video-cover-wr:hover .video-cover-image{
+	transform: scale(1.05);
+}
+
+.quote-slide-wr:has([data-quote-video="true"]) .quote-author-wr .ts-subtitle--small{
+	color: #fff;
+}
+.quote-slide-wr:has([data-quote-video="true"]){
+	border: none;
+}
+.quote-slide-wr .quote-video-image{
+	transform: scale(1);
+}
+.quote-slide-wr:hover .quote-video-image{
+	transform: scale(1.05);
+}
+.slider-arrow.swiper-button-disabled{
+	opacity: .25;
+}
+
+.blog-filters-wr input:checked ~ .filter-radio_label{
+	border-color: #000;
+  color: #181717;
+}
+
+.dropdown-global-wr .plus-minus{
+	z-index: 3;
+}
+.dropdown-global-wr:has(.w-dropdown-toggle.w--open) .plus-minus{
+	z-index: 5;
+}
+.hero-slider-pg .swiper-pagination-bullet{
+	width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 100%;
+  background-color: #fff;
+  color: #181717;
+  opacity: 1!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.875rem;
+	line-height: 10px;
+  padding-top: 5px;
+  padding-bottom: 4px;
+}
+.hero-slider-pg .swiper-pagination-bullet.swiper-pagination-bullet-active{
+	background-color: #181717;
+  color: #fff;
+}
+.hm-tabs-link .embed-icon{
+	transform: translateX(0px);
+  transition: 250ms ease transform;
+}
+.hm-tabs-link:hover .embed-icon{
+	transform: translateX(5px);
+}
+body:has(.nav__banner.show) .section.is-hero.is-twist{
+	min-height: auto;
+  height: auto;
+  max-height: auto;
+}
+
+.mktoForm .mktoError{
+	bottom: 0!important;
+}
+.mktoForm .mktoRadioList, .mktoForm .mktoCheckboxList{
+	padding-top: 1px!important;
+}
+.mktoForm, .mktoForm input[type=text], .mktoForm input[type=url], .mktoForm input[type=email], .mktoForm input[type=tel], .mktoForm input[type=number], .mktoForm input[type=date], .mktoForm textarea.mktoField, .mktoForm select.mktoField, .mktoForm .mktoLabel{
+	font-family: inherit !important;
+}
+.mktoButtonRow{
+	order: 9999;
+}
+.mktoForm input[type=text], .mktoForm input[type=url], .mktoForm input[type=email], .mktoForm input[type=tel], .mktoForm input[type=number], .mktoForm input[type=date], .mktoForm select.mktoField, .mktoForm textarea.mktoField{
+	width: 100%!important;
+}
+.mktoForm.mktoLayoutAbove .mktoLabel{
+	width: 0px!important;
+}
+.mktoForm .mktoFieldWrap,
+.mktoForm .mktoFormCol{
+	width: 100%;
+}
+#mktoForm_1053 > div:nth-child(11) > div.mktoFieldDescriptor.mktoFormCol{
+	width: auto;
+}
+.mktoHtmlText.mktoHasWidth{
+	width: 100%!important;
+}
+.mktoForm{
+	width: 100%!important;
+}
+.mktoLogicalField{
+	width: 100%!important;
+}
+input[type=checkbox]{
+	margin-top: 2px !important;
+}
+
+
+.gpu-slides-list .w-dyn-item:first-child .cloud-slider-image{
+  	position: relative;
+  }
+  .swiper-slide.is-b-slider.swiper-slide-active{
+  	opacity: 1;
+  }
+  .swiper.is-slider-b:has(.swiper-slide.is-b-slider.is-hover-active) .swiper-slide.is-b-slider.swiper-slide-active{
+    opacity: 0.4;
+  }
+  .swiper.is-slider-b:has(.swiper-slide.is-b-slider.is-hover-active) .swiper-slide.is-b-slider.is-hover-active{
+    opacity: 1;
+  }
+  .header{
+  	border-color: #a3a3a3;
+  }
+  h1 sup{
+  	font-size: 1.5rem;
+    top: -2.45rem;
+  }
+  @media screen and (max-width: 992px) {
+  	h1 sup{
+      font-size: 1rem;
+      top: -.9rem;
+    }
+  }
+  @media screen and (min-width: 767px) {
+  	.gpu-m-item:hover .gpu-metric-rich{
+      color: #fff;
+    }
+  }
+  @media screen and (max-width: 767px) {
+  	.gpu-metric-dp .gpu-metric-dp-tg .gpu-m-item-col.is-title.is-dp{
+  		color: #A3A3A3;
+  	}
+    .gpu-metric-dp.is-open .gpu-metric-dp-tg .gpu-m-item-col.is-title.is-dp{
+  		color: #CEEB13;
+  	}
+    .gpu-metric-dp .gpu-m-icon,
+    .gpu-metric-dp .gpu-metric-plus-line{
+    	background-color: #A3A3A3;
+    }
+    .gpu-metric-dp.is-open .gpu-m-icon,
+    .gpu-metric-dp.is-open .gpu-metric-plus-line{
+    	background-color: #CEEB13;
+    }
+    .gpu-metric-dp .gpu-metric-plus-line.is-02{
+    	transform: rotateZ(0deg);
+    }
+    .gpu-metric-dp.is-open .gpu-metric-plus-line.is-02{
+    	transform: rotateZ(90deg);
+    }
+    .gpu-metric-dp.is-open .gpu-metric-dp-list{
+    	max-height: 400px;
+    }
+  }
+  
+  .cta-bg-video{
+  	object-fit: cover;
+  }
+  
+  
+
+  .footer form .mktoFormRow:first-of-type {
+    display: flex!important;
+	}
+  .footer form .mktoError{
+    bottom: -32px!important;
+  }
+  .footer form .mktoFormRow:has(#Email) .mktoError, .footer form .mktoFormRow:has(#Phone) .mktoError{
+  	bottom: -32px!important;
+  }
+  .footer .mktoForm input[type=text],
+  .footer .mktoForm input[type=url],
+  .footer .mktoForm input[type=email],
+  .footer .mktoForm input[type=tel],
+  .footer .mktoForm input[type=number],
+  .footer .mktoForm input[type=date],
+  .footer .mktoForm select.mktoField{
+  	background-color: #2A2A2A!important;
+    color: #6B7280!important;
+    border: unset!important;
+  }
+  .footer .mktoForm input[type=text]:focus,
+  .footer .mktoForm input[type=url]:focus,
+  .footer .mktoForm input[type=email]:focus,
+  .footer .mktoForm input[type=tel]:focus,
+  .footer .mktoForm input[type=number]:focus,
+  .footer .mktoForm input[type=date]:focus,
+  .footer .mktoForm select.mktoField:focus,
+  .footer .mktoForm textarea.mktoField:focus{
+  	background-color: #2A2A2A!important;
+    color: #6B7280!important;
+    border: unset!important;
+  }
+  #mktoForm_1282 input[type=text], #mktoForm_1282 input[type=url], #mktoForm_1282 input[type=email], #mktoForm_1282 input[type=tel], #mktoForm_1282 input[type=number], #mktoForm_1282 input[type=date], #mktoForm_1282 select.mktoField{
+  	background-color: #2A2A2A!important;
+    color: #6B7280!important;
+    border: unset!important;
+  }
+  #mktoForm_1282 input[type=text]:focus, #mktoForm_1282 input[type=url]:focus, #mktoForm_1282 input[type=email]:focus, #mktoForm_1282 input[type=tel]:focus, #mktoForm_1282 input[type=number]:focus, #mktoForm_1282 input[type=date]:focus, #mktoForm_1282 select.mktoField:focus, #mktoForm_1282 textarea.mktoField:focus{
+  	background-color: #2A2A2A!important;
+    color: #6B7280!important;
+    border: unset!important;
+  }
+  .footer .mktoForm input[type=text],
+  .footer .mktoForm input[type=email]{
+  	padding: 0.688rem .75rem!important; 
+  }
+	.footer form{
+  	padding: 0px!important;
+  }
+  
+  
+ h2 sup{
+ 	  font-size: 1.125rem;
+    top: -.8rem;
+ }
+ @media screen and (max-width: 600px) {
+    h2 sup{
+      font-size: .875rem;
+      top: -.5rem;
+   }
+ }
+</style></div></div><div class="page-styles"><div class="cc-levels w-embed"><style>
+.hm-levels-tab.is-open{
+	background-color: #fff;
+  border-color: #000;
+}
+.hm-levels-tab.is-open .hm-level-tab-line.is-02{
+	transform: rotateZ(180deg);
+}
+.hm-levels-tab .hm-level-tab_info-wr{
+	opacity: 0;
+  transform: translateY(10px);
+}
+.hm-levels-tab .hm-level-tab_info-wr{
+	opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 150ms ease, transform 150ms ease;
+  transition-delay: 0ms;
+}
+.hm-levels-tab.is-open .hm-level-tab_info-wr{
+	opacity: 1;
+  transform: translateY(0px);
+  transition: opacity 250ms ease, transform 250ms ease;
+  transition-delay: 500ms;
+}
+.hm-level-01-active,
+.hm-level-02-active,
+.hm-level-03-active,
+.hm-level-04-active{
+	opacity: 0;
+}
+.hm-com-lottie:has(.hm-levels-tab.is-open) .hm-level-01-active,
+.hm-com-lottie:has(.hm-levels-tab.is-open) .hm-level-02-active,
+.hm-com-lottie:has(.hm-levels-tab.is-open) .hm-level-03-active,
+.hm-com-lottie:has(.hm-levels-tab.is-open) .hm-level-04-active{
+	opacity: 1;
+}
+
+
+.hm-com-lotties:has(.hm-levels-tab.is-02.is-open) .hm-com-lottie.is-1{
+	transform: translateY(-30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-02.is-open) .hm-com-lottie.is-3{
+	transform: translateY(30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-02.is-open) .hm_level_02-arrows-image{
+	transform: translateY(-30px);
+}
+
+.hm-com-lotties:has(.hm-levels-tab.is-3.is-open) .hm-com-lottie.is-1{
+	transform: translateY(-30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-3.is-open) .hm-com-lottie.is-2{
+	transform: translateY(-30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-3.is-open) .hm-com-lottie.is-3{
+	transform: translateY(30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-3.is-open) .hm_level_02-arrows-image{
+	transform: translateY(-30px);
+}
+
+.hm-com-lotties:has(.hm-levels-tab.is-04.is-open) .hm-com-lottie.is-1{
+	transform: translateY(-30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-04.is-open) .hm-com-lottie.is-2{
+	transform: translateY(-30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-04.is-open) .hm-com-lottie.is-3{
+	transform: translateY(-30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-04.is-open) .hm-com-lottie.is-4{
+	transform: translateY(30px);
+}
+.hm-com-lotties:has(.hm-levels-tab.is-04.is-open) .hm_level_02-arrows-image{
+	transform: translateY(-30px);
+}
+
+</style></div><div class="cc-card-hovers w-embed"><style>
+.card-hover-trigger{
+	width: calc(100% / 4);
+  background-color: #CED2CB;
+}
+.card-hover-trigger .card-hover-button-wr{
+	opacity: 0;
+  transition: opacity 500ms ease;
+  transition-delay: 0ms;
+}
+.card-hover-trigger .card-hover-image-wr{
+	opacity: 0;
+  transition: opacity 0ms ease;
+  transition-delay: 0ms;
+}
+.card-hover-trigger .card-hover-arrow{
+	opacity: 1;
+  transition: opacity 500ms ease;
+  transition-delay: 0ms;
+}
+.card-hover-trigger .card-hover-company,
+.card-hover-trigger .card-hover-model{
+	color: #181717;
+}
+.card-hover-trigger.is-active{
+	width: 100%;
+  max-width: 36.875rem;
+  background-color: #000000;
+}
+
+.card-hover-trigger.is-active .card-hover-company{
+	color: #CEEB13;
+  opacity: 1;
+}
+.card-hover-trigger.is-active .card-hover-model{
+	color: #fff;
+  font-size: 5rem;
+}
+.card-hover-trigger.is-active .card-hover-arrow{
+	opacity: 0;
+  transition: opacity 500ms ease;
+  transition-delay: 500ms;
+}
+.card-hover-trigger.is-active .card-hover-button-wr{
+	opacity: 1;
+  transition: opacity 500ms ease;
+	transition-delay: 500ms;
+}
+.card-hover-trigger.is-active .card-hover-image-wr{
+	opacity: 1;
+  transition: opacity 500ms ease;
+  transition-delay: 500ms;
+}
+
+
+@media screen and (max-width: 922px) {
+  .card-hover-trigger{
+    width: 100%;
+  }
+}
+</style></div></div><nav data-wf--navbar--variant="dark" class="header-wr"><div class="nav-styles w-embed"><style>
+body:has(.nav__menu-button.is-open) .nav__banner.show{
+	display: none!important;
+}
+
+#header .header__bg{
+	opacity: 0;
+}
+#header.scroll .header__bg{
+	opacity: 1;
+}
+#header.scroll{
+	border-color: #181717;
+}
+#header .header__brand,
+#header .nav-link,
+#header .nav__dd-trigger{
+	color: #fff;
+}
+#header .nav__dd_link{
+	color: #fff;
+}
+[data-wf--navbar--variant="dark"] #header .header__brand,
+[data-wf--navbar--variant="dark"] #header .nav-link,
+[data-wf--navbar--variant="dark"] #header .nav__dd-trigger,
+[data-wf--navbar--variant="dark"] #header .nav__dd_link,
+[data-wf--navbar--variant="dark"] #header .nav__dd_link-single{
+	color: #000;
+}
+[data-wf--navbar--variant="dark"] #header.scroll .header__brand,
+[data-wf--navbar--variant="dark"] #header.scroll .nav-link,
+[data-wf--navbar--variant="dark"] #header.scroll .nav__dd-trigger,
+[data-wf--navbar--variant="dark"] #header.scroll .nav__dd_link,
+[data-wf--navbar--variant="dark"] #header.scroll .nav__dd_link-single{
+	color: #fff;
+}
+#header.scroll .header__bg,
+#header:has(.nav__dd-trigger.w--open) .header__bg {  
+  opacity: 1;  
+}
+#header:has(.nav__dd-trigger.w--open) .nav-overlay{
+	opacity: .4;
+  pointer-events: auto;
+}
+.nav__dd-trigger.w--open .nav__dd_arrow {
+	 transform: rotateZ(180deg);
+}
+
+/*#header.scroll #is-login,
+#header:has(.nav__dd-trigger.w--open) #is-login,
+#header.scroll .button.is-secondary.button-nav_signup,
+#header:has(.nav__dd-trigger.w--open) .button.is-secondary.button-nav_signup{
+	background-color: #fff;
+  color: #181717;
+}*/
+#header:has(.nav__dd-trigger.w--open) .button.is-gh,
+#header.scroll .button.is-gh{
+	border-color: #fff;
+  color: #fff;
+}
+#header:has(.nav__dd-trigger.w--open) .button.is-gh:hover,
+#header.scroll .button.is-gh:hover{
+	border-color: #a3a3a3;
+  color: #fff;
+}
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .button.is-gh:hover,
+[data-wf--navbar--variant="dark"] #header.scroll .button.is-gh:hover{
+	border-color: #565859;
+  color: #fff;
+}
+#header .nav__dd_link:hover{
+	background-color: #CEEB13;
+  color: #181717;
+}
+
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .header__brand,
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .nav-link,
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .nav__dd-trigger,
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .nav__dd_link,
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .nav__dd_link-single{
+	color: #fff;
+}
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .nav__dd_link:hover{
+	color: #181717;
+}
+[data-wf--navbar--variant="dark"] #header:has(.nav__menu-button.is-open) .header__brand,
+[data-wf--navbar--variant="dark"] #header:has(.nav__menu-button.is-open) .nav-link,
+[data-wf--navbar--variant="dark"] #header:has(.nav__menu-button.is-open) .nav__dd-trigger,
+[data-wf--navbar--variant="dark"] #header:has(.nav__menu-button.is-open) .nav__dd_link,
+[data-wf--navbar--variant="dark"] #header:has(.nav__dd-trigger.w--open) .nav__dd_link-single{
+	color: #fff;
+}
+
+[data-wf--navbar--variant="dark"] .nav__menu-button.is-open .nav-line{
+	background-color: #fff!important;
+}
+[data-wf--navbar--variant="dark"] #header.scroll .nav__menu-button .nav-line{
+	background-color: #fff!important;
+}
+
+.nav__menu-list::-webkit-scrollbar {
+  width: 0px;
+}
+.nav__menu-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+.nav__menu-list::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+.nav__menu-list::-webkit-scrollbar-thumb:hover {
+  background: transparent;
+}
+.nav__dd_link:last-child{
+	border: none;
+}
+
+.sub_dd-nav:has(.sub_dd-nav-tg.w--open){
+	background-color: #CEEB13;
+}
+.sub_dd-nav:has(.sub_dd-nav-tg.w--open) .sub_dd-nav-tg{
+	color: #181717;
+}
+.sub_dd-nav .nav__dd_arrow-nest{
+	transform: rotateZ(-90deg);
+}
+.sub_dd-nav:has(.sub_dd-nav-tg.w--open) .nav__dd_arrow-nest{
+	transform: rotateZ(0deg);
+}
+
+
+@media screen and (min-width: 1024px) {
+	.nav__dd_link-single .nav__dd_link-text{
+    position: relative;
+    display: inline-block; 
+  }
+
+  .nav__dd_link-single .nav__dd_link-text::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 1px;
+    background: #fff;
+
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 250ms ease;
+  }
+
+  .nav__dd_link-single:hover .nav__dd_link-text::after{
+    transform: scaleX(1);
+  }
+
+  .nav__dd_link-single:focus-within .nav__dd_link-text::after{
+    transform: scaleX(1);
+  }
+  
+  [data-wf--navbar--variant="dark"] .nav__dd_link-single .nav__dd_link-text::after{
+  	background: #000;
+  }
+}
+@media screen and (max-width: 1024px) {
+	#header .nav__menu-list{
+  	display: block;
+    transform: translateY(-10px);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: transform 500ms ease, opacity 500ms ease, visibility 0s linear 500ms;
+  }
+	#header:has(.nav__menu-button.is-open) .nav__menu-list{
+		transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transition: transform 500ms ease, opacity 500ms ease;
+	}
+}
+@media screen and (min-width: 1024px) and (max-width: 1152px) {
+	.nav-link,
+  .nav__dd-trigger,
+  .nav__dd_link-single{
+  	padding-left: 0.5rem;
+    padding-right: 0.5rem
+  }
+  .nav__dd-trigger,
+  .nav__dd_link-single{
+  	font-size: 0.725rem;
+  }
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+	.nav__menu-button{
+		display: flex;
+	}
+  .nav__menu-list{
+  	display: none;
+    z-index: 10;
+    background-color: var(--black);
+    width: 100%;
+    max-height: 100dvh;
+    padding-top: 3.75rem;
+    position: fixed;
+    inset: 0% 0% auto;
+  }
+  .header__container{
+  	height: 4.5rem;
+  }
+  .nav__menu {
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: var(--colors--white);
+    flex-flow: column;
+    max-height: calc(100dvh - 52px);
+    padding-top: 2.5rem;
+    overflow: auto;
+  }
+  .nav__dd {
+    border-bottom: 1px solid var(--stone-grey);
+    width: 100%;
+  }
+  .nav__dd-trigger {
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.188rem 1.25rem;
+  }
+  .nav__dd-content.w--open {
+    background-color: #18171700;
+    padding-bottom: 1rem;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  #header .nav__dd_link {
+    color: #CED2CB;
+  }
+  .nav__dd_link-single {
+    text-align: left;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1.188rem 1.25rem;
+  }
+  .nav__dd-single{
+  	border-bottom: 1px solid #a3a3a3!important;
+  }
+  [data-wf--navbar--variant="dark"] #header .nav__dd_link-single {
+    color: #fff;
+  }
+  .header__container{
+  	height: 4.5rem;
+  }
+  .header__brand {
+    z-index: 12;
+    position: relative;
+  }
+  .nav__list-item.is-buttons{
+  	padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+            justify-content: flex-start;
+  }
+  [data-wf--navbar--variant="dark"] .button.is-gh{
+  	border-color: #fff;
+    color: #fff;
+  }
+}
+@media screen and (max-width: 991px) {
+  #header .nav-link:hover{
+  	background-color: #181717;
+    color: #fff;
+  }
+  [data-wf--navbar--variant="dark"] #header .nav__dd_link{
+  	color: #D1D1D1;
+  }
+  [data-wf--navbar--variant="dark"] #header .nav__dd_link:hover{
+  	color: #D1D1D1;
+  }
+  [data-wf--navbar--variant="dark"] #header .nav__dd_link-single{
+  	color: #fff;
+  }
+  /*#is-login,
+  #is-login,
+  .button.is-secondary.button-nav_signup,
+  .button.is-secondary.button-nav_signup{
+    background-color: #fff;
+    color: #181717;
+  }*/
+  #header .nav__dd_link{
+    color: #CED2CB;
+  }
+}
+  
+</style></div><div id="header" data-anima-intro="nav" class="header w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5"><div class="header__container"><a aria-label="homepage" data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:01aa97fc-7166-36e2-8b5c-c02fc02bbebe" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="01aa97fc-7166-36e2-8b5c-c02fc02bbebe" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/" class="header__brand w-inline-block"><div class="embed-icon w-embed"><svg width="119" height="29" viewBox="0 0 119 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M115.267 5.34376L114.68 4.75726C114.552 4.63151 114.417 4.67255 114.379 4.84408L114.013 6.47824C113.975 6.64977 114.046 6.89461 114.174 7.02035L114.5 7.36082C114.619 7.49375 114.768 7.46607 114.831 7.30073L115.371 5.87886C115.434 5.71167 115.384 5.47107 115.263 5.33995L115.269 5.3401L115.267 5.34376ZM111.067 2.25613L110.446 1.96927C110.281 1.90006 110.166 1.98428 110.189 2.16112L110.495 4.40435C110.518 4.57934 110.673 4.77997 110.838 4.84917L111.213 4.99796C111.376 5.07268 111.501 4.99056 111.491 4.81221L111.379 2.71866C111.368 2.54216 111.231 2.3327 111.069 2.25433L111.067 2.25613ZM99.8985 1.66918L99.2215 1.93368C99.0579 2.0018 99.0331 2.15328 99.1693 2.2681L102.343 4.9508C102.481 5.06381 102.726 5.10169 102.89 5.02986L103.256 4.86677C103.423 4.79875 103.452 4.64366 103.323 4.51977L100.443 1.78156C100.315 1.65766 100.069 1.60867 99.9023 1.66742L99.9004 1.66738L99.8985 1.66918ZM99.901 6.67606L95.6706 4.47064C95.511 4.38861 95.2749 4.41962 95.1437 4.54052L94.6299 5.03926C94.5042 5.16401 94.5356 5.32992 94.6973 5.40459L99.1534 7.47299C99.3152 7.54766 99.8428 7.168 99.9664 7.04691C100.09 6.92766 100.061 6.75995 99.9029 6.67611L99.901 6.67606ZM91.8741 9.027L91.6032 9.66186C91.5368 9.82525 91.6306 9.97607 91.807 9.99547L97.3633 10.6027C97.5397 10.622 97.7442 10.5049 97.8106 10.3415L97.9499 9.98893C98.0219 9.82754 97.9395 9.67144 97.7633 9.64463L92.3342 8.78288C92.158 8.75607 91.9519 8.86206 91.8761 9.02334L91.876 9.02705L91.8741 9.027ZM107.527 3.8343L106.148 1.13669C106.065 0.978735 105.854 0.841581 105.674 0.83136L104.928 0.802819C104.749 0.801915 104.678 0.924372 104.77 1.077L106.426 3.84113C106.518 3.99376 107.179 4.10173 107.354 4.10995C107.529 4.11818 107.607 3.99591 107.527 3.83801L107.527 3.8343ZM90.6214 14.1035L90.6068 14.8674C90.6058 15.0455 90.7512 15.168 90.927 15.141L96.7792 14.2421C96.9568 14.2151 97.1061 14.0501 97.1109 13.8722L97.1142 13.4641C97.1245 13.2882 96.9868 13.1585 96.8076 13.1743L90.9619 13.7543C90.7845 13.772 90.6297 13.9312 90.6194 14.109L90.6214 14.1035ZM112.063 9.54255L111.725 9.29082C111.639 9.23107 111.562 9.26806 111.556 9.37178L111.507 10.0736C111.501 10.1773 111.565 10.3088 111.652 10.3686L111.89 10.5491C111.969 10.6179 112.049 10.5866 112.066 10.4869L112.179 9.84793C112.197 9.74636 112.146 9.60962 112.065 9.5426L112.063 9.54255ZM107.447 8.67767L107.035 8.83398C106.938 8.87414 106.922 8.96649 107.001 9.03531L108.163 10.0726C108.24 10.1414 108.379 10.1598 108.474 10.114L108.733 10.0075C108.832 9.97114 108.853 9.88079 108.78 9.8047L107.759 8.75622C107.686 8.68384 107.546 8.64868 107.445 8.67948L107.449 8.67587L107.447 8.67767ZM105.078 10.7257C104.977 10.6953 104.942 10.5979 104.997 10.5103L105.255 10.1422C105.318 10.0604 105.45 10.0211 105.549 10.0589L107.358 10.7401C107.457 10.7779 107.488 10.877 107.43 10.9645L107.294 11.2022C107.24 11.2917 107.115 11.3422 107.014 11.3118L105.078 10.7257ZM106.775 12.658C106.768 12.7617 106.678 12.8484 106.574 12.8513L104.348 12.907C104.243 12.9117 104.166 12.8281 104.174 12.7244L104.232 12.3085C104.25 12.207 104.352 12.1261 104.457 12.1307L106.629 12.2127C106.734 12.2173 106.813 12.3046 106.8 12.4082L106.775 12.6598L106.775 12.658ZM109.596 8.48641C109.493 8.47261 109.432 8.54155 109.466 8.64073L109.782 9.62651C109.813 9.72563 109.924 9.81197 110.029 9.81654L110.314 9.84616C110.417 9.86181 110.483 9.79302 110.458 9.69033L110.235 8.77932C110.21 8.67663 110.105 8.57747 110.004 8.55446L109.596 8.48455L109.596 8.48641ZM101.949 7.52473L104.209 8.7295C104.318 8.78613 104.484 8.77001 104.579 8.69267L104.836 8.49341C104.936 8.42178 104.933 8.31041 104.826 8.24456L102.702 6.93943C102.598 6.87368 102.431 6.88234 102.333 6.95587L101.927 7.27931C101.831 7.35474 101.839 7.4644 101.949 7.52288L101.947 7.52283L101.949 7.52473ZM113.203 9.08594L113.512 7.93265C113.545 7.81478 113.495 7.6521 113.405 7.56815L112.965 7.18764C112.869 7.11097 112.778 7.14757 112.763 7.26777L112.606 8.53627C112.589 8.65828 112.651 8.82497 112.739 8.91257L112.987 9.14343C113.073 9.23099 113.169 9.20566 113.203 9.08779L113.203 9.08594ZM115.127 9.76262L114.828 9.26516C114.761 9.15955 114.641 9.14903 114.555 9.23773L113.911 9.92229C113.825 10.011 113.81 10.1701 113.873 10.2738L114.004 10.5016C114.064 10.6089 114.194 10.642 114.298 10.5723L115.043 10.0777C115.147 10.0098 115.182 9.86608 115.123 9.75881L115.127 9.76262ZM111.366 6.17802L110.897 5.96743C110.786 5.91447 110.705 5.97175 110.724 6.09468L110.923 7.55417C110.94 7.6752 111.044 7.81701 111.157 7.86816L111.471 8.02096C111.581 8.07759 111.665 8.02596 111.657 7.90518L111.581 6.49894C111.575 6.3782 111.477 6.23469 111.368 6.17992L111.366 6.17802ZM103.932 6.02696C103.82 6.07786 103.804 6.18504 103.9 6.26357L105.663 7.75418C105.755 7.83261 105.928 7.85932 106.04 7.81213L106.354 7.68296C106.468 7.63953 106.49 7.5325 106.401 7.4486L104.781 5.90787C104.693 5.82397 104.524 5.78809 104.41 5.83152L103.934 6.02701L103.932 6.02696ZM103.402 9.97384L103.584 9.72624C103.658 9.62798 103.623 9.51763 103.506 9.47935L100.894 8.61797C100.776 8.57783 100.623 8.62766 100.55 8.72968L100.279 9.11223C100.21 9.21434 100.25 9.32483 100.37 9.3576L103.06 10.1023C103.18 10.135 103.332 10.0796 103.4 9.9775L103.402 9.97384ZM109.113 5.41865L108.665 5.34773C108.543 5.32974 108.477 5.41151 108.521 5.5258L109.105 7.11028C109.148 7.22452 109.282 7.33559 109.404 7.35357L109.687 7.39427C109.809 7.41782 109.88 7.3399 109.846 7.224L109.396 5.67639C109.363 5.55868 109.234 5.44405 109.113 5.4205L109.113 5.41865ZM108.065 7.10382L107.088 5.47213C107.025 5.36662 106.873 5.29034 106.75 5.30202L106.278 5.35847C106.155 5.37385 106.112 5.46733 106.18 5.56928L107.292 7.20261C107.361 7.30456 107.518 7.37352 107.64 7.35443L107.956 7.31434C108.078 7.30267 108.126 7.20743 108.065 7.10382ZM102.155 12.6482L99.1152 12.9482C98.9926 12.9598 98.8843 13.0683 98.8773 13.1924L98.8504 13.7056C98.8491 13.828 98.9485 13.9122 99.0694 13.8931L102.104 13.426C102.227 13.4088 102.334 13.2928 102.341 13.1705L102.359 12.8445C102.371 12.7224 102.278 12.6309 102.155 12.6445L102.155 12.6482ZM99.1429 16.0134C99.1756 16.1311 99.2981 16.1955 99.4158 16.1577L102.355 15.1836C102.473 15.144 102.544 15.016 102.513 14.8965L102.441 14.5793C102.417 14.4581 102.301 14.3883 102.181 14.4204L99.197 15.2542C99.0776 15.2864 99.0028 15.4106 99.0335 15.5301L99.143 16.0116L99.1429 16.0134ZM99.6877 10.6682C99.5638 10.6557 99.4299 10.7376 99.3911 10.8535L99.2326 11.2909C99.1976 11.4069 99.2682 11.5107 99.3922 11.5176L102.348 11.7052C102.472 11.7121 102.604 11.6246 102.641 11.5087L102.744 11.222C102.789 11.1081 102.726 11.0045 102.604 10.9902L99.6896 10.6683L99.6877 10.6682ZM119 14.938C119.001 14.7618 118.875 14.549 118.715 14.4669L117.348 13.7675C117.189 13.6855 117.061 13.7638 117.061 13.9419L117.049 14.4091C117.041 14.5869 117.153 14.8143 117.299 14.9164L118.681 15.8889C118.827 15.991 118.954 15.933 118.965 15.7552L119.004 14.9326L119.003 14.9381L119 14.938ZM117.979 19.9983C118.047 19.8349 118.007 19.5872 117.894 19.4488L116.556 17.8189C116.443 17.6806 116.293 17.7027 116.223 17.8642L116.046 18.2213C115.97 18.3826 115.992 18.6317 116.094 18.7791L117.388 20.6471C117.489 20.7926 117.633 20.7814 117.708 20.6202L117.975 19.9963L117.977 19.9964L117.979 19.9983ZM110.076 27.7989C110.242 27.7327 110.39 27.5343 110.401 27.3565L110.682 23.4236C110.694 23.2477 110.567 23.1498 110.398 23.2103L110.016 23.3303C109.846 23.3834 109.688 23.5742 109.663 23.7497L109.127 27.8356C109.103 28.0094 109.225 28.1071 109.392 28.0502L110.074 27.8007L110.076 27.8007L110.076 27.7989ZM106.679 24.0771C106.739 23.9117 106.647 23.7684 106.474 23.7602C106.301 23.752 105.65 23.8187 105.582 23.9802L103.675 28.4555C103.605 28.6187 103.694 28.7602 103.872 28.7703L104.592 28.8019C104.773 28.8066 104.968 28.6725 105.031 28.5053L106.679 24.0753L106.679 24.0771ZM99.1205 27.6274C99.2861 27.6966 99.5115 27.6412 99.6244 27.5031L103.075 23.281C103.188 23.1448 103.145 22.9731 102.98 22.902L102.638 22.7318C102.476 22.6553 102.246 22.7012 102.127 22.8336L98.4102 26.9487C98.2919 27.0792 98.3249 27.2544 98.4847 27.3309L99.1168 27.6236L99.1205 27.6274ZM114.271 21.1584C114.223 20.9884 114.083 20.9458 113.957 21.0687C113.833 21.1917 113.415 21.7077 113.45 21.8811L114.095 25.0273C114.129 25.2007 114.266 25.245 114.399 25.126L114.934 24.613C115.061 24.4864 115.124 24.245 115.078 24.0732L114.271 21.1584ZM94.7368 24.676C94.8652 24.8017 95.0868 24.8186 95.2307 24.7129L99.9683 21.2883C100.112 21.1844 100.127 20.9955 100 20.8717L99.722 20.5696C99.5975 20.4402 99.376 20.4159 99.2248 20.5122L94.2657 23.7048C94.1164 23.8011 94.0907 23.9878 94.2133 24.119L94.7424 24.6761L94.7405 24.6761L94.7368 24.676ZM113.769 13.9219C113.784 13.8202 113.728 13.6834 113.647 13.62L113.13 13.219C113.049 13.1557 112.969 13.1852 112.955 13.2887L112.901 13.5804C112.877 13.6818 112.919 13.8239 112.994 13.8963L113.508 14.3863C113.583 14.4587 113.665 14.4367 113.69 14.3354L113.77 13.9256L113.769 13.9219ZM110.923 17.6123C111.018 17.5703 111.1 17.4518 111.105 17.348L111.151 15.8949C111.154 15.791 111.078 15.739 110.979 15.7754L110.715 15.8669C110.613 15.8958 110.523 16.0011 110.511 16.1028L110.352 17.6403C110.342 17.7439 110.415 17.8014 110.514 17.7669L110.927 17.6106L110.923 17.6105L110.923 17.6123ZM108.816 15.9403C108.871 15.8509 108.999 15.8059 109.098 15.8363L109.099 15.8363L109.362 15.9229C109.465 15.9497 109.51 16.0454 109.462 16.1369L108.58 17.8375C108.532 17.9309 108.408 17.9889 108.305 17.9696L107.864 17.8673C107.763 17.8387 107.722 17.7412 107.777 17.6536L108.818 15.9404L108.816 15.9403ZM107.914 15.2678C107.993 15.3384 107.994 15.4535 107.918 15.5257L106.36 17.0178C106.285 17.0901 106.155 17.0978 106.072 17.0326L105.746 16.7608C105.669 16.6902 105.67 16.577 105.752 16.5105L107.444 15.0831C107.523 15.0165 107.649 15.0216 107.725 15.0941L107.914 15.2641L107.914 15.2678ZM112.909 16.0163C112.97 15.9325 112.979 15.7881 112.929 15.6959L112.477 14.8717C112.427 14.7795 112.331 14.7715 112.265 14.8514L112.073 15.0616C111.997 15.1339 111.971 15.2723 112.018 15.3663L112.452 16.3069C112.494 16.4026 112.586 16.4124 112.654 16.3344L112.909 16.0126L112.909 16.0163ZM107.625 22.0944C107.583 22.2083 107.65 22.2972 107.774 22.2893L108.294 22.2619C108.417 22.2502 108.548 22.1479 108.579 22.03L109.273 19.6585C109.308 19.5407 109.233 19.4553 109.112 19.467L108.786 19.4901C108.662 19.4944 108.527 19.5911 108.487 19.7069L107.625 22.0925L107.627 22.0926L107.625 22.0944ZM114.925 13.5158C114.82 13.4481 114.732 13.4941 114.727 13.6164L114.701 13.9515C114.694 14.0737 114.761 14.2387 114.857 14.3191L115.836 15.1569C115.928 15.2372 116.023 15.2044 116.041 15.0843L116.109 14.511C116.122 14.3889 116.047 14.2348 115.941 14.169L114.929 13.5159L114.925 13.5158ZM115.897 11.7451C115.868 11.6257 115.744 11.5427 115.621 11.5599L114.731 11.6854C114.609 11.7026 114.532 11.8138 114.561 11.9314L114.618 12.187C114.641 12.3064 114.761 12.4133 114.885 12.424L115.829 12.5077C115.951 12.5183 116.035 12.4295 116.013 12.3084L115.899 11.7415L115.898 11.7452L115.897 11.7451ZM115.538 16.8855C115.582 16.7717 115.557 16.6022 115.48 16.5075L114.581 15.412C114.505 15.3173 114.407 15.3333 114.364 15.4472L114.235 15.7686C114.185 15.8823 114.205 16.0553 114.274 16.1573L115.117 17.3718C115.185 17.4738 115.284 17.4633 115.332 17.3514L115.536 16.8855L115.538 16.8855ZM110.601 21.7315C110.715 21.6881 110.816 21.5516 110.825 21.4312L110.984 19.2167C110.993 19.0963 110.904 19.031 110.79 19.0744L110.469 19.1848C110.353 19.2245 110.244 19.359 110.228 19.4773L109.929 21.7476C109.912 21.8696 109.997 21.9385 110.114 21.9026L110.601 21.7334L110.601 21.7315ZM107.038 19.3189C106.919 19.288 106.767 19.3471 106.702 19.4512L105.208 21.7778C105.141 21.88 105.185 21.9887 105.307 22.0197L105.769 22.1244C105.89 22.1516 106.039 22.0868 106.1 21.9808L107.456 19.6172C107.517 19.5112 107.467 19.406 107.345 19.3825L107.042 19.319L107.038 19.3189ZM114.377 18.9332C114.451 18.835 114.469 18.6666 114.413 18.5557L113.697 17.1089C113.644 16.9999 113.538 16.9879 113.462 17.0861L113.28 17.304C113.202 17.3985 113.177 17.5703 113.223 17.6828L113.864 19.2465C113.91 19.359 114.015 19.3765 114.093 19.2839L114.377 18.9351L114.377 18.9332ZM112.451 18.3753C112.426 18.2559 112.326 18.2162 112.228 18.2897L111.965 18.4684C111.862 18.5344 111.792 18.6884 111.809 18.8113L112.093 20.759C112.11 20.8801 112.207 20.9215 112.309 20.8518L112.698 20.5817C112.798 20.5082 112.86 20.3522 112.833 20.2327L112.451 18.3753ZM104.299 18.1537C104.399 18.0821 104.406 17.9543 104.314 17.8703L104.079 17.6397C103.991 17.554 103.834 17.5369 103.73 17.6066L101.157 19.2617C101.054 19.3277 101.037 19.4552 101.121 19.5464L101.49 19.9103C101.578 19.996 101.734 20.0075 101.832 19.9339L104.295 18.1517L104.299 18.1537ZM100.022 18.0674C100.081 18.1747 100.221 18.2191 100.332 18.1645L103.115 16.8153C103.226 16.7607 103.265 16.6337 103.2 16.5263L103.038 16.2438C102.981 16.1348 102.841 16.0866 102.727 16.1356L99.8809 17.3514C99.7686 17.4005 99.72 17.5291 99.7754 17.6381L100.022 18.0674ZM105.757 19.091C105.839 19.0004 105.815 18.8811 105.704 18.8262L105.433 18.682C105.326 18.6198 105.169 18.6418 105.082 18.7286L103.013 20.8159C102.926 20.9027 102.943 21.0274 103.047 21.0895L103.462 21.3098C103.57 21.3701 103.725 21.3426 103.81 21.252L105.757 19.091ZM104.427 14.7381L104.563 15.1052C104.601 15.2008 104.715 15.2464 104.812 15.2081L106.92 14.3461C107.017 14.306 107.062 14.1958 107.025 14.0984L106.931 13.8585C106.9 13.7594 106.792 13.7047 106.693 13.7411L104.541 14.4962C104.442 14.5307 104.389 14.6407 104.428 14.7363L104.427 14.7381ZM117.896 9.37775C117.829 9.21462 117.64 9.14669 117.482 9.22608L116.477 9.73625C116.317 9.81744 116.244 10.0178 116.315 10.1791L116.484 10.6528C116.548 10.8177 116.741 10.9173 116.913 10.8717L118.007 10.5883C118.181 10.5427 118.272 10.3706 118.215 10.2041L117.9 9.37784L117.896 9.37775ZM97.6668 18.0938C97.8323 18.0276 97.9107 17.8385 97.8435 17.6754L97.6846 17.2836C97.625 17.117 97.4373 17.0286 97.2682 17.0874L91.6039 19.0596C91.4367 19.1184 91.3509 19.3017 91.4143 19.4666L91.6853 20.1729C91.7525 20.336 91.9442 20.417 92.1098 20.3471L97.665 18.0919L97.6668 18.0938ZM113.463 11.9587C113.564 11.9279 113.617 11.8199 113.586 11.7208L113.422 11.301C113.385 11.2036 113.274 11.1617 113.178 11.2094L112.831 11.3766C112.736 11.4224 112.691 11.5381 112.728 11.6355L112.857 11.9505C112.892 12.0479 113.004 12.1027 113.104 12.0719L113.463 11.9587Z" fill="currentColor"/>
+<path d="M14.3449 15.513C13.6188 18.4819 11.5286 20.0748 9.01709 20.0748C5.89036 20.0748 3.41457 17.6085 3.41457 13.0874C3.41457 8.56627 5.89036 6.12584 9.01709 6.12584C11.5362 6.12584 13.63 7.70952 14.3506 10.6877H17.8103C16.9675 6.29645 13.7505 3.45361 9.01521 3.45361C3.46536 3.45547 0 7.36089 0 13.0892C0 18.8175 3.46536 22.7471 9.01709 22.7471C13.7429 22.7471 16.9562 19.8968 17.8065 15.513H14.3449Z" fill="currentColor"/>
+<path d="M51.2035 12.3585C50.8649 11.0994 49.691 10.6098 48.1257 10.6098C46.7693 10.6098 45.5182 11.2014 45.5182 12.1267C45.5182 13.0521 46.1955 13.5398 47.3958 13.7716L49.3787 14.1573C52.2213 14.697 54.3867 15.5704 54.3867 18.2705C54.3867 21.1504 51.6231 22.7433 48.4399 22.7433C44.9971 22.7433 42.7019 20.8147 42.3633 18.1926H45.3884C45.6744 19.6056 46.7185 20.429 48.5434 20.429C50.1594 20.429 51.3597 19.7614 51.3597 18.6302C51.3597 17.499 50.3174 16.9853 48.9347 16.7276L46.822 16.3159C44.4496 15.8523 42.5966 14.799 42.5966 12.2807C42.5966 9.76235 45.2567 8.26953 48.3082 8.26953C51.0474 8.26953 53.5495 9.58061 54.1233 12.3567H51.2016L51.2035 12.3585Z" fill="currentColor"/>
+<path d="M68.9947 15.5204C68.9947 20.507 65.4993 22.7434 62.0828 22.7434C58.6664 22.7434 55.1709 20.507 55.1709 15.5204C55.1709 10.5339 58.6664 8.27148 62.0828 8.27148C65.4993 8.27148 68.9947 10.5339 68.9947 15.5204ZM62.0828 20.3345C64.0732 20.3345 65.8511 18.7657 65.8511 15.5223C65.8511 12.2789 64.0732 10.6822 62.0828 10.6822C60.0924 10.6822 58.3146 12.277 58.3146 15.5223C58.3146 18.7675 60.0924 20.3345 62.0828 20.3345Z" fill="currentColor"/>
+<path d="M73.0339 16.3698C73.2427 18.94 75.0675 20.201 76.8416 20.201C78.4577 20.201 79.7369 19.5575 80.2844 18.2724H83.3359C82.6831 20.4829 80.5967 22.7453 76.9733 22.7453C72.4619 22.7453 69.8789 19.3517 69.8789 15.3925C69.8789 11.2274 72.7742 8.27148 76.7645 8.27148C81.067 8.27148 83.7535 11.717 83.4939 16.3698H73.0357H73.0339ZM73.0339 14.1333H80.3352C80.2562 11.9748 78.5875 10.6637 76.7626 10.6637C75.3027 10.6637 73.2935 11.5112 73.0339 14.1333Z" fill="currentColor"/>
+<path d="M27.5928 11.6167C27.5928 11.6167 26.2382 11.6129 25.7679 11.6129C23.8113 11.6129 22.6901 12.3844 22.6901 15.1605V22.4094H19.5859V8.5791H22.6374V11.0473C23.3937 9.50446 24.7482 8.5791 26.4452 8.5791H27.5909V11.6167H27.5928Z" fill="currentColor"/>
+<path d="M34.9772 22.7434C33.6829 22.7434 32.5917 22.5246 31.7038 22.0869C30.8158 21.6493 30.1404 20.9984 29.6776 20.1324C29.2148 19.2664 28.9834 18.2038 28.9834 16.9465V8.58301H32.0349V16.7555C32.0349 17.8867 32.2757 18.7657 32.7554 19.3943C33.237 20.023 33.9764 20.3382 34.9754 20.3382C35.9743 20.3382 36.7193 20.023 37.2085 19.3943C37.6976 18.7657 37.9441 17.8867 37.9441 16.7555V8.58301H40.9955V16.9187C40.9955 18.8157 40.4819 20.2603 39.4566 21.2525C38.4294 22.2464 36.9357 22.7434 34.9754 22.7434H34.9772Z" fill="currentColor"/>
+</svg></div></a><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="nav__menu-list w-nav"><ul role="list" class="nav__menu w-list-unstyled"><li class="nav__list-item"><div data-hover="true" data-delay="0" class="nav__dd w-dropdown"><div data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:6b0c339a-c9ee-cdae-af3d-361b495de80d" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="6b0c339a-c9ee-cdae-af3d-361b495de80d" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" class="nav__dd-trigger w-dropdown-toggle"><div>Crusoe Cloud</div><div class="embed-icon nav__dd_arrow w-embed"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.98839 8.602L3.98839 7.126L7.75039 10.96L7.75039 2.86L8.86639 2.86L8.86639 10.96L12.6464 7.126L12.6464 8.602L8.30839 12.94L3.98839 8.602Z" fill="currentColor"/>
+</svg></div></div><nav class="nav__dd-content w-dropdown-list"><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:6b0c339a-c9ee-cdae-af3d-361b495de812" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="6b0c339a-c9ee-cdae-af3d-361b495de812" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Overview</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:53cdfe6e-cb1b-8893-f400-f2abf77597aa" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="53cdfe6e-cb1b-8893-f400-f2abf77597aa" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/managed-inference" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Managed Inference</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:49f76b64-f5b6-8d51-856a-195a8a276cd3" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="49f76b64-f5b6-8d51-856a-195a8a276cd3" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/command-center" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div class="ob-item">Command Center</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:c56b6011-a7b4-ca3e-24cc-fa130b7c42c4" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c56b6011-a7b4-ca3e-24cc-fa130b7c42c4" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/edge-zones" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div class="ob-item">Crusoe Edge Zones</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-style-experience-417252074="" data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:93ee0819-a1a3-3626-0872-8800461ae2ce" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="93ee0819-a1a3-3626-0872-8800461ae2ce" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/pricing" data-wf-event-ids="157073048" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 is_test w-inline-block"><div>Pricing</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:8cc0de50-f193-93cb-78cc-623074e3d61d" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="8cc0de50-f193-93cb-78cc-623074e3d61d" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/partners" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Partners</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><div data-hover="true" data-delay="0" class="sub_dd-nav w-dropdown"><div data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:c18eeb20-abe3-64aa-a57f-3d0e215e4ea9" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c18eeb20-abe3-64aa-a57f-3d0e215e4ea9" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" class="sub_dd-nav-tg w-dropdown-toggle"><div>GPUs</div><div class="embed-icon nav__dd_arrow-nest w-embed"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.98839 8.602L3.98839 7.126L7.75039 10.96L7.75039 2.86L8.86639 2.86L8.86639 10.96L12.6464 7.126L12.6464 8.602L8.30839 12.94L3.98839 8.602Z" fill="currentColor"/>
+</svg></div></div><nav class="sub_dd-nav-list w-dropdown-list"><div class="sub-nav-line"></div><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:674b8786-bd9d-4c1e-50b1-2f6d05cf360c" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="674b8786-bd9d-4c1e-50b1-2f6d05cf360c" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/gpus/nvidia-gb200" class="sub_dd-nav-link w-inline-block"><div>NVIDIA GB200</div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:2080ea2f-23c9-83f6-cbc1-1d8b3f6cb50a" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="2080ea2f-23c9-83f6-cbc1-1d8b3f6cb50a" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/gpus/nvidia-b200" class="sub_dd-nav-link w-inline-block"><div>NVIDIA B200</div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:ea175eda-1c52-4fce-4d4f-e55894cd0144" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="ea175eda-1c52-4fce-4d4f-e55894cd0144" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/gpus/nvidia-h200" class="sub_dd-nav-link w-inline-block"><div>NVIDIA H200</div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:4d6bff31-55fe-2a2e-a79d-b13ec585a83e" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="4d6bff31-55fe-2a2e-a79d-b13ec585a83e" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/gpus/nvidia-h100" class="sub_dd-nav-link w-inline-block"><div>NVIDIA H100</div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:8b45a4b0-0014-a2d9-b5ce-a2ee758d3f84" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="8b45a4b0-0014-a2d9-b5ce-a2ee758d3f84" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/gpus/amd-mi355x" class="sub_dd-nav-link w-inline-block"><div>AMD MI355x</div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:3f4a7c83-b0df-4351-0ecc-6bf1b241ded2" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="3f4a7c83-b0df-4351-0ecc-6bf1b241ded2" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/gpus/amd-mi300x" class="sub_dd-nav-link w-inline-block"><div>AMD MI300x</div></a></nav></div></nav></div><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:95bf6273-5df7-3788-8431-9617f24d0c68" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="95bf6273-5df7-3788-8431-9617f24d0c68" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud" class="nav-link hide w-inline-block"><div>Cloud</div></a></li><li class="nav__list-item"><div class="nav__dd-single"><div class="w-optimization"><div data-wf-experience-417252074="" data-wf-variation-617157486="" class="w-optimization"></div><div data-wf-experience-417252074="" data-wf-variation-617157487="" data-wf-hidden-variation="" class="w-optimization"><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:6b588c64-0b97-a40e-0f47-3723a04d9d85" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="6b588c64-0b97-a40e-0f47-3723a04d9d85" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud/pricing" data-wf-event-ids="157073047" class="nav__dd_link-single w-inline-block"><div class="nav__dd_link-text">Pricing</div></a></div></div></div></li><li class="nav__list-item"><div data-hover="true" data-delay="0" class="nav__dd w-dropdown"><div data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:2d6f554f-81e0-b169-da83-9b7187c7b3da" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="2d6f554f-81e0-b169-da83-9b7187c7b3da" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" class="nav__dd-trigger w-dropdown-toggle"><div>AI Infrastructure</div><div class="embed-icon nav__dd_arrow w-embed"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.98839 8.602L3.98839 7.126L7.75039 10.96L7.75039 2.86L8.86639 2.86L8.86639 10.96L12.6464 7.126L12.6464 8.602L8.30839 12.94L3.98839 8.602Z" fill="currentColor"/>
+</svg></div></div><nav class="nav__dd-content w-dropdown-list"><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:2d6f554f-81e0-b169-da83-9b7187c7b3df" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="2d6f554f-81e0-b169-da83-9b7187c7b3df" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/data-centers" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Data Centers</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:2d6f554f-81e0-b169-da83-9b7187c7b3e3" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="2d6f554f-81e0-b169-da83-9b7187c7b3e3" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/manufacturing" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Manufacturing</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:e3d7c9f3-a03d-235d-de0d-fe5bd45338f6" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="e3d7c9f3-a03d-235d-de0d-fe5bd45338f6" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/energy" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Energy</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a></nav></div><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:2d6f554f-81e0-b169-da83-9b7187c7b400" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="2d6f554f-81e0-b169-da83-9b7187c7b400" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/cloud" class="nav-link hide w-inline-block"><div>Cloud</div></a></li><li class="nav__list-item"><div data-hover="true" data-delay="0" class="nav__dd w-dropdown"><div data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:c572c84a-ab10-b7e9-ba62-b06ece6f6aa4" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c572c84a-ab10-b7e9-ba62-b06ece6f6aa4" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" class="nav__dd-trigger w-dropdown-toggle"><div>About</div><div class="embed-icon nav__dd_arrow w-embed"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.98839 8.602L3.98839 7.126L7.75039 10.96L7.75039 2.86L8.86639 2.86L8.86639 10.96L12.6464 7.126L12.6464 8.602L8.30839 12.94L3.98839 8.602Z" fill="currentColor"/>
+</svg></div></div><nav class="nav__dd-content w-dropdown-list"><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:c572c84a-ab10-b7e9-ba62-b06ece6f6aa9" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c572c84a-ab10-b7e9-ba62-b06ece6f6aa9" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/about/company" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Company</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:c572c84a-ab10-b7e9-ba62-b06ece6f6aad" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c572c84a-ab10-b7e9-ba62-b06ece6f6aad" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/about/impact" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Impact</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:c572c84a-ab10-b7e9-ba62-b06ece6f6ab1" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c572c84a-ab10-b7e9-ba62-b06ece6f6ab1" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/about/leadership" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Leadership</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:c572c84a-ab10-b7e9-ba62-b06ece6f6ab5" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c572c84a-ab10-b7e9-ba62-b06ece6f6ab5" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/about/careers" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Careers</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a></nav></div></li><li class="nav__list-item"><div data-hover="true" data-delay="0" class="nav__dd w-dropdown"><div data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:4ba83221-1dd1-76ea-76c3-8f8509c97770" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="4ba83221-1dd1-76ea-76c3-8f8509c97770" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" class="nav__dd-trigger w-dropdown-toggle"><div>Resources</div><div class="embed-icon nav__dd_arrow w-embed"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.98839 8.602L3.98839 7.126L7.75039 10.96L7.75039 2.86L8.86639 2.86L8.86639 10.96L12.6464 7.126L12.6464 8.602L8.30839 12.94L3.98839 8.602Z" fill="currentColor"/>
+</svg></div></div><nav class="nav__dd-content w-dropdown-list"><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:4ba83221-1dd1-76ea-76c3-8f8509c97775" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="4ba83221-1dd1-76ea-76c3-8f8509c97775" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/resources/blog" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Blog</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:b0ec06e6-bb8f-8d06-d838-658afbe9679a" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="b0ec06e6-bb8f-8d06-d838-658afbe9679a" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/resources/newsroom" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Newsroom</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:13e7cf21-29c4-b4ab-998f-971fc2c550bc" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="13e7cf21-29c4-b4ab-998f-971fc2c550bc" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/resources/events" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Events &amp; Webinars</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:4ba83221-1dd1-76ea-76c3-8f8509c97779" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="4ba83221-1dd1-76ea-76c3-8f8509c97779" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/resources/learning-hub" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Learning Hub</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:56095d2a-f1f3-afe4-d1b4-a26a04c8111f" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="56095d2a-f1f3-afe4-d1b4-a26a04c8111f" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/resources/customers" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Customers</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:1d5c908d-e26a-2f0d-cb2f-deb813b8c3b0" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="1d5c908d-e26a-2f0d-cb2f-deb813b8c3b0" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="https://support.crusoecloud.com/hc/en-us" class="nav__dd_link w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Support</div><div class="embed-icon w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.602 12.412H7.126L10.96 8.65H2.86V7.534H10.96L7.126 3.754H8.602L12.94 8.092L8.602 12.412Z" fill="currentColor"/>
+</svg></div></a></nav></div></li><li class="nav__list-item is-buttons"><div class="nav_button-group w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5"><a id="is-login" data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:579591f4-863d-c4d5-0728-969450a2c0fb" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="579591f4-863d-c4d5-0728-969450a2c0fb" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="https://console.crusoecloud.com/" target="_blank" class="button is-gh w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block"><div>Login</div></a><a class="button is-gh w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5 w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" data-wf-element-id="e6684e95-6d91-20b7-b315-27a5d4c6db56" data-wf-event-ids="157071862" href="https://console.crusoecloud.com/request" target="_blank" id="is-login" data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:e6684e95-6d91-20b7-b315-27a5d4c6db56" data-wf-ao-click-engagement-tracking="true"><div>Get started</div></a><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:3b85f12f-f1cc-8b01-6368-b6a8fb156395" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="3b85f12f-f1cc-8b01-6368-b6a8fb156395" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="/contact-sales" data-wf-event-ids="157071859" class="button w-inline-block"><div>Contact sales</div></a></div></li></ul></div><a data-wf-native-id-path="370fc27f-c8fb-f424-1beb-3b19698dea15:f47e1349-d5cd-6d09-8165-3ab7b28e06ea" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="f47e1349-d5cd-6d09-8165-3ab7b28e06ea" data-wf-component-context="%5B%7B%22componentId%22%3A%2248e6fb4a-8d57-606f-1f3f-d787ff3d160e%22%2C%22instanceId%22%3A%22370fc27f-c8fb-f424-1beb-3b19698dea15%22%7D%5D" href="#" class="nav__menu-button w-inline-block"><div class="nav-line is-1 w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5"></div><div class="nav-line is-2 w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5"></div><div class="nav-line is-3 w-variant-8e9dd5d6-bf16-f61f-8b09-6e56776206e5"></div></a></div><div class="header__bg"></div></div></nav><div class="main-wrapper is-impact"><div class="utility-page-wrap"><div class="section-bg-wr is-lottie is-404"><div data-poster-url="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F6878b36203f536e4044249d5_Banner_Vertical_v1-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F6878b36203f536e4044249d5_Banner_Vertical_v1-transcode.mp4,https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F6878b36203f536e4044249d5_Banner_Vertical_v1-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="cta-bg show-mobile-landscape w-background-video w-background-video-atom"><video id="24ee433b-203e-a6c7-6abf-7df7ff65e58b-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F6878b36203f536e4044249d5_Banner_Vertical_v1-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F6878b36203f536e4044249d5_Banner_Vertical_v1-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F6878b36203f536e4044249d5_Banner_Vertical_v1-transcode.webm" data-wf-ignore="true"/></video></div><div data-poster-url="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F68763d20874874e4249c1e70_Banner_Horizontal_v1-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F68763d20874874e4249c1e70_Banner_Horizontal_v1-transcode.mp4,https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F68763d20874874e4249c1e70_Banner_Horizontal_v1-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="cta-bg hide-mobile-landscape w-background-video w-background-video-atom"><video id="e0894075-ed9e-0d32-c698-c971fbaea262-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F68763d20874874e4249c1e70_Banner_Horizontal_v1-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F68763d20874874e4249c1e70_Banner_Horizontal_v1-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19%2F68763d20874874e4249c1e70_Banner_Horizontal_v1-transcode.webm" data-wf-ignore="true"/></video></div></div><div class="utility-page-content"><h2 class="ts-h2 is-404">Oops!<br/>Page not found</h2><div class="spacer is-kiwi"></div><a id="is-login" data-wf-native-id-path="85107c8a-85d2-63df-15e6-9655e9772e12" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="85107c8a-85d2-63df-15e6-9655e9772e12" href="/" class="button is-primary w-inline-block"><div>Go back to the homepage</div></a></div></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6855c1aa175582ee23e0aa19" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/js/crusoe-staging.schunk.8208d3e53b97e3c7.js" type="text/javascript" integrity="sha384-9xvGwEC4koTEApHZvbdIKXkNvNgqp7+4eQZ+/iUkKstGjbbCAhAfePKaCJKPjB3X" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/js/crusoe-staging.schunk.f153e5b9b49f5eb8.js" type="text/javascript" integrity="sha384-pIhLtccWLaX0G15SDgrQSbkqmubRnWjkxgy/9scxvBAtwGfZuZE94w/IHbLHeNgX" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/js/crusoe-staging.7f115461.4864a69cdb9d5750.js" type="text/javascript" integrity="sha384-sS/VUapbw+lBVQctpy9eFxrQzYR8hj8IuK3Hh5haJlsiyLAM7GJzou4oRakC8GEJ" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/gsap/3.14.2/gsap.min.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/gsap/3.14.2/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/gsap/3.14.2/TextPlugin.min.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/gsap/3.14.2/SplitText.min.js" type="text/javascript"></script><script type="text/javascript">gsap.registerPlugin(ScrollTrigger,TextPlugin,SplitText);</script><!-- Google Tag Manager (noscript) -->
+<noscript
+  ><iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-ND865CWJ"
+    height="0"
+    width="0"
+    style="display: none; visibility: hidden"
+  ></iframe
+></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script src="https://transcend-cdn.com/cm/bd872999-7808-4ad3-8049-cfcf5f16e227/airgap.js"></script>
+<script>
+  if (window.airgap && window.airgap.getRegimes().has("US_DNSS")) {
+    const cpraButton = document.getElementById("cpra_button");
+
+    if (cpraButton) {
+      cpraButton.onclick = () => {
+        // eslint-disable-next-line no-undef
+        transcend.showConsentManager({ viewState: "DoNotSellExplainer" });
+      };
+
+      cpraButton.classList.remove("hidden");
+      cpraButton.classList.add("flex");
+    }
+  }
+</script>
+<script>
+  $(document).ready(function () {
+    if ($(".plus-minus").length === 0) return;
+
+    $(".plus-minus").on("click", function () {
+      const $wrapper = $(this).closest(".dropdown-global-wr");
+
+      if ($wrapper.length === 0) return;
+
+      const $toggle = $wrapper.find(".dropdown-toggle-global.w--open");
+
+      if ($toggle.length) {
+        const $dropdown = $wrapper.find(".dropdown-global");
+        if ($dropdown.length) {
+          $dropdown.trigger("w-close");
+        }
+      }
+    });
+  });
+</script>
+
+<script>
+  window.addEventListener("scroll", function () {
+    const header = document.getElementById("header");
+    if (window.scrollY > 0) {
+      header.classList.add("scroll");
+    } else {
+      header.classList.remove("scroll");
+    }
+  });
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const menuButton = document.querySelector(".nav__menu-button");
+    if (!menuButton) return;
+
+    const line1 = menuButton.querySelector(".nav-line.is-1");
+    const line2 = menuButton.querySelector(".nav-line.is-2");
+    const line3 = menuButton.querySelector(".nav-line.is-3");
+    if (!line1 || !line2 || !line3) return;
+
+    gsap.set([line1, line2, line3], { transformOrigin: "50% 50%" });
+
+    const tl = gsap.timeline({ paused: true });
+
+    tl.to(line1, { y: 5, duration: 0.25, ease: "power2.out" }, 0)
+      .to(line3, { y: -5, duration: 0.25, ease: "power2.out" }, 0)
+      .set(line2, { opacity: 0 }, 0.25)
+      .to(line1, { rotation: 45, duration: 0.25, ease: "power2.out" }, 0.25)
+      .to(line3, { rotation: -45, duration: 0.25, ease: "power2.out" }, 0.25);
+
+    if (menuButton.classList.contains("is-open")) tl.progress(1);
+
+    menuButton.addEventListener("click", () => {
+      const willOpen = !menuButton.classList.contains("is-open");
+      menuButton.classList.toggle("is-open", willOpen);
+
+      if (willOpen) tl.play();
+      else tl.reverse();
+    });
+
+    window.addEventListener("resize", () => {
+      if (window.innerWidth > 1024) {
+        menuButton.classList.remove("is-open");
+        tl.pause(0); 
+      }
+    });
+  });
+</script>
+
+<script>
+  var utmParams = [
+    "utm_source",
+    "utm_medium",
+    "utm_campaign",
+    "utm_term",
+    "utm_content",
+    "utm_id",
+    "gclid",
+  ];
+  // ===============================
+  // CONFIG
+  // ===============================
+
+  // const INTERNAL_DOMAINS = ["crusoe.ai", "www.crusoe.ai", "crusoe.com", "www.crusoe.com", "crusoe-staging.webflow.io"];
+
+  const CTA_DOMAINS = [
+    "crusoecloud.com",
+    "console.crusoecloud.com",
+    "console.crusoe.ai",
+    "console.crusoe.com",
+  ];
+
+  const PARAM_EXPIRY = 90 * 24 * 60 * 60 * 1000; // 90 days (ms)
+  //const PARAM_EXPIRY = 2 * 60 * 1000; // 2 min
+  const STORAGE_KEY = "crusoe_saved_params";
+
+  // ===============================
+  // HELPERS
+  // ===============================
+
+  const excludeParams = ["category", "name"];
+
+  function getUrlParams() {
+    const params = {};
+    const qs = new URLSearchParams(window.location.search);
+    qs.forEach((value, key) => {
+      if (!excludeParams.includes(key)) {
+        params[key] = value;
+      }
+    });
+    return params;
+  }
+
+  function loadParams() {
+    const data = localStorage.getItem(STORAGE_KEY);
+    return data ? JSON.parse(data) : {};
+  }
+
+  function saveParams(obj) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(obj));
+
+    utmParams.forEach(function (param) {
+      if (obj[param] !== undefined) {
+        localStorage.setItem(param, obj[param].value);
+      } else {
+        localStorage.removeItem(param);
+      }
+    });
+  }
+
+  // ===============================
+  // 1️⃣ CAPTURE / UPDATE PARAMS
+  // ===============================
+  // RULES:
+  // - If NEW param → add with current timestamp
+  // - If SAME param but NEW value → update value + timestamp
+  // - If SAME param and SAME value → do NOT update timestamp
+
+  function processIncomingParams() {
+    const incoming = getUrlParams();
+    if (!Object.keys(incoming).length) return;
+
+    const saved = loadParams();
+    const now = Date.now();
+
+    Object.entries(incoming).forEach(([key, value]) => {
+      const existing = saved[key];
+
+      if (!existing) {
+        // New param entirely
+        saved[key] = { value, firstSeen: now };
+      } else if (existing.value !== value) {
+        // Param reappears with NEW VALUE → update
+        saved[key] = { value, firstSeen: now };
+      }
+      // If same value → do nothing (keep original timestamp)
+    });
+
+    saveParams(saved);
+  }
+
+  // ===============================
+  // 2️⃣ REMOVE PARAMS OLDER THAN 90 DAYS (unless updated)
+  // ===============================
+
+  function getValidParams() {
+    const saved = loadParams();
+    const now = Date.now();
+
+    const valid = {};
+    const cleaned = {};
+
+    Object.entries(saved).forEach(([key, obj]) => {
+      if (!excludeParams.includes(key) && now - obj.firstSeen <= PARAM_EXPIRY) {
+        valid[key] = obj.value;
+        cleaned[key] = obj;
+      }
+    });
+    saveParams(cleaned);
+    return valid;
+  }
+
+  // ===============================
+  // 4️⃣ APPEND PARAMS TO INTERNAL + CTA DOMAIN LINKS
+  // ===============================
+
+  function updateLinks(params) {
+    const links = document.querySelectorAll("a[href]");
+
+    links.forEach((link) => {
+      const href = link.getAttribute("href");
+
+      // Skip empty, hash links, or mailto
+      if (
+        !href ||
+        href.startsWith("#") ||
+        href.startsWith("mailto:") ||
+        href.startsWith("?")
+      )
+        return;
+
+      let url;
+      try {
+        url = new URL(href, window.location.origin);
+      } catch (e) {
+        return;
+      }
+
+      // const isInternal = INTERNAL_DOMAINS.includes(url.hostname);
+
+      const isCTA = CTA_DOMAINS.some(
+        (domain) =>
+          url.hostname === domain || url.hostname.endsWith("." + domain)
+      );
+
+      // if (isInternal || isCTA) {
+      if (isCTA) {
+        Object.entries(params).forEach(([key, value]) => {
+          url.searchParams.set(key, value);
+        });
+        link.href = url.toString();
+      }
+    });
+
+    Object.entries(params).forEach(([key, value]) => {
+      if (utmParams.includes(key)) {
+        if (value) {
+          var inputs = document.querySelectorAll(
+            'input[type="hidden"][name="' + key + '"]'
+          );
+          for (var i = 0; i < inputs.length; i++) {
+            inputs[i].value = value;
+          }
+        }
+      }
+    });
+  }
+
+  // ===============================
+  // MAIN EXECUTION
+  // ===============================
+
+  function initParamsAddScript() {
+    processIncomingParams(); // update timestamps on changed values
+    const valid = getValidParams(); // keep only <90 days
+    // updateCurrentPageUrl(valid);
+    updateLinks(valid);
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const valid = getValidParams();
+    updateLinks(valid);
+  });
+
+  window.fsAttributes = window.fsAttributes || [];
+  window.fsAttributes.push([
+    "cmsload",
+    (listInstances) => {
+      setTimeout(() => {
+        initParamsAddScript();
+      }, 1000);
+
+      // Run each time pagination loads more items
+      listInstances.forEach((listInstance) => {
+        listInstance.on("renderitems", () => {
+          initParamsAddScript();
+        });
+      });
+    },
+  ]);
+
+  (function () {
+    initParamsAddScript();
+  })();
+</script></body></html>
