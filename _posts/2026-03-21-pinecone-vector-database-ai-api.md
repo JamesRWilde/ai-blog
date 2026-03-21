@@ -2,7 +2,7 @@
 title: "Pinecone: The Vector Database Powering Production AI Search"
 excerpt: "Pinecone is the managed vector database behind semantic search, RAG, and AI agent memory at scale, with sub-millisecond latency and serverless infrastructure."
 coverImage: "/assets/blog/pinecone-cover.jpg"
-date: 2026-03-16T17:31:00+00:00
+date: 2026-03-21T19:00:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.svg"
