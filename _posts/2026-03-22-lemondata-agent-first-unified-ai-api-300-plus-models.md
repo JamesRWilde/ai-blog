@@ -115,10 +115,4 @@ The bigger question is whether the market needs another aggregator or whether th
 
 LemonData is a competent API aggregator with an interesting agent-first thesis. The unified OpenAI-compatible endpoint works as advertised, the model discovery features address a real pain point for agentic applications, and the pricing is competitive. The LemonClaw runtime is ambitious but early. For developers building AI agents that need to run autonomously across multiple providers, it is worth testing. For everyone else, it is a solid alternative to OpenRouter if you value the below-provider pricing and agent-native architecture.
 
----
 
-## Sources
-
-- [LemonData Official Site](https://lemondata.cc)
-- [LemonData Models & Pricing](https://lemondata.cc/en/models)
-- [AI API Market in 2026: Pricing Trends](https://lemondata.cc/en/blog/ai-api-market-2026-trends)
