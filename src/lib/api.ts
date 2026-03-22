@@ -19,9 +19,8 @@ export function getPostBySlug(slug: string) {
   const missing: string[] = [];
   if (!data.title) missing.push("title");
   if (!data.excerpt) missing.push("excerpt");
-  if (!data.coverImage) {
-    missing.push(`coverImage — add it to _posts/${realSlug}.md and put the image in public/assets/blog/`);
-  } else {
+  // coverImage is optional — empty string is allowed
+  if (data.coverImage && data.coverImage !== "") {
     // Check the image file actually exists on disk (skip check for external URLs)
     if (!data.coverImage.startsWith("http://") && !data.coverImage.startsWith("https://")) {
       const imgPath = join(process.cwd(), "public", data.coverImage);
@@ -33,7 +32,7 @@ export function getPostBySlug(slug: string) {
       }
     }
   }
-  if (!data.ogImage?.url) missing.push("ogImage.url");
+  // ogImage.url is optional — empty string is allowed
   if (!data.author?.name) missing.push("author.name");
   if (!data.author?.picture) missing.push("author.picture");
 

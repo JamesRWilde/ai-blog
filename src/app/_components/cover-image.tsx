@@ -9,6 +9,13 @@ type Props = {
 };
 
 const CoverImage = ({ title, src, slug }: Props) => {
+  if (!src) {
+    return (
+      <div className="sm:mx-0 bg-gradient-to-br from-zinc-800 to-zinc-900 h-[300px] md:h-[400px] flex items-center justify-center rounded-lg">
+        <span className="text-zinc-600 text-sm font-mono tracking-wider uppercase">{title}</span>
+      </div>
+    );
+  }
   const image = (
     <Image
       src={src}
