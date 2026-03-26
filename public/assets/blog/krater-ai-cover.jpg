@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Favicon - placed first for immediate loading -->
+    <link rel="icon" type="image/png" href="/favicon.png?v=3" />
+    <link rel="shortcut icon" type="image/png" href="/favicon.png?v=3" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico?v=3" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png" />
+    <link rel="mask-icon" href="/favicon.png" color="#121212" />
+    <title>Krater – Your AI SuperApp</title>
+    <meta name="description" content="Access ChatGPT, Claude, Gemini & 350+ AI models in one platform. Generate images, videos, music & more. Get started today.">
+    <meta name="author" content="Krater" />
+    <meta name="application-name" content="Krater" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="rating" content="general" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="bingbot" content="index, follow" />
+    
+    <!-- Language and International SEO -->
+    <meta name="language" content="en" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="es_ES" />
+    <meta property="og:locale:alternate" content="fr_FR" />
+    <meta property="og:locale:alternate" content="de_DE" />
+    <meta property="og:locale:alternate" content="pt_BR" />
+    <meta property="og:locale:alternate" content="ja_JP" />
+    <meta property="og:locale:alternate" content="ko_KR" />
+    <meta property="og:locale:alternate" content="zh_CN" />
+    
+    <!-- Preconnect to critical origins -->
+    <link rel="preconnect" href="https://pdcpbtyfiyruhptwbsya.supabase.co">
+    <link rel="preconnect" href="https://senja-io.s3.us-west-1.amazonaws.com" crossorigin>
+    <link rel="preconnect" href="https://ph-avatars.imgix.net" crossorigin>
+    
+    
+    
+    <!-- Preload critical resources for faster Speed Index -->
+    <link rel="modulepreload" href="data:application/octet-stream;base64,aW1wb3J0IHsgY3JlYXRlUm9vdCB9IGZyb20gInJlYWN0LWRvbS9jbGllbnQiOwovKioKICog4pqg77iPIENSSVRJQ0FMOiBETyBOT1QgUkVNT1ZFIHRoZSBBbmFseXRpY3MgaW1wb3J0IG9yIGNvbXBvbmVudCBiZWxvdy4KICogVGhpcyBlbmFibGVzIFZlcmNlbCBBbmFseXRpY3MgdHJhY2tpbmcgZm9yIGFsbCBwYWdlIHZpZXdzIGFuZCBjdXN0b20gZXZlbnRzLgogKiBSZW1vdmluZyBpdCB3aWxsIGJyZWFrIGNvbnZlcnNpb24gdHJhY2tpbmcgaW4gcHJvZHVjdGlvbi4KICovCmltcG9ydCB7IEFuYWx5dGljcyB9IGZyb20gJ0B2ZXJjZWwvYW5hbHl0aWNzL3JlYWN0JzsKaW1wb3J0IEFwcCBmcm9tICIuL0FwcC50c3giOwppbXBvcnQgIi4vaW5kZXguY3NzIjsKaW1wb3J0ICIuL2kxOG4iOwppbXBvcnQgeyBpbml0QXR0cmlidXRpb25UcmFja2luZyB9IGZyb20gIi4vbGliL2F0dHJpYnV0aW9uQ29va2llcyI7CgovLyBDYXB0dXJlIG1hcmtldGluZyBhdHRyaWJ1dGlvbiBJRHMgKGZiY2xpZCwgdHRjbGlkKSBmcm9tIFVSTCBpbW1lZGlhdGVseQovLyBUaGlzIG11c3QgcnVuIGJlZm9yZSBSZWFjdCBtb3VudHMgdG8gcHJldmVudCBsb3NpbmcgY2xpY2sgSURzIG9uIG5hdmlnYXRpb24KaW5pdEF0dHJpYnV0aW9uVHJhY2tpbmcoKTsKCi8vIENhcHR1cmUgYmVmb3JlaW5zdGFsbHByb21wdCBnbG9iYWxseSBiZWZvcmUgUmVhY3QgbW91bnRzCi8vIFRoaXMgZW5zdXJlcyB3ZSBkb24ndCBtaXNzIHRoZSBldmVudCB3aGljaCBmaXJlcyBlYXJseQppbnRlcmZhY2UgQmVmb3JlSW5zdGFsbFByb21wdEV2ZW50IGV4dGVuZHMgRXZlbnQgewogIHByb21wdDogKCkgPT4gUHJvbWlzZTx2b2lkPjsKICB1c2VyQ2hvaWNlOiBQcm9taXNlPHsgb3V0Y29tZTogJ2FjY2VwdGVkJyB8ICdkaXNtaXNzZWQnIH0+Owp9CgpsZXQgZGVmZXJyZWRJbnN0YWxsUHJvbXB0OiBCZWZvcmVJbnN0YWxsUHJvbXB0RXZlbnQgfCBudWxsID0gbnVsbDsKCndpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdiZWZvcmVpbnN0YWxscHJvbXB0JywgKGUpID0+IHsKICBlLnByZXZlbnREZWZhdWx0KCk7CiAgZGVmZXJyZWRJbnN0YWxsUHJvbXB0ID0gZSBhcyBCZWZvcmVJbnN0YWxsUHJvbXB0RXZlbnQ7CiAgLy8gRGlzcGF0Y2ggY3VzdG9tIGV2ZW50IHNvIFJlYWN0IGNvbXBvbmVudHMgY2FuIHJlYWN0CiAgd2luZG93LmRpc3BhdGNoRXZlbnQobmV3IEN1c3RvbUV2ZW50KCdwd2EtaW5zdGFsbC1hdmFpbGFibGUnKSk7Cn0pOwoKLy8gRXhwb3NlIGdldHRlciBmb3IgY29tcG9uZW50cwood2luZG93IGFzIGFueSkuX19QV0FfREVGRVJSRURfUFJPTVBUX18gPSAoKSA9PiBkZWZlcnJlZEluc3RhbGxQcm9tcHQ7Cih3aW5kb3cgYXMgYW55KS5fX1BXQV9DTEVBUl9QUk9NUFRfXyA9ICgpID0+IHsgZGVmZXJyZWRJbnN0YWxsUHJvbXB0ID0gbnVsbDsgfTsKCmNvbnN0IHJvb3RFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInJvb3QiKSE7CgovLyBDbGVhciBhbnkgZXhpc3RpbmcgY29udGVudCBhbmQgcmVuZGVyIGZyZXNoCnJvb3RFbGVtZW50LmlubmVySFRNTCA9ICIiOwpjcmVhdGVSb290KHJvb3RFbGVtZW50KS5yZW5kZXIoCiAgPD4KICAgIDxBcHAgLz4KICAgIDxBbmFseXRpY3MgLz4KICA8Lz4KKTsK">
+    
+    <!-- Preload logo assets for instant boot loader -->
+    <link rel="preload" as="image" href="data:image/webp;base64,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">
+    <link rel="preload" as="image" href="data:image/webp;base64,UklGRtQNAABXRUJQVlA4IMgNAADwawCdASr0AfQBPjEYiEQiIYi0zBABglpbuF3TgAZ1sfG4v6S/078gO9z+ifkZ/YP/B8Q+Czt/6u8p54X6m/Zv7R+y/5hc5fp69QL8K/kP9r/qn7O/izxhQAPp9/iP7f+4/+G5yvEA/V3/Jf1v93/iXvG/QPYA/oH9t/w/9z91P91/2v+L/wn7TezX8x/s3+4/x3wDfyb+h/6T+1/u3/nv/////t79ff7hew7+tP/mB7mZQscA6/ATGSyN3a9tMyhY4B1+AmMlkbu17aZlCxwDr8BMZLI3dr20zKFjgHX4CYyWNspYBX8LF7WUx4HT1jyyN3a9tMyhY4B19pqlPt9w3AG1fTa7o1X3qKP3KFjgHX4CYyWRu7XVM+iFCsmWRu6aB1+AmMlkbu17aZeReyM7tdTG12tMvgNOt+2mZQscA6/ATD0aEf/YdL6JHKBbRN6gRQC3g4B1+AmMlkbRR6ayr/uJq8T6gwm08Nks+kyN3a9tMyhQPoVzN65XWwAHX36koDL9kGyI+Gjd2vbTMoWCVCjL8z69lCxwDqRp2iOr1mlG5ZG7te2mFEmxnysHpsBMZLI2gtIcK3Oz+EOAdfgJh4pHIhxhjHkx5ZG7teuEACQA6+rT7mT+janZh4LWNqFBl9u8hWdgJjJZG7tfThB7+VdDgHUjJfx7ozqNXkSWvbTMoWOAdSnWiRpjJZG7te2mZQscA6+03+jmYUzKFjgHX4CYyWRu7XrpIWvDz2a9tMyhY4B1+AmMlkbQUZv/97tJkbu17aZlCxwDr8BKt0QS9TCObXtpmULHAOvwExksixffSt22UjGSyN3a9tMyhY4B19o9bx2S2vMeWRu7XtpmULHAOvv0rlR+DBUj59zKFjgHX4CYyOQQP/C0K+hlKhCEmr44ydwq11GeOMgsjd2vbTMoWOAbKqZ81hWO3LwQ6pFE45SOFTyaJjJZG7te2mZQsFa+JAX4CYyWRu7XtpmUKAxV/G+juiZcc7AtwHImHY0Exksjd2vbTMoWOABpeD4i3cZb+opQOkyN3a9tMyhY4B19+pfw6ZZ83cyhY4B1+AmMlkbsZIEC0h9Vkbu17aZlCxwDr8BKozRsKeEBMZLI3dr20zKFjgHXnPUB8ImwExksjd2vbTMoWOAClVfTt+AmMlkbu164AAD+/y3QAAAAFRWMp78YoxA8SxUt/mCqozkRsHvhtK46XDYBbwaOpUDzOkkxUVXQoM2giNes5O/u7PW478ZjSA6AmMyAFseGDAfdGXCdI0FOwSZutOSeo2X/jgvetY783Ymj7E/ArTJBQObIF78aSWGosJ2HTpPOx7auUaecw3mAk7pys5c6AYXxOxqG1OXcDDwtY/aGCQH9JE6EkHQRmaaEUEEexH4DCu2cSHpXpaOb2W45i/eFrqnEdxj1P+lqLGTQFH8AmB1LxGrOromlRais6Ls9AmSKAFc5G+vABXfPlw7fpBACSgY6kx+2VqVVp+JXRBztG5/+Nkr85Z+321zmvB7lt9HSXs7QemmfRWM9fRhzrsEdp7HVFD4MN8sMu2y/652XbaAj7Bem69isASkdaf4RfJ2aeJfdMUaFaoF7MnqAXB/6Q1CnnEn83U+whlrjmQr6baoLGJOh18hCMS1zh35aVMM4yEH1Av98Kd1jd02yqC1upmAfbjFtdFxchU4W0+o2PNspfX/3j1uBduGI6ejxSqoicNFXp3fD1WQDYrNZNefUI0e30M5Ft2tv0R2fq7S5nfqDMcQ1TNsrW4z+jJ8yZHgG2HgYU8c3DnifYilvkmlyYHab5Ap+H6IUpMQI651Xd/XLaEvm2mXyGl8Pe6+1ABHONV+bhAF+PPld9WIfK0/I7xL8fqOGQ3FhvaaFgrDtCWprLPMsw7vb+uEm0BvAFu9iu8pZTnibc31tmWuby8zNHtpWVkeMyxJMssU3+riR/UZ172F8zruwb2kRoMBub8BZDladuAbxCKZO4lXg0L2iCh4pGG+BUPER62WX2eRCkmkblP9tG1kTxWolLfk3+KoOuIRrx71S3TATltI0esu0EQWJ1GxU4+JkavMx1JBtuCWGZSKP4wA+DSuWvD5IUovKnN0B3RXzmPAR09O7hGCZ+6JoGuKPrskACDvQWAzex/6XbRAztn4srs1EattusXcmU97Wjpvj5qhZ6YarXkPLfrj1v0hzX7+dQnLphQ/OIxfiaHWWAepv0ZSG8PjrMIO4gLBK0BJt4Mxl8k+fAO/MtX1nMPM2u8BVt0UusrE39FyV6VpGtSRUPfrHumZKc/SlINOchqO7V/YzO4ZCOH2fBXTTeMUxRbYZRpIPYwAKLlcPAn9h9iszkgNv0Q2vd31xQtrdCQB3WfYklNkvx0ibpH3wTbVAugioXBbXwFxwp5W9jsObvQFROk100tzDXjgvioTG0d7Ed+UefFTIPQbUcW5QIWMuOZg8CT02Tfk2Nw1G9bEGCw+Jx0ux+mFfbmj99OA0Pp4RWVgmiB3KKTlFPIA7LM/MQXcxfQo1UadR+QRTZsFpMJP/tEX/3MltQGatRNIyrxqtTix2+RkSN20v9sQth+jxoBSOt/S/VkM6iJVTOFE0jhdat6oL9+yoPVShjR1g8KEBWNhMIRUTXy5fJWg7Yv+NME/DmXuire11K56BudX6u7TJ0XZ38l0WJnsqTk5qtJL/o5ZeoIeQ43eD7C78rukzAzvwbJRaqlQ0XYGxLrrUB30SHIa0E9mCQpL8P1lod4sdq8XgEQc9zmtkxWri7Z7hnESGmEScmsk3PzT7pS7uDjQU5xmhPy/9XSTIRHrhMuLnCOoqOaeCTMVc/H/bDRrUS+v83xoDTTSAEHFPd9Yo5Gdi8fzzyI0cI1TStlm9zi7s7l8FKzU+NfGs951SjQSkaFILVizBJdjFhgUjGBLSZD1uTGnOz8N6SsZiLwurEqQG0tpdNlSZxqoh5+or6fL4jxT5FZMxBSCn8OTcqGRw2XGm+0SZ4cuKLdC9f54hd57G/oQAygTAi0GRufF4Ay1Ur7XFZT9jvAytaDxY5TNC3t2tuNy0m3EQn+GTr8cmYizKOAVJs3SM8+c6fNymj7jKvYO3qrdpmGJvQ4l5SP14LQqOUGLZ6EmLEfIgz0xLxc08NA/qP34atCwuq5Ig/i0+Bke0eWz2AM6QRKmf3Uie48kEW559eOMFOeXcFvxG3ds65wYuuuZzeGFmiYB4K6RcI3hXyT2dgQ6v/P7qX5MiaREAtgVfCXbA8OR38LHlgEpwEEtmoBlgq0BcPVIcQWeqzXqGiXCNg/VqjejQxFJpOJVS8OpBiYAEvLy0oYFmVxsn/j+FheaIYbh525fSPGCc5pG7uFi3ctEi8FQxsZ3SqCzK6iyN6aF0GiwI9fxETevRdYeNt9/65dbJaQiYim5e/TnxBXv5XEdygQMhGgSaqOoqTg14Aq0jyv2Wsz/5eKVEDDC/1Rd1tHh/60+YRZZsEP0IGM75f7aayU+D2UKlLWQW4qdX5/F4E14e4DG5d193hg7NDMcKoKIkWvqFRO2CraLX3nWuo/UBoQDjilPmSn0UfIIf25vINpZpAUNfe+Y7k2FP800+rxYtp0ZMBThbRW7PN2tv0z5CcED4fw/zFZeAXLyJ5zdl5HrHK4baWn5AMH3MlckDCzkZYCBwk7AFaAw3QFIKU3H/3HAX4GpxXgqmhS+oPCGQXR7XUQsjjLJFRKcEPeVAeE43uiCYfYLhJntboSQ46ATSJ+LUvl7b9pCbYseAiRQhO3YUeTaqmAoxvMtQEirDnpF1iw+bF7Aa8gr0ggwgn/5G7IBqY51nztucNMZRoInQaa5l7hQsKSgdIz4itZlfOn1qSVJim3pc1NlIS4Ge030bYn06Pn1sFcAEtudum4r8DssDVAMO2xFuDC48SeoT4332uNGprmGziNdvpe1UgceBeRqDLR7p47EydT+rAlP1yr0Kal5xghYXgaw+3H/5t08g6OUSEdhldV+oD5NVbd7RM4uMzrPxJrMlEPjLyuswTsBpyLZv6NQAcCwY4HJWFF5zydTPVbXygAhCCdq/QPzZbgt3bz+Rc405W3/6XMY5HWPu84AbsfQUC/fZ5qozRK7XthEAPHCVbPrW1CpjWte8E28HSwn9N0//JVovLi1uBdiD4bT8jA1Aw9WkACRBkc0u9o5W50wBSedmSCDvn592rUrjqpkFMT/urnv+ttHhLCfl+m8ajMljKpcCiBKxOFwh2JwR3XYt2/kHPHC4gdPmtoVti0ZYYfIpWJucjeNeWK3ALt6XnZBNY3x1oEfYOVE4XyT/HFBcNM0/UP8+nEQ+kEP9622lob+v4IoxF34AuN9J91fQGBKxi4EZ73D9gxZ18ZIWQDZ281BRzURsJeYZaOWV7W4pZ40HkxwWv/vyPKS9SRmWv+kKeWRQPcSMwRV+Ebd8rk3mtE94tyiyAHvugnetwg5d1qV54DFUZgFQ+RPRoAGLolTdPtd3F39vC+1D2PmuG70s8hRGD77VgI4ZuDJzei83ZpsVyRpOrHzzmzXa43Kq80kExmBgGOkU7E8rwzluyvcN1Ffyp5cucie+8pT9L+UcRrDABF9NG0XXJKsoVIo2uDYKrzTjwKdiNixf3yFfOacpX8QJ3Dhq1DELg1+hFbRRyZr7hlAXImT/SF71i67r3tJ/kAvlHCVDHdU3QD2pW3hDKoRWWfXBG755RpzgjBxgyAAAAAA=">
+    
+    <!-- Preload critical font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500&display=swap" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500&display=swap"></noscript>
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://krater.ai/og-image.png">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Krater - Your AI SuperApp" />
+    <meta property="og:site_name" content="Krater" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Krater_ai" />
+    <meta name="twitter:creator" content="@Krater_ai" />
+    <meta name="twitter:image" content="https://krater.ai/og-image.png">
+    <meta name="twitter:image:alt" content="Krater - Your AI SuperApp" />
+    
+    <!-- Meta Pixel Code — stub initialized immediately, script deferred for Speed Index -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];
+      fbq('init', '797991272172274');
+      fbq('init', '2887248714778949');
+      fbq('track', 'PageView');
+      var _loadFbPixel = function() {
+        t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s);
+      };
+      window.addEventListener('load', function() {
+        if (typeof requestIdleCallback === 'function') {
+          requestIdleCallback(_loadFbPixel, { timeout: 8000 });
+        } else {
+          setTimeout(_loadFbPixel, 5000);
+        }
+      });}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    </script>
+    <!-- End Meta Pixel Code -->
+    
+    <!-- TikTok Pixel Code — stub initialized immediately, script deferred for Speed Index -->
+    <script>
+    !function (w, d, t) {
+      w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie","holdConsent","revokeConsent","grantConsent"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(
+      var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var r="https://analytics.tiktok.com/i18n/pixel/events.js",o=n&&n.partner;ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=r,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};
+      var _loadTtPixel = function() {
+        var s=d.createElement("script");
+        s.type="text/javascript";s.async=!0;s.src=r+"?sdkid="+e+"&lib="+t;
+        var f=d.getElementsByTagName("script")[0];f.parentNode.insertBefore(s,f);
+      };
+      w.addEventListener('load', function() {
+        if (typeof requestIdleCallback === 'function') {
+          requestIdleCallback(_loadTtPixel, { timeout: 8000 });
+        } else {
+          setTimeout(_loadTtPixel, 5000);
+        }
+      });};
+      ttq.load('D5J4LP3C77UFQQ26O0PG');
+      ttq.page();
+    }(window, document, 'ttq');
+    </script>
+    <!-- TikTok Pixel Code End -->
+    
+    <!-- Google Ads / gtag.js — stub queued immediately, script deferred for Speed Index -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'GT-5M35P48');
+      gtag('config', 'AW-11180971552');
+      (function(){
+        var _loadGtag = function() {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=GT-5M35P48';
+          var f = document.getElementsByTagName('script')[0];
+          f.parentNode.insertBefore(s, f);
+        };
+        window.addEventListener('load', function() {
+          if (typeof requestIdleCallback === 'function') {
+            requestIdleCallback(_loadGtag, { timeout: 8000 });
+          } else {
+            setTimeout(_loadGtag, 5000);
+          }
+        });
+      })();
+    </script>
+    <!-- End Google Ads -->
+    
+  
+    <!-- Theme bootstrap: apply stored theme class BEFORE first paint to avoid flash -->
+    <script>
+      (function(){
+        try {
+          var stored = localStorage.getItem('krater-theme-v2');
+          var theme = stored === 'light' ? 'light' : stored === 'dark' ? 'dark' : null;
+          if (!theme) {
+            theme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+          }
+          document.documentElement.classList.add(theme);
+        } catch(e){}
+      })();
+    </script>
+    <!-- Inline critical CSS for initial paint + LCP pre-render -->
+    <style>
+      #root-loader {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      /* Theme-aware colors via class on <html> */
+      .dark #root-loader { background: #121212; }
+      .light #root-loader { background: #ffffff; }
+      /* Fallback if no class yet (media query) */
+      #root-loader { background: #121212; }
+      @media (prefers-color-scheme: light) {
+        #root-loader { background: #ffffff; }
+      }
+      #root-loader .boot-logo {
+        width: 48px;
+        height: 48px;
+        border-radius: 12px;
+        animation: logo-pulse 1.5s ease-in-out infinite, scale-in 0.2s ease-out;
+      }
+      .dark #root-loader .boot-logo-light { display: block; }
+      .dark #root-loader .boot-logo-dark { display: none; }
+      .light #root-loader .boot-logo-light { display: none; }
+      .light #root-loader .boot-logo-dark { display: block; }
+      /* Fallback (no class yet) */
+      #root-loader .boot-logo-light { display: block; }
+      #root-loader .boot-logo-dark { display: none; }
+      @media (prefers-color-scheme: light) {
+        #root-loader .boot-logo-light { display: none; }
+        #root-loader .boot-logo-dark { display: block; }
+      }
+      @keyframes logo-pulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.7; transform: scale(0.95); }
+      }
+      @keyframes scale-in {
+        0% { transform: scale(0.95); opacity: 0; }
+        100% { transform: scale(1); opacity: 1; }
+      }
+    </style>
+    <meta property="og:title" content="Krater – Your AI SuperApp">
+    <meta name="twitter:title" content="Krater – Your AI SuperApp">
+    <meta property="og:description" content="Access ChatGPT, Claude, Gemini & 350+ AI models in one platform. Generate images, videos, music & more. Get started today.">
+    <meta name="twitter:description" content="Access ChatGPT, Claude, Gemini & 350+ AI models in one platform. Generate images, videos, music & more. Get started today.">
+    <script type="module" crossorigin src="/assets/index-DAPwZsjD.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-CAqvQLuy.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-query-D8aURlLO.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-i18n-yxKZjz8R.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-tiptap-oKQa-tdc.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-recharts-DjOIwevb.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-supabase-CMOjsLY7.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-markdown-BYKFDJ1l.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-date-BFaoM5CI.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-DrUzuMZQ.css">
+  <link rel="manifest" href="/manifest.webmanifest"></head>
+
+  <body>
+    <div id="root">
+      <!-- Initial loading state for faster FCP + LCP -->
+      <div id="root-loader">
+        <img src="data:image/webp;base64,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" alt="" class="boot-logo boot-logo-light" />
+        <img src="data:image/webp;base64,UklGRtoNAABXRUJQVlA4IM4NAADwawCdASr0AfQBPjEYiEQiIYi0iBABglpbuF2ngBr+gdEe6774g/qX43d8H8//o/7Df13/s/E/gs7c+rPJ2eJ+q32D8ofy35y/T36gX4X/G/7P/Uv2Z/FfjCtJ8wL3U+ff4f8yf7hzleIB+r3+Z/rvtT3jfnPsAfzf+6/4X7wvpU/cv93/jf8P+y/s1/Mf7T/vf8H/kvkH/k/9C/0P9x/dv/Nf/////ct6+f3A9h39a/+6Dujd2vbTMoWOAdfgJjJZG7te2mZQscA6/ATGSyN3a9tMyhY4B1+AmMlkbu17aZlCxwDrzWrp9v5VwFfKtU042mZQscA6/ATGSyN3UcVxNvne1rYTawmglmkT7sBMZLI3dr20zKFjQhHO4ny3AzybdMeWRu7XtpmULG9lrd5Xa6l7wdKXZO02+bKFjgHX4CYyVg4in/yb991W/FJMblEAJmmZQscA6/ATGFdif+l//kcmz+F/0aWbOh/aKYyWRu7XtopI4eZvXKWhsUn4CVO/AE0TlErErGN3a9tMyhY0Egl4hUKIaKYyWRYOS2PD7iFbfGSyN3a9rz6+VkQB1AscA6/ANiyw3coP+Ty5ZG7teuC0UdtsmAx5MeWRu7XrgufVjuRflDmyhYJrue5Nv/BQCADoPyoMUQ4B1+AmMljbtziGSuPBoEr/rm/oSNPCDq7te2mZQscACKXpHte2mZQscA6/ATGSyNpAHo94CYyWRu7XtpmULHAOvOORoltCt7aZlCxwDr8BMZLI3dQME9Ybamd3a9tMyhY4B1+AmMlZY6xrTY7be2mZQscA6/ATGSyN2KCO/5EIKWRu7XtpmULHAOvwEqO8nWJholAscA6/ATGSyN3a9tFQWorUz8Z0mRu7XtpmULHACAQ354SdyOj1a0+EZOqk7algB5iPRiumZQscA6/ATGSsYscQQ2rfwAGC/AD6ejhv39HHpMjd2vbTMoWOAbIetPu7XtpmULHAOvwExhRmCuN9HdEyHD15Q4yNh22/ATGSyN3a9tMyhQb61+qlDFFEIBMElr20zKFjgHX4CYyNnEaUtbwcA6/ATGSyN3a9tMI09dlG7te2mZQscA6/ATGRtJFo6ap8BMZLI3dr20zKFjgHUuOXNgMoWOAdfgJjJZG7te2i1BDa+17aZlCxwDr7QAD+/ijNpw0UDKxQAACKyixg/Hb8S1dZxLT+mJ924xu1GYUiSAuqaEM8AUfaYBhesaf3WNL77WvwHlOEW6A3Lv0CdS66U8pNfgUJn3s0pwMNLeYejMwl81dejnRsUa4UuVGfS5dMvQ6KrUYdxVVMogZecQE79Ym929LKegTBo+0s9tVI3svrTb019QmS5K+yFhdQirc5q3tUA0a44yZuf1cMzXMsRNI3asv2fbacOR5MobiV+W4pjMwjJfXCn9R4uJxxc6ApJZ+zuR1Xvuh+HZG8cuooFLv0W36UlREAZEv5JItX+pAkv3k6h21LSCjuQp0o37Y4HAPMM0HUAa7yECDcS7WXkf1Y4GvrxnvQO/ZfLTTdxrK2rzrhgXwikZGlRN4KXtf7KO3C6jASPMxzlJAChb09DZzft0KT5swptwMJNxRlXlS+Dp6McBXL8tpiiwEiqjylhIRv5WG8hiyrnGzUW5+CAq5b6BUdG8iKGYikRbH5A/9RggusXXtrVeHySboG9vcAmmXRkkTrlwhsYPZDqsoY0W1Aak7OQh8pFStrJP96VrmPO6QYIY3ytq00xiSrm9q7PPoD6nY2KOsTgm0ktRfaaBaYRVXyYpDry/T0nXGjMee9EeM/50HKiW7oPP7yVehWGbv5yDIvFcBbCTmWOqK7mlMA9P5uyf5dZzVg+H0muWHCfHgRxlgQrDzINvRrsMaYnPFCYmNcdff3stp9MQFbrMnRzxN+LKNAMujwirQC4pXw4bNrmNDs1ToPAsp0aWzOuLMi66d9l3ZLH6ewkr135Ljq/KwlXsg7BxFp9UDPDtYKZB+6p94/6pJIqnC/L4hi0cmiS27H8vpwRh/y1YDvDkoGCSFc1AbB26QqELzhmu6jmhtyCFVXL0difqnLq8AA7xiLR/DX2m+nZaJN/k5MBO4NuSyJ0i63Z1b9jiMYzETbzOKBFE2ZYmWdrqDPnKD6rastDmFme6kyeuT3OLSImzNqHDYviQEmWmYj0E/76QC2IZfoj37h/K63ysNDYjoLKy90BL/V+EKhJWZF+tNLE+JWmY56eNlnSbbSKgOVdB//4keYoWtpW1adH/CVq9qImZSudTbeVKD04skbVuDwpJOQJGv0eoYa+QqBSX+oWR9Hay7J+mnNnieCf9KbJwgKmCsTIFa2M5C2fID0gAiFt06vO7yEaWFI8YFyVK+EpXdeys+agcJSS4MCUtk+4NX9FsnFpi2Q7Ml5RfJO1/ORRtyRkS6hIepcj+Cm5OPpvbVw6B2X5ojNQlaa3GAxZt5TozSep9l+lzg9fpUhz0FCFfOyW8viXhWes3tMFSNDysCNeXCGFmm7/s7tF9L0+WvRZTT+qlh/ju9Z6pkgDZmNSBN+AAHiwZZSXybYQDvKubpX97kr4K36H97c3U9Ee/PfnRPCe0A7ggZl1cX0PetnFSnHiNsoQWyPr4oqJhTPN4f+60JSBdN+oqsjxW1II4t1S3Scg8AhLHmDs64V5F06iP6j9qO/BJdpOiZ8cgpFMAx1Id9uJZOMMNJYL6nTDaWOudhdOI0FuN++ATdwZki8WEsCxucRoNOfFxk/O6U4kANTwntPohgFFSOsturkvMVvejSJp7PoQDzbBdpa7A9QKRWCNRWWZ59i3OOFEE0pB5tL7BNxNriVHcxF/PtIGCRau468rb04SmkYRpe5QbvCP6qxRcrL11wo4yreAe/MpqpPMwdCUqemlZqI9b/rVnAg/HyO0NcuTGK8uJn3gR9tyQc95VEk7LvC5V66XGzC6c+bLOBBXxgrnoTR2ew7k29Bj/OsxyiSNOzZCdUuMu1SPp4spmyLhzRo0kAsoeMPrJuloDDc6LovZ9iO8TuA1n6KW5Q80GMuQpL+DVGR6Ra0jzuopei/mrKVWpZp8onDQvAAuVZFoEQeT7M/dczfjCR7rQzvX1H6kKp03ngU8EUJd/fDos84Q3gwjpqsMYCvmnAB4Xi5GXNVpWa7kdIN/I2rqKnYzeYEAhA7o/SNZ44AAfFHohRvgL7QYbgwj4uJa6wP0xt0C0rsTrWuv/MUDVoObr+H9AQQIjmK4JYfkItwQIvxHOrWaiiqutdG4IyJw0bE0BgQu9ZnayHYcqnoLg3TVixDTajBi5q/srrUBfhvHH/920mIDn00XRgP5PtWlS6MOsd77oQsMIVkh40hX1u4SBEN4PI63jrNBb0w2i9oyRxalzVkbG674VNSoKTCAcmcDMNxHUfCWzS0XDACFkWYf2rzFjvbCafs/p/qyIrIHSYbIBZDp8Ly7ryKCpi/ugwx4/9hRYZDyd3Yh+D9MaQCGcTAcE82FRWF+qeOb/iCF4xSx+GIhIpTsYrtFrSrKOPhh4gl0X8CYHWV1UuB9yenWe2y35YHFt+SAIQTriFK5IguuCBQmB17T/atjPaHsdI8k5JJyvJJuqNISC58MvV5YjA8tYBuuQADQDAWLFvpRRn4/xAGkdv1UQQJAWdyfwjhEi2bOVp1Q5KfR8cLpbK8bqW7Jz0qM8RZ1aNhvupcs9qllq3vu/LGHWO9LhB+5o76gmzGqrP6b6dJbykKIcpC7etxiqqodAProf/R46k6UzJPCoTOMEBTn2ZUPhcUQB12/t+4Zletm2NSPfHJk1f6QGOhMIKwuQXI/ShHUSbHjhrJK/+tknFZ8q/oDAdgOVRZdg0aSCc8U3h3KTO2u5iFRzsKRYU/wjzo/VnzamABgxwjb6VMvlZqlxAONbxSYe6oGaH35OZkfJbM73sg3f8HGakShNml4ky6TkTACeYJCZMK2lG0RuxQ7O4TuPableh0o9ZYpS2oM/nT/uXHjjkLXsKfggntkCBdC0Z+L2tiFb8sh36gPBlzVlOiJjA9YOy9lEvtAcHYksANUFUdD4M6fg+b7STrFthUogb4XTPXTu6hPyyTPHMyZ82ABv+umWNWUS6nBPH+6K96TWUOOT9/5w4Ln0hyfKgMTK7X5Qgy9xyCAAQoDKFlHfzTNzzTpQS/llJvO89G4jd4ulL3x0QSaJvW11b2qCn2NK9x1OBtfpOJib/cJMGyFtF09sGGp2ALZJ3ZIIZ6ky4FA1mjgJCGuX5gxchqGZkJ0MT7kIquTBEJSUN74w1W7+n+we4VmJH3ZsztTA7UcedQr1rng+TVUP9+8iTVmdxlmV/exF7rT4QmQNbZYanBAMxd1lLiJ5XbALg35YPFrnnr9LgUxgwE4zgL4IGcoCioSNAYLd8dF4HK1NN8OWIbd4L4SK1cs3h53y0kCCbZRAT4lf3lJM2WKbJUN3qK5pkaFAbqBUQXieD9fQ9zWiz0eDnwJoS+le1MS24P/pwe5aRGkB3NpBlbR4J9JsvaY+xLvpru6/zEkul9l8/ydqyWU6KDEZ/N3dQ/d56Pbpyln7WB2CEYKrS43Yr0szGI/QIsPXUAAghLbjCO++MuqhW3MMnzQRc1tzf4qW8ifdQ1zun1AVu06kpzrL16WBFSqf6v8M4ULn3uvl2kf6oldzHNTUDn3+o90a+++cbE16JjzbCjYmMvNwCjkCmLh7LLVod1gi/MstQAAAA=" alt="" class="boot-logo boot-logo-dark" />
+      </div>
+    </div>
+    
+    <!-- SEO fallback content for search engines without JS execution -->
+    <noscript>
+      <div style="max-width: 1200px; margin: 0 auto; padding: 40px 20px; font-family: system-ui, -apple-system, sans-serif;">
+        <header style="margin-bottom: 40px;">
+          <h1 style="font-size: 2.5rem; margin-bottom: 16px;">Krater – Your AI SuperApp</h1>
+          <p style="font-size: 1.25rem; color: #666;">Access 350+ AI models including ChatGPT, Claude, Gemini, and more in one platform.</p>
+        </header>
+        
+        <main>
+          <section style="margin-bottom: 40px;">
+            <h2 style="font-size: 1.5rem; margin-bottom: 16px;">What is Krater.ai?</h2>
+            <p>Krater is the ultimate AI SuperApp that gives you access to over 350 AI models from leading providers like OpenAI, Anthropic, Google, Meta, and more. Generate images, videos, music, and chat with the most advanced AI models – all with one subscription starting at $7.50/month.</p>
+          </section>
+          
+          <section style="margin-bottom: 40px;">
+            <h2 style="font-size: 1.5rem; margin-bottom: 16px;">Featured AI Models</h2>
+            <ul>
+              <li><a href="/models/gpt-5-2">GPT-5.2</a> – OpenAI's flagship multimodal model</li>
+              <li><a href="/models/claude-sonnet-5">Claude Sonnet 5</a> – Anthropic's most capable model</li>
+              <li><a href="/models/gemini-3">Gemini 3</a> – Google's latest AI model</li>
+              <li><a href="/models/deepseek-v3">DeepSeek V3</a> – Advanced reasoning model</li>
+              <li><a href="/models/grok-3">Grok 3</a> – xAI's conversational model</li>
+            </ul>
+            <p><a href="/models">View all 350+ AI models →</a></p>
+          </section>
+          
+          <section style="margin-bottom: 40px;">
+            <h2 style="font-size: 1.5rem; margin-bottom: 16px;">Key Features</h2>
+            <ul>
+              <li>Chat with 350+ AI models from OpenAI, Anthropic, Google, Meta, and more</li>
+              <li>Generate stunning images with FLUX, DALL-E, and Stable Diffusion</li>
+              <li>Create videos with Runway, Kling, and other video AI models</li>
+              <li>Compose music with Suno and Udio</li>
+              <li>No API keys required – everything works out of the box</li>
+            </ul>
+          </section>
+          
+          <section>
+            <h2 style="font-size: 1.5rem; margin-bottom: 16px;">Get Started</h2>
+            <p>Try Krater with 3 guest preview messages per day, or subscribe starting at $7.50/month for full access.</p>
+            <p><a href="/pricing">View pricing →</a></p>
+          </section>
+        </main>
+        
+        <footer style="margin-top: 60px; padding-top: 20px; border-top: 1px solid #eee;">
+          <nav>
+            <a href="/about">About</a> · 
+            <a href="/pricing">Pricing</a> · 
+            <a href="/blog">Blog</a> · 
+            <a href="/models">AI Models</a> · 
+            <a href="/privacy">Privacy</a> · 
+            <a href="/terms">Terms</a>
+          </nav>
+          <p style="margin-top: 16px; color: #666;">© 2026 Krater.ai – The AI SuperApp</p>
+        </footer>
+      </div>
+    </noscript>
+    
+  </body>
+</html>
