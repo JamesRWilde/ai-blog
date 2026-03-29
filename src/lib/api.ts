@@ -11,7 +11,16 @@ export function getPostSlugs() {
 
 export function getPostBySlug(slug: string) {
   const realSlug = slug.replace(/\.md$/, "");
-  const fullPath = join(postsDirectory, `${realSlug}.md`);
+  // Support both date-prefixed filenames (2026-03-29-slug.md) and direct slugs (slug.md)
+  let fullPath = join(postsDirectory, `${realSlug}.md`);
+  if (!fs.existsSync(fullPath)) {
+    // Try date-prefixed variant
+    const files = fs.readdirSync(postsDirectory);
+    const matched = files.find(f => f.endsWith(`-${realSlug}.md`) || f === `${realSlug}.md`);
+    if (matched) {
+      fullPath = join(postsDirectory, matched);
+    }
+  }
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
