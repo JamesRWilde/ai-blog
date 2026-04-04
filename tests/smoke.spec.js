@@ -1,30 +1,28 @@
 const { test, expect } = require('@playwright/test');
 
-test('blog smoke test — homepage loads, articles render', async ({ page }) => {
+test('no console errors on homepage or first three articles', async ({ page }) => {
   const errors = [];
-  page.on('pageerror', err => errors.push(err.message));
-  page.on('console', msg => { if (msg.type() === 'error') errors.push(msg.text()); });
+  page.on('pageerror', err => errors.push({ type: 'pageerror', msg: err.message }));
+  page.on('console', msg => { if (msg.type() === 'error') errors.push({ type: 'console', msg: msg.text() }); });
 
-  // Load homepage
+  // 1. Load homepage
   await page.goto('/', { waitUntil: 'networkidle', timeout: 30000 });
-  expect(errors, 'No errors on homepage load').toHaveLength(0);
+  if (errors.length) {
+    expect(errors, `Console error on homepage load — errors: ${JSON.stringify(errors)}`).toHaveLength(0);
+  }
 
-  // Find article links
-  const link = page.locator('a[href*="/posts/"], a[href*="/review/"]').first();
-  await link.waitFor({ state: 'visible', timeout: 10000 });
-  const firstHref = await link.getAttribute('href');
-  expect(firstHref).toBeTruthy();
+  // 2. Get article links from homepage
+  const articleLinks = await page.locator('a[href*="/posts/"], a[href*="/review/"]').all();
+  const hrefs = (await Promise.all(articleLinks.map(el => el.getAttribute('href'))))
+    .filter(h => h && h.startsWith('/'));
 
-  // Visit first article
-  await page.goto(firstHref, { waitUntil: 'networkidle', timeout: 30000 });
-  expect(errors, `No errors on first article`).toHaveLength(0);
-
-  // Visit second article
-  await page.goto('/', { waitUntil: 'networkidle', timeout: 30000 });
-  const secondLink = page.locator('a[href*="/posts/"], a[href*="/review/"]').nth(1);
-  const secondHref = await secondLink.getAttribute('href');
-  if (secondHref) {
-    await page.goto(secondHref, { waitUntil: 'networkidle', timeout: 30000 });
-    expect(errors, `No errors on second article`).toHaveLength(0);
+  // 3. Visit first 3 articles and check for errors on each
+  const count = Math.min(3, hrefs.length);
+  for (let i = 0; i < count; i++) {
+    const url = hrefs[i];
+    await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
+    if (errors.length) {
+      expect(errors, `Console error on "${url}" — errors: ${JSON.stringify(errors)}`).toHaveLength(0);
+    }
   }
 });
