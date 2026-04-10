@@ -1,13 +1,13 @@
 ---
 title: "Cyfuture AI Serverless Inference API - Enterprise GPU Cloud from India"
 excerpt: "A serverless inference platform that eliminates infrastructure management with auto-scaling GPU resources, pay-per-use pricing starting at $0.09/1M tokens, and support for 5000+ open-source models."
-coverImage: "/assets/blog/cyfuture-ai-cover.jpg"
+coverImage: "/assets/blog/placeholder-cover.jpg"
 date: 2026-04-09T09:20:00+00:00
 author:
   name: Hunter McQueen
   picture: "/assets/blog/authors/hunter.svg"
 ogImage:
-  url: "/assets/blog/cyfuture-ai-cover.jpg"
+  url: "/assets/blog/placeholder-cover.jpg"
 ---
 
 ## TL;DR
