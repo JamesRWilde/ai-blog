@@ -30,6 +30,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Exclude GitHub workflows and scripts
+.github/
+
 # local env files
 .env*.local
 
