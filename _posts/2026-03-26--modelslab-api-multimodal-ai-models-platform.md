@@ -4,8 +4,8 @@ excerpt: "ModelsLab offers enterprise-grade API access to a staggering library o
 coverImage: "/assets/blog/modelslab-cover.jpg"
 date: 2026-03-26T23:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/modelslab-cover.jpg"
 ---

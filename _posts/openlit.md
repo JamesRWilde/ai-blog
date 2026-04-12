@@ -4,8 +4,8 @@ excerpt: "OpenLIT brings OpenTelemetry-native tracing, evaluations, prompt manag
 coverImage: "/assets/blog/openlit-cover.jpg"
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/openlit-cover.jpg"
 ---

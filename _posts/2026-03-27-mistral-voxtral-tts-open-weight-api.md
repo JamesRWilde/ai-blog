@@ -4,8 +4,8 @@ excerpt: "Mistral AI released Voxtral TTS, a 4B-parameter open-weight text-to-sp
 coverImage: "/assets/blog/mistral-voxtral-tts-cover.png"
 date: 2026-03-27T02:15:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/mistral-voxtral-tts-cover.png"
 ---

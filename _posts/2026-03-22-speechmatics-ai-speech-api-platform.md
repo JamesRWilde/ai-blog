@@ -3,8 +3,8 @@ title: "Speechmatics API: Enterprise-Grade Speech-to-Text and Voice AI for Devel
 excerpt: "Speechmatics offers real-time and batch speech-to-text APIs across 55+ languages, plus a new text-to-speech engine and Flow voice agent platform."
 date: 2026-03-22T11:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 coverImage: "/assets/blog/speechmatics-cover.png"
 ogImage:
   url: "/assets/blog/speechmatics-cover.png"

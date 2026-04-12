@@ -4,8 +4,8 @@ excerpt: "An open-source vector database with managed cloud API, built entirely 
 coverImage: "/assets/blog/qdrant-cover.jpg"
 date: 2026-03-16T18:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/qdrant-cover.jpg"
 ---

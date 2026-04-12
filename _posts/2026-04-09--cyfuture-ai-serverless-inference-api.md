@@ -4,8 +4,8 @@ excerpt: "A serverless inference platform that eliminates infrastructure managem
 coverImage: "/assets/blog/placeholder-cover.jpg"
 date: 2026-04-09T09:20:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/placeholder-cover.jpg"
 ---

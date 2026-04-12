@@ -4,8 +4,8 @@ excerpt: "JetBrains introduces proactive AI capabilities with its new experiment
 coverImage: "/assets/blog/jetbrains-ai-cover.png"
 date: 2026-03-20T20:51:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/jetbrains-ai-cover.png"
 ---

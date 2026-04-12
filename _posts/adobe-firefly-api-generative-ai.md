@@ -4,8 +4,8 @@ excerpt: "Adobe Firefly API brings text-to-image, image editing, generative fill
 coverImage: "/assets/blog/adobe-firefly-cover.jpg"
 date: 2026-03-22T00:46:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/adobe-firefly-cover.jpg"
 ---

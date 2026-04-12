@@ -4,8 +4,8 @@ excerpt: "SOUNDRAW's AI music API generates unlimited, copyright-safe tracks tra
 coverImage: "/assets/blog/soundraw-api-cover.png"
 date: 2026-03-28T23:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/soundraw-api-cover.png"
 ---

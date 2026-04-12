@@ -4,8 +4,8 @@ excerpt: "Google's Veo 3.1 Lite brings video generation to developers at half th
 coverImage: "/assets/blog/google-veo-3-1-lite-api-cover.jpg"
 date: 2026-04-02T08:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/google-veo-3-1-lite-api-cover.jpg"
 ---

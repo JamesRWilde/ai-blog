@@ -4,8 +4,8 @@ excerpt: "Cloudflare acquires Replicate, the 'run any ML model with one line of 
 coverImage: "/assets/blog/replicate-cover.png"
 date: 2026-03-16T08:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/replicate-cover.png"
 ---

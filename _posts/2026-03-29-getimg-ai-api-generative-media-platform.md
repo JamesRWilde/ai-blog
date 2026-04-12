@@ -4,8 +4,8 @@ excerpt: "getimg.ai offers a unified API for image and video generation, giving 
 coverImage: "/assets/blog/getimg-ai-cover.jpg"
 date: 2026-03-29T03:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/getimg-ai-cover.jpg"
 ---

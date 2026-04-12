@@ -4,8 +4,8 @@ excerpt: "NYSE-listed FiscalNote just expanded its PolicyNote API with an MCP se
 coverImage: "/assets/blog/fiscalnote-cover.png"
 date: 2026-03-17T01:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/fiscalnote-cover.png"
 ---

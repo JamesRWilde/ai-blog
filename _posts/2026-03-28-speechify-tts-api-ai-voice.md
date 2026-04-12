@@ -4,8 +4,8 @@ excerpt: "Speechify's API delivers lifelike AI voices across 50+ languages, with
 coverImage: "/assets/blog/speechify-tts-api-cover.jpg"
 date: 2026-03-28T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/speechify-tts-api-cover.jpg"
 ---

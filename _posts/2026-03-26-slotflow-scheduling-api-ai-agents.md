@@ -4,8 +4,8 @@ excerpt: "Slotflow gives AI agents a native scheduling layer to check availabili
 coverImage: "/assets/blog/slotflow-api-cover.jpg"
 date: 2026-03-26T15:24:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/slotflow-api-cover.jpg"
 ---

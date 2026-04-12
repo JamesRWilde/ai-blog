@@ -4,8 +4,8 @@ excerpt: "HeyGen's API turns text prompts into full avatar videos, supports real
 coverImage: "/assets/blog/heygen-api-cover.jpg"
 date: 2026-03-21T15:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/heygen-api-cover.jpg"
 ---

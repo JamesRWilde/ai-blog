@@ -5,8 +5,8 @@ coverImage: ""
 date: "2026-03-27"
 genre: "Tech"
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 ---

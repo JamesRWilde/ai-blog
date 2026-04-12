@@ -5,8 +5,8 @@ date: 2026-03-21T23:07:00
 excerpt: "DeepL has quietly built one of the most capable AI language APIs on the market, spanning text translation, document processing, writing assistance, and real-time voice translation. Here's what developers need to know about its full API suite."
 coverImage: "/assets/blog/deepl-api-cover.svg"
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/deepl-api-cover.svg"
 ---

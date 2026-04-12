@@ -4,8 +4,8 @@ excerpt: "Turbopuffer combines vector and full-text search on object storage, de
 coverImage: "/assets/blog/turbopuffer-cover.png"
 date: 2026-03-29T09:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/turbopuffer-cover.png"
 ---

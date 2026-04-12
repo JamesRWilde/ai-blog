@@ -4,8 +4,8 @@ excerpt: "Anyscale, built by the creators of Ray, offers a fully managed platfor
 coverImage: "/assets/blog/anyscale-cover.png"
 date: 2026-03-16T15:09:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/anyscale-cover.png"
 ---

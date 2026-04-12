@@ -4,8 +4,8 @@ excerpt: "Novita AI offers serverless model APIs, dedicated GPU instances, and a
 coverImage: "/assets/blog/novita-ai-cover.jpg"
 date: 2026-03-16T00:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/novita-ai-cover.jpg"
 ---

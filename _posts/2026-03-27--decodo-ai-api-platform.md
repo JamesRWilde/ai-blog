@@ -4,8 +4,8 @@ excerpt: "Decodo (formerly Smartproxy) combines web scraping APIs, AI-powered pa
 coverImage: "/assets/blog/decodo-ai-api-platform.jpg"
 date: 2026-03-27T07:43:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/decodo-ai-api-platform.jpg"
 ---

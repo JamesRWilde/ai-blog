@@ -4,8 +4,8 @@ excerpt: "StackAI offers a no-code platform for building, deploying, and governi
 coverImage: "/assets/blog/stackai-cover.png"
 date: 2026-03-16T03:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/stackai-cover.png"
 ---

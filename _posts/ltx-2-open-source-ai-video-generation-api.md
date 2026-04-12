@@ -4,8 +4,8 @@ excerpt: "Lightricks releases LTX-2, an open-source AI video generation model th
 coverImage: "/assets/blog/ltx-video-cover.jpg"
 date: 2026-03-22T05:36:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/ltx-video-cover.jpg"
 ---

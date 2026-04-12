@@ -4,8 +4,8 @@ excerpt: "Murf AI provides production-grade text-to-speech, dubbing, and voice c
 coverImage: "/assets/blog/murf-ai-cover.webp"
 date: 2026-03-21T17:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/murf-ai-cover.webp"
 ---

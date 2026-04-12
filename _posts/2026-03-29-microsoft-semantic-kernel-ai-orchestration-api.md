@@ -4,8 +4,8 @@ excerpt: "Semantic Kernel is Microsoft's open-source SDK for building AI agents 
 coverImage: "/assets/blog/semantic-kernel-cover.jpg"
 date: 2026-03-29T06:15:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/semantic-kernel-cover.jpg"
 ---

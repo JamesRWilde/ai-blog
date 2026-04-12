@@ -4,8 +4,8 @@ excerpt: "Mubert's AI Music API generates royalty-free tracks from text prompts,
 coverImage: "/assets/blog/mubert-api-cover.jpg"
 date: 2026-03-27T03:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/mubert-api-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "Tencent's Hunyuan API delivers a surprisingly complete AI model suite 
 coverImage: "/assets/blog/tencent-hunyuan-api-cover.jpg"
 date: 2026-03-27T04:50:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/tencent-hunyuan-api-cover.jpg"
 ---

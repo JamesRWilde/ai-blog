@@ -3,8 +3,8 @@ title: "Oxylabs Web Scraper API: Enterprise Web Data Collection for AI and ML Te
 excerpt: "Oxylabs' Web Scraper API delivers real-time, structured web data with AI-powered parsing and proxy management, targeting developers building AI applications that need reliable public data."
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 coverImage: "/assets/blog/oxylabs-api-cover.jpg"
 ogImage:
   url: "/assets/blog/oxylabs-api-cover.jpg"

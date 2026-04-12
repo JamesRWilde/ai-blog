@@ -4,8 +4,8 @@ excerpt: "Dust's API lets developers build, deploy, and orchestrate custom AI ag
 coverImage: "/assets/blog/dust-ai-agent-api-cover.png"
 date: 2026-03-29T05:55:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/dust-ai-agent-api-cover.png"
 ---

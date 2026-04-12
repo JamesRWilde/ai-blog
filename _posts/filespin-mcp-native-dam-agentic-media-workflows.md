@@ -4,8 +4,8 @@ excerpt: "FileSpin rebuilt its entire digital asset management stack around the 
 coverImage: "/assets/blog/filespin-cover.jpg"
 date: 2026-03-17T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/filespin-cover.jpg"
 ---

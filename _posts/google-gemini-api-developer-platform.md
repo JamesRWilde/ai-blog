@@ -4,8 +4,8 @@ excerpt: "Google's Gemini API offers a family of multimodal AI models through Go
 coverImage: "/assets/blog/google-gemini-api-cover.jpg"
 date: 2026-03-21T14:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/google-gemini-api-cover.jpg"
 ---

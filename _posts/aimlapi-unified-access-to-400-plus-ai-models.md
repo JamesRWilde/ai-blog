@@ -4,8 +4,8 @@ excerpt: AIMLAPI offers developers a single gateway to access over 400 AI models
 coverImage: "/assets/blog/aimlapi-cover.png"
 date: 2026-03-13T08:01:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/aimlapi-cover.png"
 ---

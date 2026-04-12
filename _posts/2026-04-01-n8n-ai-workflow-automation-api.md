@@ -4,8 +4,8 @@ excerpt: "n8n pairs a visual workflow builder with a full REST API and 500+ inte
 coverImage: "/assets/blog/n8n-ai-workflow-automation-api.png"
 date: 2026-04-01T03:22:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/n8n-ai-workflow-automation-api.png"
 ---

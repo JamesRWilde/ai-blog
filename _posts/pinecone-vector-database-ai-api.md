@@ -4,8 +4,8 @@ excerpt: "Pinecone is the managed vector database behind semantic search, RAG, a
 coverImage: "/assets/blog/pinecone-cover.jpg"
 date: 2026-03-21T19:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/pinecone-cover.jpg"
 ---

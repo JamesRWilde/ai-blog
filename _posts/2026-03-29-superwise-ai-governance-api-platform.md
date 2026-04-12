@@ -4,8 +4,8 @@ excerpt: "Superwise provides a unified API-first platform for real-time AI guard
 coverImage: "/assets/blog/superwise-ai-governance-api-cover.jpg"
 date: 2026-03-29T08:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/superwise-ai-governance-api-cover.jpg"
 ---

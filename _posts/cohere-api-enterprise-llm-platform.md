@@ -4,8 +4,8 @@ excerpt: "Cohere's Command A and Command R+ models deliver 256K context, multi-s
 coverImage: "/assets/blog/cohere-cover.jpg"
 date: 2026-03-16T13:37:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/cohere-cover.jpg"
 ---

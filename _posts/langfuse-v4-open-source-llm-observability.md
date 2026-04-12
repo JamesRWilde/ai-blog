@@ -4,8 +4,8 @@ excerpt: "Langfuse overhauled its ClickHouse architecture with an observation-ce
 coverImage: "/assets/blog/langfuse-cover.png"
 date: 2026-03-17T16:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/langfuse-cover.png"
 ---

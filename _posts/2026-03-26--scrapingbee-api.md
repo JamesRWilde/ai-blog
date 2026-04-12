@@ -4,8 +4,8 @@ excerpt: "ScrapingBee combines headless browser management, rotating proxies, an
 coverImage: "/assets/blog/scrapingbee-api-ai-web-scraping.png"
 date: 2026-03-26T22:34:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/scrapingbee-api-ai-web-scraping.png"
 ---

@@ -4,8 +4,8 @@ excerpt: "LanceDB is an open-source multimodal vector database and lakehouse bui
 coverImage: "/assets/blog/lancedb-cover.png"
 date: 2026-03-27T02:50:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/lancedb-cover.png"
 ---

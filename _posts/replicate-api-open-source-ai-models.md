@@ -4,8 +4,8 @@ excerpt: "Replicate provides a cloud API that lets developers run, fine-tune, an
 coverImage: "/assets/blog/replicate-api-cover.png"
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/replicate-api-cover.png"
 ---

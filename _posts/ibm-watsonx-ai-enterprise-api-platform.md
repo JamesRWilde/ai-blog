@@ -4,8 +4,8 @@ excerpt: "IBM's watsonx.ai is an enterprise-grade AI development studio offering
 coverImage: "/assets/blog/ibm-watsonx-cover.jpg"
 date: 2026-03-21T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/ibm-watsonx-cover.jpg"
 ---

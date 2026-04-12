@@ -4,8 +4,8 @@ excerpt: "D-ID offers an API platform for creating photorealistic AI avatar vide
 coverImage: "/assets/blog/d-id-cover.png"
 date: 2026-03-16T19:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/d-id-cover.png"
 ---

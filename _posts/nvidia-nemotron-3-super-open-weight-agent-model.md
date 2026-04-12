@@ -4,8 +4,8 @@ excerpt: "NVIDIA's Nemotron 3 Super is a 120B parameter open-weight model built 
 coverImage: "/assets/blog/nvidia-nemotron-cover.jpg"
 date: 2026-03-16T16:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/nvidia-nemotron-cover.jpg"
 ---

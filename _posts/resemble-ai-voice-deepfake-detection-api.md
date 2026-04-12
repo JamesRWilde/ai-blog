@@ -4,8 +4,8 @@ excerpt: "Resemble AI combines open-source text-to-speech with enterprise deepfa
 coverImage: "/assets/blog/resemble-ai-voice-api.jpg"
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/resemble-ai-voice-api.jpg"
 ---

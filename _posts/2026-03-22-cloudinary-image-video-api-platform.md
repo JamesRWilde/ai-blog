@@ -4,8 +4,8 @@ excerpt: "Cloudinary combines programmable image and video APIs with generative 
 coverImage: ""
 date: 2026-03-22T15:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 ---

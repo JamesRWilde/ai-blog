@@ -4,8 +4,8 @@ excerpt: "Langtail is an LLMOps platform that gives developers collaborative pro
 coverImage: "/assets/blog/langtail-cover.jpg"
 date: 2026-03-29T01:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/langtail-cover.jpg"
 ---

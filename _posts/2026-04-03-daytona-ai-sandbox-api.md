@@ -4,8 +4,8 @@ excerpt: "Daytona provides sub-90ms sandbox creation for AI agents, letting deve
 coverImage: "/assets/blog/daytona-sandbox-api-cover.jpg"
 date: 2026-04-03T03:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/daytona-sandbox-api-cover.jpg"
 ---

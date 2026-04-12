@@ -4,8 +4,8 @@ excerpt: "WSO2 launched its open, modular API Platform today, unifying tradition
 coverImage: "/assets/blog/wso2-api-platform-cover.png"
 date: 2026-03-31T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/wso2-api-platform-cover.png"
 ---

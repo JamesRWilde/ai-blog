@@ -4,8 +4,8 @@ excerpt: "Deepdub's API delivers Hollywood-grade, emotionally adaptive text-to-s
 coverImage: "/assets/blog/deepdub-cover.jpg"
 date: 2026-03-22T09:01:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/deepdub-cover.jpg"
 ---

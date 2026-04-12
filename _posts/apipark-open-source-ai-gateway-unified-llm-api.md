@@ -4,8 +4,8 @@ excerpt: "APIPark is an open-source, Apache 2.0 licensed AI gateway and API deve
 coverImage: "/assets/blog/apipark-cover.png"
 date: 2026-03-22T04:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/apipark-cover.png"
 ---

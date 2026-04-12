@@ -4,8 +4,8 @@ excerpt: "Algolia's AI-powered Search API combines hybrid keyword and vector ret
 coverImage: "/assets/blog/algolia-ai-search-api-cover.jpg"
 date: 2026-03-22T12:53:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/algolia-ai-search-api-cover.jpg"
 ---

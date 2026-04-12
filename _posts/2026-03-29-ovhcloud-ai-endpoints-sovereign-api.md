@@ -4,8 +4,8 @@ excerpt: "OVHcloud AI Endpoints offers 40+ open-weight models via OpenAI-compati
 coverImage: "/assets/blog/ovhcloud-ai-endpoints-cover.png"
 date: 2026-03-29T10:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/ovhcloud-ai-endpoints-cover.png"
 ---

@@ -4,8 +4,8 @@ excerpt: "Roboflow provides end-to-end computer vision tools from data labeling 
 coverImage: "/assets/blog/roboflow-cover.jpg"
 date: 2026-03-21T19:58:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/roboflow-cover.jpg"
 ---

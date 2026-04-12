@@ -4,8 +4,8 @@ excerpt: "Llama Stack is Meta's open-source framework that standardizes inferenc
 coverImage: "/assets/blog/llama-stack-cover.png"
 date: 2026-03-22T06:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/llama-stack-cover.png"
 ---

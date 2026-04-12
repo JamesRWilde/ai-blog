@@ -4,8 +4,8 @@ excerpt: "Vertex AI is Google Cloud's unified machine learning platform offering
 coverImage: "/assets/blog/google-vertex-ai-platform-cover.jpg"
 date: 2026-03-21T17:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/google-vertex-ai-platform-cover.jpg"
 ---

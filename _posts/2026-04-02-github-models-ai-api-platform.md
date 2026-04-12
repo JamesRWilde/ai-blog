@@ -4,8 +4,8 @@ excerpt: "GitHub Models gives developers free access to GPT-5, Claude, Gemini, a
 coverImage: "/assets/blog/github-models-api-cover.jpg"
 date: 2026-04-02T20:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/github-models-api-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "W&B Inference gives developers access to leading open-source foundatio
 coverImage: "/assets/blog/wandb-inference-cover.jpg"
 date: 2026-03-22T08:40:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/wandb-inference-cover.jpg"
 ---

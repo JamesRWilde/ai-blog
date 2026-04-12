@@ -4,8 +4,8 @@ excerpt: "FlowiseAI is an open-source visual platform that lets developers build
 coverImage: "/assets/blog/flowise-cover.jpg"
 date: 2026-03-21T23:47:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/flowise-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "Soniox delivers production-grade speech-to-text and translation via a 
 coverImage: "/assets/blog/soniox-speech-api-cover.jpg"
 date: 2026-03-27T05:41:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/soniox-speech-api-cover.jpg"
 ---

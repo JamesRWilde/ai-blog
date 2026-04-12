@@ -4,8 +4,8 @@ excerpt: "Zapier's Model Context Protocol (MCP) server gives Claude, ChatGPT, an
 coverImage: "/assets/blog/zapier-mcp-cover.jpg"
 date: 2026-03-27T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/zapier-mcp-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "TensorBlock Forge is a self-hosted middleware that lets you access Ope
 coverImage: "/assets/blog/tensorblock-forge-cover.jpg"
 date: 2026-03-29T00:42:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/tensorblock-forge-cover.jpg"
 ---

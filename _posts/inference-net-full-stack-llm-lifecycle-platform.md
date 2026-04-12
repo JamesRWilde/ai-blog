@@ -4,8 +4,8 @@ excerpt: "Inference.net bundles deploy, observe, train, and evaluate into a sing
 coverImage: "/assets/blog/inference-net-cover.png"
 date: 2026-03-16T11:24:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/inference-net-cover.png"
 ---

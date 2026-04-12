@@ -4,8 +4,8 @@ excerpt: "Jan is an Apache 2.0 licensed, offline-first AI platform with a built-
 coverImage: "/assets/blog/jan-ai-cover.png"
 date: 2026-03-29T04:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/jan-ai-cover.png"
 ---

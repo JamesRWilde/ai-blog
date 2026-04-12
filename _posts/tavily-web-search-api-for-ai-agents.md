@@ -4,8 +4,8 @@ excerpt: "Tavily gives AI agents real-time web access through search, extraction
 coverImage: "/assets/blog/tavily-cover.jpg"
 date: 2026-03-16T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/tavily-cover.jpg"
 ---

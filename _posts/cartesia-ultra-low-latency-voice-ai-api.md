@@ -4,8 +4,8 @@ excerpt: "Cartesia offers the fastest streaming text-to-speech API with 90ms fir
 coverImage: "/assets/blog/cartesia-voice-ai-cover.png"
 date: 2026-03-16T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/cartesia-voice-ai-cover.png"
 ---

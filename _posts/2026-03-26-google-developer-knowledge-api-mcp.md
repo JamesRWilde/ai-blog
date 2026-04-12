@@ -4,8 +4,8 @@ excerpt: "Google launched the Developer Knowledge API and MCP server in public p
 coverImage: "/assets/blog/google-developer-knowledge-api-cover.jpg"
 date: 2026-03-26T20:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/google-developer-knowledge-api-cover.jpg"
 ---

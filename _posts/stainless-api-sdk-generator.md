@@ -4,8 +4,8 @@ excerpt: "Discover how Stainless builds production-grade API SDKs in minutes, tr
 coverImage: "/assets/blog/stainless-cover.png"
 date: 2026-03-22T01:16:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/stainless-cover.png"
 ---

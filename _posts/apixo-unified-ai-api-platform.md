@@ -4,8 +4,8 @@ excerpt: "APIXO aggregates 100-plus AI models — from GPT-5 to Midjourney to Su
 coverImage: "/assets/blog/apixo-cover.png"
 date: 2026-03-28T22:28:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/apixo-cover.png"
 ---

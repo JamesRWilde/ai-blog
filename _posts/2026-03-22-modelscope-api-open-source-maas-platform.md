@@ -4,8 +4,8 @@ excerpt: "ModelScope offers 1000+ open-source AI models through free API-Inferen
 coverImage: "/assets/blog/modelscope-cover.jpg"
 date: "2026-03-22T12:00:00.000Z"
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/modelscope-cover.jpg"
 ---

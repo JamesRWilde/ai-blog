@@ -4,8 +4,8 @@ excerpt: "WellSaid's text-to-speech API delivers studio-quality AI voices modele
 coverImage: "/assets/blog/wellsaid-api-cover.jpg"
 date: 2026-03-22T11:08:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/wellsaid-api-cover.jpg"
 ---

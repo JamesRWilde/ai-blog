@@ -4,8 +4,8 @@ excerpt: "Beam.cloud offers a Pythonic, open-source runtime for serverless AI wo
 coverImage: "/assets/blog/beam-cloud-cover.png"
 date: 2026-03-22T05:16:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/beam-cloud-cover.png"
 ---

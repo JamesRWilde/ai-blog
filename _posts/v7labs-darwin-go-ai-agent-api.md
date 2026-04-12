@@ -4,8 +4,8 @@ excerpt: "V7 Labs combines Darwin's data annotation platform with Go's document-
 coverImage: "/assets/blog/v7labs-cover.jpg"
 date: 2026-03-27T06:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/v7labs-cover.jpg"
 ---

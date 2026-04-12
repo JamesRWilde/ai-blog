@@ -4,8 +4,8 @@ excerpt: Synthesia's REST API lets developers generate studio-quality AI avatar 
 coverImage: "/assets/blog/synthesia-cover.jpg"
 date: 2026-03-21T15:44:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/synthesia-cover.jpg"
 ---

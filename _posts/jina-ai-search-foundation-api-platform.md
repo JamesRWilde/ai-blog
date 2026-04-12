@@ -4,8 +4,8 @@ excerpt: "Jina AI offers a focused suite of APIs for embeddings, reranking, and 
 coverImage: "/assets/blog/jina-ai-cover.png"
 date: 2026-03-16T18:46:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/jina-ai-cover.png"
 ---

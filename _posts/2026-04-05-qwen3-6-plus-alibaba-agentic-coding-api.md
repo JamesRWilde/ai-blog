@@ -4,8 +4,8 @@ excerpt: "Alibaba's Qwen3.6-Plus launched April 2026 with a 1M-token context win
 coverImage: "/assets/blog/qwen-alibaba-api-cover.jpg"
 date: 2026-04-05T03:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/qwen-alibaba-api-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "TruLens provides a Python SDK and OpenTelemetry-compatible instrumenta
 coverImage: "/assets/blog/trulens-ai-evaluation-api.jpg"
 date: 2026-03-29T05:01:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/trulens-ai-evaluation-api.jpg"
 ---

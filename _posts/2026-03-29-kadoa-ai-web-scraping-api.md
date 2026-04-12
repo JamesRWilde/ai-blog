@@ -4,8 +4,8 @@ excerpt: "Kadoa uses AI agents to autonomously build, run, and maintain web scra
 coverImage: "/assets/blog/kadoa-ai-web-scraping-api-cover.png"
 date: 2026-03-29T04:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/kadoa-ai-web-scraping-api-cover.png"
 ---

@@ -4,8 +4,8 @@ excerpt: "Hugging Face Inference Endpoints turns the world's largest model hub i
 coverImage: "/assets/blog/hf-inference-endpoints-cover.jpg"
 date: 2026-03-16T13:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/hf-inference-endpoints-cover.jpg"
 ---

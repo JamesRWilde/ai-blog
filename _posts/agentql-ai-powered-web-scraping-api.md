@@ -4,8 +4,8 @@ date: 2026-03-23T10:00:00+00:00
 excerpt: "AgentQL uses AI and a custom query language to extract structured data from any website, handling dynamic content and layout changes without breaking."
 coverImage: "/assets/blog/agentql-logo.png"
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/agentql-logo.png"
 tags: ["AI API", "Web Scraping", "Data Extraction", "AgentQL"]

@@ -4,8 +4,8 @@ excerpt: "Glean's API platform turns scattered enterprise knowledge into a unifi
 coverImage: "/assets/blog/glean-api-enterprise-ai-search-platform.png"
 date: 2026-03-27T08:35:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/glean-api-enterprise-ai-search-platform.png"
 ---

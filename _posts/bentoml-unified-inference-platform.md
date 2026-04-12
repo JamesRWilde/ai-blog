@@ -4,8 +4,8 @@ excerpt: "BentoML is an open-source Python framework and managed cloud platform 
 coverImage: "/assets/blog/bentoml-cover.png"
 date: 2026-03-16T16:48:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/bentoml-cover.png"
 ---

@@ -4,8 +4,8 @@ excerpt: "Label Studio is the most flexible open source data labeling platform, 
 coverImage: "/assets/blog/label-studio-api-cover.jpg"
 date: 2026-03-29T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/label-studio-api-cover.jpg"
 ---

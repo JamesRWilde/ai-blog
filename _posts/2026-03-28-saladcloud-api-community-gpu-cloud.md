@@ -4,8 +4,8 @@ excerpt: "SaladCloud connects millions of consumer GPUs into the world's largest
 coverImage: "/assets/blog/saladcloud-cover.jpg"
 date: 2026-03-28T21:46:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/saladcloud-cover.jpg"
 ---

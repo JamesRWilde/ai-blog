@@ -4,8 +4,8 @@ excerpt: "Pipecat is a Python framework that orchestrates STT, LLMs, and TTS int
 coverImage: "/assets/blog/pipecat-daily-cover.jpg"
 date: 2026-03-27T03:39:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/pipecat-daily-cover.jpg"
 ---

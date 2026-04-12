@@ -4,8 +4,8 @@ excerpt: "A comprehensive guide to the top AI APIs of 2026, comparing features, 
 coverImage: "/assets/blog/ai-apis-2026-guide.jpg"
 date: 2026-04-09T21:49:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/ai-apis-2026-guide.jpg"
 ---
@@ -155,8 +155,8 @@ Remember to start with free tiers, monitor usage carefully, and implement proper
    - **Aspect ratio:** Landscape (wider than tall, ideally 16:9 or similar). No square images.
 
 2. **Author is LOCKED — DO NOT CHANGE.**
-   - name: `Hunter McQueen` (exactly, no variations)
-   - picture: `/assets/blog/authors/hunter.svg` (not .jpeg, not .png, not any other file)
+   - name: `Jay Wilde` (exactly, no variations)
+   - picture: `/assets/blog/authors/jay-wilde.jpg` (not .jpeg, not .png, not any other file)
    - ⚠️ DO NOT use any other author name or avatar file. This is a solo-author blog.
 
 3. **ogImage.url must match coverImage.** Copy-paste it.

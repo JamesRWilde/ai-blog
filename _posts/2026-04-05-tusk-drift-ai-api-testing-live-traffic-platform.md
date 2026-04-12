@@ -4,8 +4,8 @@ excerpt: "Tusk Drift records live API traffic and replays it as deterministic re
 coverImage: "/assets/blog/tusk-drift-cover.jpg"
 date: 2026-04-05T20:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/tusk-drift-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "WaveSpeedAI packs 600+ image, video, audio, and 3D models into a singl
 coverImage: "/assets/blog/wavespeedai-cover.jpg"
 date: 2026-03-18T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/wavespeedai-cover.jpg"
 categories: [AI APIs, Image Generation, Video Generation]

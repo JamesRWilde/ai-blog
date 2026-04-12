@@ -4,8 +4,8 @@ excerpt: "Swedish AI company OODA AI launched its Universal AI Platform — a si
 coverImage: "/assets/blog/ooda-ai-cover.jpg"
 date: 2026-03-16T11:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/ooda-ai-cover.jpg"
 ---

@@ -3,8 +3,8 @@ title: "Fish Audio S2: The Voice AI API That Lets You Clone Any Voice in 10 Seco
 excerpt: "Fish Audio's S2 voice engine brings studio-quality text-to-speech, instant voice cloning, and transcription to developers through a clean REST API with transparent pricing at $15 per million UTF-8 bytes."
 date: 2026-03-22T03:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 coverImage: "/assets/blog/fish-audio-cover.png"
 ogImage:
   url: "/assets/blog/fish-audio-cover.png"

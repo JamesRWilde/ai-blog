@@ -4,8 +4,8 @@ excerpt: "Specmatic transforms your OpenAPI, AsyncAPI, GraphQL, and gRPC specs i
 coverImage: "/assets/blog/specmatic-cover.png"
 date: 2026-04-07T09:08:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/specmatic-cover.png"
 ---

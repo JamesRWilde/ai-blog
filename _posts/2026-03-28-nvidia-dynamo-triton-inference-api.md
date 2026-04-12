@@ -4,8 +4,8 @@ excerpt: "NVIDIA Dynamo-Triton (formerly Triton Inference Server) is an open-sou
 coverImage: "/assets/blog/nvidia-dynamo-triton-cover.jpg"
 date: 2026-03-28T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/nvidia-dynamo-triton-cover.jpg"
 ---

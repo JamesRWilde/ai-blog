@@ -4,8 +4,8 @@ excerpt: "OpenAI's Sora API brings state-of-the-art text-to-video generation to 
 coverImage: "/assets/blog/openai-sora-api-cover.png"
 date: 2026-03-21T21:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/openai-sora-api-cover.png"
 ---

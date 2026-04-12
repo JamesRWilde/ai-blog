@@ -4,8 +4,8 @@ excerpt: "LlamaIndex evolved from a RAG toolkit into a full document AI platform
 coverImage: "/assets/blog/llamaindex-cover.png"
 date: 2026-03-17T00:23:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/llamaindex-cover.png"
 ---

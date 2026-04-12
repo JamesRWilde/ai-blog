@@ -4,8 +4,8 @@ excerpt: "Arthur AI provides continuous evaluation, monitoring, and guardrails f
 coverImage: "/assets/blog/arthur-ai-cover.jpg"
 date: 2026-03-28T23:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/arthur-ai-cover.jpg"
 ---

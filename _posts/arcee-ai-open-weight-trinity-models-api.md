@@ -4,8 +4,8 @@ excerpt: "Arcee AI's Trinity family ships sparse MoE models (Nano, Mini, Large) 
 coverImage: "/assets/blog/arcee-ai-trinity-cover.jpg"
 date: 2026-03-18T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/arcee-ai-trinity-cover.jpg"
 ---

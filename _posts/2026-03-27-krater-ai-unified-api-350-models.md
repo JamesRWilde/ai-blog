@@ -4,8 +4,8 @@ excerpt: "Krater.ai's unified API gives developers access to 350+ AI models incl
 coverImage: "/assets/blog/krater-ai-cover.png"
 date: 2026-03-27T09:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/krater-ai-cover.png"
 ---

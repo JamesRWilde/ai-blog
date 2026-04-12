@@ -4,8 +4,8 @@ excerpt: "Backed by Solo.io, Microsoft, Apple, and a dozen tech giants, AgentGat
 coverImage: "/assets/blog/agentgateway-cover.jpg"
 date: 2026-04-02T14:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/agentgateway-cover.jpg"
 ---

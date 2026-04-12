@@ -4,8 +4,8 @@ excerpt: "Agora launches a unified voice AI agent stack combining Agent Studio, 
 coverImage: "/assets/blog/agora-ai-agent-cover.jpg"
 date: 2026-03-16T20:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/agora-ai-agent-cover.jpg"
 ---

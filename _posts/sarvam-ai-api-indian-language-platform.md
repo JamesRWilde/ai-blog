@@ -4,8 +4,8 @@ excerpt: "Sarvam AI delivers a full-stack API suite purpose-built for 22+ Indian
 date: 2026-03-27T02:35:00+00:00
 slug: sarvam-ai-api-indian-language-platform
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 coverImage: "/assets/blog/sarvam-ai-api-cover.png"
 ogImage:
   url: "/assets/blog/sarvam-ai-api-cover.png"

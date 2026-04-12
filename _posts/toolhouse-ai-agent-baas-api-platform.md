@@ -4,8 +4,8 @@ excerpt: "Toolhouse is a Backend-as-a-Service platform that lets developers buil
 coverImage: "/assets/blog/toolhouse-cover.jpg"
 date: 2026-03-21T22:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/toolhouse-cover.jpg"
 ---

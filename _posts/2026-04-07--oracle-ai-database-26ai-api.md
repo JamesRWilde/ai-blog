@@ -4,8 +4,8 @@ excerpt: "Oracle's latest database unifies transactional, analytical, and AI wor
 coverImage: "/assets/blog/oracle-ai-database-26ai-cover.jpg"
 date: 2026-04-07T15:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/oracle-ai-database-26ai-cover.jpg"
 ---

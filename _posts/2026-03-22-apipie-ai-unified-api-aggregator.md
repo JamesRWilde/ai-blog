@@ -4,8 +4,8 @@ excerpt: "APIpie.ai is a unified AI API aggregator by Neuronic AI offering 1,400
 coverImage: "/assets/blog/apipie-ai-cover.svg"
 date: 2026-03-22T09:12:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/apipie-ai-cover.svg"
 tags:

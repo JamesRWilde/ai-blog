@@ -4,8 +4,8 @@ excerpt: "Google's Lyria 3 Pro and Lyria 3 Clip are now in public preview via th
 coverImage: "/assets/blog/lyria-3-api-cover.png"
 date: 2026-03-29T05:45:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/lyria-3-api-cover.png"
 ---

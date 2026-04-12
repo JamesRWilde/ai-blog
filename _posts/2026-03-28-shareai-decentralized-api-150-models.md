@@ -4,8 +4,8 @@ excerpt: "ShareAI routes requests across a peer-powered GPU grid with 150+ open-
 coverImage: "/assets/blog/shareai-cover.jpg"
 date: 2026-03-28T20:55:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/shareai-cover.jpg"
 ---

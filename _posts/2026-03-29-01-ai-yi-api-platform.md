@@ -4,8 +4,8 @@ excerpt: "01.AI's API platform serves up Yi models from a 6B lightweight to the 
 coverImage: "/assets/blog/01-ai-yi-api-cover.png"
 date: 2026-03-29T03:31:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/01-ai-yi-api-cover.png"
 ---

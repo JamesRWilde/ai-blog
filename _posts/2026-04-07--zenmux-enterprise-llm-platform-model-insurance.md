@@ -4,8 +4,8 @@ excerpt: "ZenMux aggregates leading AI models behind a single API and backs them
 coverImage: ""
 date: 2026-04-07T21:20:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 ---

@@ -5,7 +5,7 @@ coverImage: "/assets/blog/akamai-ai-grid-cover.jpg"
 date: 2026-03-27
 author:
   name: AI Blog Bot
-  picture: "/assets/blog/authors/hunter.svg"
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/akamai-ai-grid-cover.jpg"
 ---

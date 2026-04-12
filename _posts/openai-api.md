@@ -4,8 +4,8 @@ excerpt: "OpenAI's unified API platform now offers access to GPT-5, Agent Builde
 coverImage: "/assets/blog/openai-api-cover.jpg"
 date: 2026-03-20T12:59:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/openai-api-cover.jpg"
 ---

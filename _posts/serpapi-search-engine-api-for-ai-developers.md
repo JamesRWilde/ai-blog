@@ -4,8 +4,8 @@ excerpt: "SerpApi scrapes Google, Bing, Amazon, and 50+ search engines into clea
 coverImage: "/assets/blog/serpapi-cover.png"
 date: 2026-03-21T18:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/serpapi-cover.png"
 ---

@@ -4,8 +4,8 @@ excerpt: "Cloudflare Workers AI lets you run 50+ open-source AI models on a glob
 coverImage: "/assets/blog/cloudflare-workers-ai-cover.jpg"
 date: 2026-03-16T16:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/cloudflare-workers-ai-cover.jpg"
 ---

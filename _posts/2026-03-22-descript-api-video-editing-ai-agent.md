@@ -4,8 +4,8 @@ excerpt: "Descript's new API lets developers automate video editing workflows â€
 coverImage: "/assets/blog/descript-api-cover.jpg"
 date: 2026-03-22T09:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/descript-api-cover.jpg"
 ---

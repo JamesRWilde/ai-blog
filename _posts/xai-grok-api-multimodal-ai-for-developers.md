@@ -4,8 +4,8 @@ excerpt: "xAI's Grok API gives developers access to reasoning models, image unde
 coverImage: "/assets/blog/xai-grok-cover.jpg"
 date: 2026-03-16T19:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/xai-grok-cover.jpg"
 ---
