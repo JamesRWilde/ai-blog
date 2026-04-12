@@ -4,8 +4,8 @@ excerpt: "Scaleway's Generative APIs offer a sovereign, GDPR-compliant alternati
 coverImage: "/assets/blog/scaleway-generative-apis-cover.jpg"
 date: 2026-03-29T00:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/scaleway-generative-apis-cover.jpg"
 ---

@@ -14,8 +14,8 @@ tags:
 coverImage: "/assets/blog/cloudflare-workers-ai-cover.jpg"
 excerpt: "Cloudflare Workers AI runs 50-plus open-source models on serverless GPUs at the network edge, pricing them in custom 'Neurons' units with a free tier that resets daily. Here is how it works and why it matters."
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/cloudflare-workers-ai-cover.jpg"
 keywords:

@@ -4,8 +4,8 @@ excerpt: "Inworld AI has quietly transformed from an NPC startup into one of the
 coverImage: "/assets/blog/inworld-ai-cover.png"
 date: 2026-03-21T16:58:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/inworld-ai-cover.png"
 ---

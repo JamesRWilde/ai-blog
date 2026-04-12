@@ -4,8 +4,8 @@ excerpt: "Merge's Agent Handler gives AI agents secure, authenticated access to 
 coverImage: "/assets/blog/merge-agent-handler-cover.png"
 date: 2026-03-26T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/merge-agent-handler-cover.png"
 ---

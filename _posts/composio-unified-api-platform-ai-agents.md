@@ -4,8 +4,8 @@ excerpt: "Composio is a unified API platform purpose-built for AI agents, provid
 coverImage: "/assets/blog/composio-cover.jpg"
 date: 2026-03-16T17:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/composio-cover.jpg"
 ---

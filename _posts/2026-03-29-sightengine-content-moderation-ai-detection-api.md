@@ -4,8 +4,8 @@ excerpt: "Sightengine offers real-time content moderation across images, video, 
 coverImage: "/assets/blog/sightengine-cover.jpg"
 date: 2026-03-29T03:52:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/sightengine-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "Claid AI's API suite automates product image enhancement, background g
 coverImage: "/assets/blog/claid-ai-api-cover.jpg"
 date: 2026-03-29T04:51:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/claid-ai-api-cover.jpg"
 ---

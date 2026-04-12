@@ -4,8 +4,8 @@ excerpt: "Amazon Bedrock provides enterprise-grade access to 100+ foundation mod
 coverImage: "/assets/blog/amazon-bedrock-cover.jpg"
 date: 2026-03-21T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/amazon-bedrock-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "MindsDB connects 200+ data sources and lets developers build AI agents
 coverImage: "/assets/blog/mindsdb-cover.jpg"
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/mindsdb-cover.jpg"
 ---

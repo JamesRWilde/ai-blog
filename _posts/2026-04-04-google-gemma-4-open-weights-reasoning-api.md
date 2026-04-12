@@ -4,8 +4,8 @@ excerpt: "Google just released Gemma 4, a family of four open-weight models buil
 coverImage: "/assets/blog/gemma-4.jpg"
 date: 2026-04-04T03:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/gemma-4.jpg"
 ---

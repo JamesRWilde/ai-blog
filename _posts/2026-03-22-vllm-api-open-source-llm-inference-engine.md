@@ -3,8 +3,8 @@ title: "vLLM API: The Open-Source Engine Powering Self-Hosted LLM Inference at S
 excerpt: "vLLM transforms how developers serve large language models by combining the PagedAttention memory system with a drop-in OpenAI-compatible API, enabling production-grade inference on your own hardware."
 date: 2026-03-22T11:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 coverImage: "/assets/blog/vllm-cover.jpg"
 ogImage:
   url: "/assets/blog/vllm-cover.jpg"

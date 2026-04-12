@@ -3,8 +3,8 @@ title: "TwelveLabs API: When Your AI Actually Watches the Video Instead of Guess
 excerpt: "TwelveLabs built a video understanding API that processes visuals, audio, speech, and text simultaneously. Their latest Marengo 3.0 model handles up to 4 hours of video and speaks 36 languages."
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 coverImage: "/assets/blog/twelvelabs-cover.webp"
 ogImage:
   url: "/assets/blog/twelvelabs-cover.webp"

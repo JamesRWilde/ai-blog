@@ -4,8 +4,8 @@ excerpt: "Lakera Guard screens LLM interactions for prompt injections, data leak
 coverImage: "/assets/blog/lakera-guard-cover.jpg"
 date: 2026-03-26T23:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/lakera-guard-cover.jpg"
 ---

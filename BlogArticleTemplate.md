@@ -4,8 +4,8 @@ excerpt: "Short article summary"                        # REQUIRED — 1-2 sente
 coverImage: "/assets/blog/firecrawl-cover.jpg"         # REQUIRED — must be a real image file in /public
 date: 2026-03-15T12:00:00+00:00                       # REQUIRED — ISO 8601 format
 author:
-  name: Hunter McQueen                                 # LOCKED — do not change
-  picture: "/assets/blog/authors/hunter.svg"            # LOCKED — do not change
+  name: Jay Wilde                                 # LOCKED — do not change
+  picture: "/assets/blog/authors/jay-wilde.jpg"            # LOCKED — do not change
 ogImage:
   url: "/assets/blog/firecrawl-cover.jpg"              # REQUIRED — same as coverImage
 ---
@@ -33,8 +33,8 @@ Brief summary...
    - **Aspect ratio:** Landscape (wider than tall, ideally 16:9 or similar). No square images.
 
 2. **Author is LOCKED — DO NOT CHANGE.**
-   - name: `Hunter McQueen` (exactly, no variations)
-   - picture: `/assets/blog/authors/hunter.svg` (not .jpeg, not .png, not any other file)
+   - name: `Jay Wilde` (exactly, no variations)
+   - picture: `/assets/blog/authors/jay-wilde.jpg` (not .jpeg, not .png, not any other file)
    - ⚠️ DO NOT use any other author name or avatar file. This is a solo-author blog.
 
 3. **ogImage.url must match coverImage.** Copy-paste it.

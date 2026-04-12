@@ -4,8 +4,8 @@ excerpt: "Hyperbolic is an open-access AI cloud offering serverless inference wi
 coverImage: "/assets/blog/hyperbolic-ai-cover.jpg"
 date: 2026-03-16T17:45:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/hyperbolic-ai-cover.jpg"
 ---

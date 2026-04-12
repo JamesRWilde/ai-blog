@@ -4,8 +4,8 @@ excerpt: "Browserless offers a cloud-native browser automation platform with thr
 coverImage: ""
 date: 2026-03-27T05:05:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 tags: ["browser-automation", "web-scraping", "captcha-solving", "ai-agents", "playwright", "puppeteer"]

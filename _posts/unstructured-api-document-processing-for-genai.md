@@ -4,8 +4,8 @@ excerpt: "Unstructured turns messy enterprise documents into structured, AI-read
 coverImage: "/assets/blog/unstructured-cover.jpg"
 date: 2026-03-21T15:58:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/unstructured-cover.jpg"
 ---

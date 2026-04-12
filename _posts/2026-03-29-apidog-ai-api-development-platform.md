@@ -4,8 +4,8 @@ excerpt: "Apidog unifies API design, testing, documentation, and mocking in a si
 coverImage: "/assets/blog/apidog-ai-api-cover.jpg"
 date: 2026-03-29T08:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/apidog-ai-api-cover.jpg"
 ---

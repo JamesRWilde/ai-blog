@@ -4,8 +4,8 @@ excerpt: "Chutes is a decentralised, serverless AI compute platform that lets de
 coverImage: "/assets/blog/chutes-ai-cover.jpg"
 date: 2026-03-21T15:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/chutes-ai-cover.jpg"
 ---

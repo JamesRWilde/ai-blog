@@ -4,8 +4,8 @@ excerpt: "Dify combines a visual workflow builder, RAG pipeline, and 50+ built-i
 coverImage: "/assets/blog/dify-cover.jpg"
 date: 2026-03-21T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/dify-cover.jpg"
 ---

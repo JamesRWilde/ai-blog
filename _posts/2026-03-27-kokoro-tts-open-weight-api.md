@@ -4,8 +4,8 @@ excerpt: "Kokoro is an Apache-licensed text-to-speech model with just 82 million
 coverImage: "/assets/blog/kokoro-tts-cover.png"
 date: 2026-03-27T00:07:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/kokoro-tts-cover.png"
 ---

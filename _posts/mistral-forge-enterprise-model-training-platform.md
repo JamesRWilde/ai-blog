@@ -4,8 +4,8 @@ excerpt: "Mistral AI launched Forge, a full-cycle enterprise model training plat
 coverImage: "/assets/blog/mistral-forge-cover.jpg"
 date: 2026-03-17T23:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/mistral-forge-cover.jpg"
 ---

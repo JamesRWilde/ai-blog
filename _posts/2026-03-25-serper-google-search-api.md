@@ -4,8 +4,8 @@ excerpt: "Serper.dev delivers structured Google search results in 1-2 seconds at
 coverImage: "/assets/blog/serper-dev-cover.jpg"
 date: 2026-03-25T15:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/serper-dev-cover.jpg"
 ---

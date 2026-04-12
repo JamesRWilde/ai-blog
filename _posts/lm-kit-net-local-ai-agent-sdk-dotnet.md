@@ -4,8 +4,8 @@ excerpt: "LM-Kit.NET brings a complete on-device AI stack to C# and VB.NET devel
 coverImage: "/assets/blog/lm-kit-net-cover.jpg"
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/lm-kit-net-cover.jpg"
 ---

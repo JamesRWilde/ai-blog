@@ -4,8 +4,8 @@ excerpt: "Hugging Face's Inference Providers unify 18 inference backends — fro
 coverImage: "/assets/blog/hf-inference-providers-cover.jpg"
 date: 2026-03-22T09:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/hf-inference-providers-cover.jpg"
 ---

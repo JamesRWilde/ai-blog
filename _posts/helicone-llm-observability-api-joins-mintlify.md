@@ -4,8 +4,8 @@ excerpt: "Helicone processed 14.2 trillion tokens across 16,000 organizations be
 coverImage: "/assets/blog/helicone-cover.png"
 date: 2026-03-16T20:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/helicone-cover.png"
 ---

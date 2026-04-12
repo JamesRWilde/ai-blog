@@ -4,8 +4,8 @@ excerpt: "Deepset's Haystack is the open-source Python framework powering produc
 coverImage: "/assets/blog/deepset-haystack-cover.png"
 date: 2026-03-29T06:05:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/deepset-haystack-cover.png"
 ---

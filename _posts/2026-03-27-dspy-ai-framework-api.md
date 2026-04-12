@@ -4,8 +4,8 @@ excerpt: "DSPy replaces brittle prompt engineering with composable Python module
 coverImage: "/assets/blog/dspy-cover.png"
 date: 2026-03-27T03:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/dspy-cover.png"
 ---

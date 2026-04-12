@@ -4,8 +4,8 @@ excerpt: "Google has added two new inference tiers, Flex (50% cheaper) and Prior
 coverImage: ""
 date: 2026-04-03T15:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 ---

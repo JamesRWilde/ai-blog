@@ -4,8 +4,8 @@ excerpt: "Amazon Textract goes beyond basic OCR to automatically extract text, h
 coverImage: "/assets/blog/amazon-textract-api.png"
 date: 2026-03-29T09:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/amazon-textract-api.png"
 ---

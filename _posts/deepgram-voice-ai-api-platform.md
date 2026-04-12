@@ -4,8 +4,8 @@ excerpt: "Deepgram unifies speech-to-text, text-to-speech, and real-time voice a
 coverImage: "/assets/blog/deepgram-cover.jpg"
 date: 2026-03-16T16:31:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/deepgram-cover.jpg"
 ---

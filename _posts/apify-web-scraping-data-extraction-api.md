@@ -4,8 +4,8 @@ excerpt: "Apify provides 20,000 plus pre-built Actors for web scraping and data 
 coverImage: "/assets/blog/apify-cover.png"
 date: 2026-03-21T22:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/apify-cover.png"
 ---

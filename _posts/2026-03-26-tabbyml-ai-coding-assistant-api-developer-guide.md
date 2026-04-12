@@ -4,8 +4,8 @@ excerpt: "TabbyML delivers GitHub Copilot-quality code completions via a self-ho
 coverImage: "/assets/blog/tabbyml-cover.png"
 date: 2026-03-26T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/tabbyml-cover.png"
 categories:

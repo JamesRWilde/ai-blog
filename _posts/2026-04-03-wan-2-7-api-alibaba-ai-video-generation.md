@@ -4,8 +4,8 @@ excerpt: "Wan 2.7 is Alibaba's latest AI video generation and editing model, off
 coverImage: "/assets/blog/wan-2-7-api-cover.jpg"
 date: 2026-04-03T20:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/wan-2-7-api-cover.jpg"
 ---

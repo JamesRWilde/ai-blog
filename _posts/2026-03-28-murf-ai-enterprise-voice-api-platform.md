@@ -4,8 +4,8 @@ excerpt: "Murf AI's Falcon TTS API delivers 55ms model latency and 130ms end-to-
 coverImage: "/assets/blog/murf-ai-cover.webp"
 date: 2026-03-28T22:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/murf-ai-cover.webp"
 ---

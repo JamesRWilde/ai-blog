@@ -4,8 +4,8 @@ excerpt: "Meshy's REST API turns text prompts and images into textured 3D models
 coverImage: "/assets/blog/meshy-ai-cover.jpg"
 date: 2026-03-27T00:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/meshy-ai-cover.jpg"
 ---

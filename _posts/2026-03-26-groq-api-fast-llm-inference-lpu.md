@@ -4,8 +4,8 @@ excerpt: "GroqCloud delivers blazing-fast LLM inference via custom LPU chips, of
 coverImage: "/assets/blog/groq-api-cover.png"
 date: 2026-03-26T21:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/groq-api-cover.png"
 ---

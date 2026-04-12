@@ -4,8 +4,8 @@ excerpt: "Supabase turns Postgres into a full AI backend with pgvector, built-in
 coverImage: "/assets/blog/supabase-ai-cover.jpg"
 date: 2026-03-29T09:48:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/supabase-ai-cover.jpg"
 ---

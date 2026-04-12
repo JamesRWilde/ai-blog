@@ -4,8 +4,8 @@ excerpt: "Clarifai offers OpenAI-compatible, fastest-in-class AI inference with 
 coverImage: "/assets/blog/clarifai-cover.png"
 date: 2026-03-16T12:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/clarifai-cover.png"
 ---

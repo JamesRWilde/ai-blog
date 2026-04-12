@@ -4,8 +4,8 @@ excerpt: "Gradio wraps any Python function into a shareable web UI with auto-gen
 coverImage: "/assets/blog/gradio-api-cover.jpg"
 date: 2026-03-28T22:18:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/gradio-api-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "Oxlo.ai flips the AI API pricing model on its head with request-based 
 coverImage: "/assets/blog/oxlo-ai-cover.jpg"
 date: 2026-03-29T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/oxlo-ai-cover.jpg"
 ---

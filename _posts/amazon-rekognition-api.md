@@ -4,8 +4,8 @@ excerpt: "Amazon Rekognition delivers pre-trained and customizable computer visi
 coverImage: "/assets/blog/amazon-rekognition-api-cover.jpeg"
 date: 2026-03-22T03:56:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/amazon-rekognition-api-cover.jpeg"
 ---

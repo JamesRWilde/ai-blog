@@ -4,8 +4,8 @@ excerpt: "Confident AI is the AI quality platform built by the creators of DeepE
 coverImage: ""
 date: 2026-03-21T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 ---

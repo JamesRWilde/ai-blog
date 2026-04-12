@@ -4,8 +4,8 @@ excerpt: "Atlas Cloud offers 300+ AI models through a single unified API, coveri
 coverImage: "/assets/blog/atlascloud-cover.png"
 date: 2026-03-17T11:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/atlascloud-cover.png"
 ---

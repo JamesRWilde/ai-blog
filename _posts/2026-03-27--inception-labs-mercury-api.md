@@ -4,8 +4,8 @@ excerpt: "Inception Labs is betting that diffusion, not autoregression, is the f
 coverImage: "/assets/blog/inceptionlabs-cover.png"
 date: 2026-03-27T04:05:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/inceptionlabs-cover.png"
 ---

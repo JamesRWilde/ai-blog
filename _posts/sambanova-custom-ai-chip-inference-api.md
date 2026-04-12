@@ -4,8 +4,8 @@ excerpt: "SambaNova builds its own RDU chips for AI inference — delivering fas
 coverImage: "/assets/blog/sambanova-cover.jpg"
 date: 2026-03-16T09:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/sambanova-cover.jpg"
 ---

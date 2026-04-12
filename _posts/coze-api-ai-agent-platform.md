@@ -4,8 +4,8 @@ excerpt: "Coze is ByteDance's AI agent development platform that bundles a visua
 coverImage: ""
 date: 2026-03-24T15:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 ---

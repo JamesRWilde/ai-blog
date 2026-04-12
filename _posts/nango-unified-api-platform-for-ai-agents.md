@@ -4,8 +4,8 @@ excerpt: "Nango is an open-source unified API platform that handles auth, tool c
 coverImage: "/assets/blog/nango-cover.jpg"
 date: 2026-03-16T02:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/nango-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "CostLayer gives engineering teams a single dashboard to track, underst
 coverImage: "/images/2026-03-26-costlayer-og.png"
 date: 2026-03-26T22:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/images/2026-03-26-costlayer-og.png"
 ---

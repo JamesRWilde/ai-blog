@@ -3,8 +3,8 @@ title: "AI LLM API Pricing 2026: The Complete Guide to GPT-5.4, Claude 4.6, Gemi
 excerpt: "A comprehensive breakdown of every major AI model API pricing in 2026 — from OpenAI's GPT-5.4 and Anthropic's Claude 4.6 to Google's Gemini 3.1, xAI's Grok 4.2, and budget challengers like DeepSeek and Qwen."
 date: 2026-03-22T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/scriptbyai-cover.webp"
 ---

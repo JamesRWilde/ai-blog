@@ -4,8 +4,8 @@ excerpt: "Perplexity launched four developer APIs at Ask 2026 — Agent, Sandbox
 coverImage: "/assets/blog/perplexity-apis-cover.jpg"
 date: 2026-03-16T01:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/perplexity-apis-cover.jpg"
 ---

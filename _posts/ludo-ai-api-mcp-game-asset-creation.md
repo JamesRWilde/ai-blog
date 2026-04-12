@@ -4,8 +4,8 @@ excerpt: "Ludo.ai launched its REST API and Model Context Protocol integration t
 coverImage: "/assets/blog/ludo-ai-cover.jpg"
 date: 2026-03-17T20:41:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/ludo-ai-cover.jpg"
 ---

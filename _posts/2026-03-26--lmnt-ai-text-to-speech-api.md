@@ -4,8 +4,8 @@ excerpt: "LMNT delivers studio-quality AI voice synthesis at 150ms latency, supp
 coverImage: ""
 date: 2026-03-26T22:54:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: ""
 ---

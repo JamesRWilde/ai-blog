@@ -4,8 +4,8 @@ excerpt: "Discover how SiliconFlow delivers 2.3x faster inference speeds with un
 coverImage: "/assets/blog/siliconflow-cover.png"
 date: 2026-03-14T11:06:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: /assets/blog/siliconflow-cover.png
 ---

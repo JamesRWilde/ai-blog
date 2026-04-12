@@ -4,8 +4,8 @@ excerpt: "Notte lets developers describe a browser task in plain text and get ba
 coverImage: "/assets/blog/notte-cover.jpg"
 date: 2026-04-05T15:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/notte-cover.jpg"
 ---

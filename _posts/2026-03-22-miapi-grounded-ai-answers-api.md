@@ -3,8 +3,8 @@ title: "MIAPI - The Budget-Friendly API That Puts Perplexity on Notice"
 excerpt: "MIAPI delivers web-grounded AI answers with inline citations and confidence scores through a single REST endpoint, starting at $2.50 per thousand queries."
 date: 2026-03-22T08:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 coverImage: "/assets/blog/miapi-cover.jpg"
 ogImage:
   url: "/assets/blog/miapi-cover.jpg"

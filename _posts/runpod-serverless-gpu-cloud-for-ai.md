@@ -4,8 +4,8 @@ excerpt: "RunPod offers developers per-second GPU access with serverless scaling
 coverImage: "/assets/blog/runpod-cover.jpg"
 date: 2026-03-16T14:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/runpod-cover.jpg"
 ---

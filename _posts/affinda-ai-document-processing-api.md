@@ -4,8 +4,8 @@ excerpt: "Affinda brings AI agents to document processing, offering a no-code AP
 coverImage: "/assets/blog/affinda-cover.png"
 date: 2026-03-18T01:41:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/affinda-cover.png"
 ---

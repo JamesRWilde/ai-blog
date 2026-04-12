@@ -4,8 +4,8 @@ excerpt: "Mistral Small 4 unifies reasoning, multimodal understanding, and agent
 coverImage: "/assets/blog/mistral-small-4-cover.jpg"
 date: 2026-04-04T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/mistral-small-4-cover.jpg"
 ---

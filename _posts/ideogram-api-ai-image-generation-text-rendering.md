@@ -4,8 +4,8 @@ excerpt: "Ideogram's API brings its industry-leading text rendering capabilities
 coverImage: "/assets/blog/ideogram-api-cover.jpg"
 date: 2026-03-21T14:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/ideogram-api-cover.jpg"
 ---

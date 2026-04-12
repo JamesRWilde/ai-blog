@@ -4,8 +4,8 @@ excerpt: "Alibaba has launched Qwen 3.6-Plus via API, bringing a 1M token contex
 coverImage: "/assets/blog/qwen36-plus-cover.png"
 date: 2026-04-05T09:26:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/qwen36-plus-cover.png"
 ---

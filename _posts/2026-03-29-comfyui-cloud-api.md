@@ -4,8 +4,8 @@ excerpt: "ComfyUI's new Cloud API gives developers programmatic access to 900+ i
 coverImage: "/assets/blog/comfyui-cover.png"
 date: 2026-03-29T06:35:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/comfyui-cover.png"
 ---

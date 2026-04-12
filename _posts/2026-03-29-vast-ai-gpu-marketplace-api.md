@@ -4,8 +4,8 @@ excerpt: "Vast.ai connects developers to a global marketplace of affordable GPUs
 coverImage: "/assets/blog/vast-ai-api-cover.jpg"
 date: 2026-03-29T09:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/vast-ai-api-cover.jpg"
 ---

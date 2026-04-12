@@ -4,8 +4,8 @@ excerpt: "Abacus AI's RouteLLM API offers a unified OpenAI-compatible endpoint t
 coverImage: "/assets/blog/abacus-ai-cover.png"
 date: 2026-03-18T04:45:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/abacus-ai-cover.png"
 ---

@@ -4,8 +4,8 @@ excerpt: "A single API endpoint that gives you access to over 300 AI models with
 coverImage: "/assets/blog/aicc-ai-cc-cover.png"
 date: 2026-03-17T14:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/aicc-ai-cc-cover.png"
 ---

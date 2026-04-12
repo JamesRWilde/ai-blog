@@ -4,8 +4,8 @@ excerpt: "With a decorator-first design, built-in observability, and support for
 coverImage: "/assets/blog/mirascope-cover.webp"
 date: 2026-03-27T12:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/mirascope-cover.webp"
 ---

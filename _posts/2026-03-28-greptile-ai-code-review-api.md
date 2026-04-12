@@ -4,8 +4,8 @@ excerpt: "Greptile is an AI-powered code review API that reviews pull requests w
 coverImage: "/assets/blog/greptile-ai-cover.svg"
 date: 2026-03-28T18:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/greptile-ai-cover.svg"
 ---

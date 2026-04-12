@@ -4,8 +4,8 @@ excerpt: "Langdock's API consolidates multiple LLM providers behind a single, GD
 coverImage: "/assets/blog/langdock-cover.jpg"
 date: 2026-03-27T07:30:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/langdock-cover.jpg"
 ---

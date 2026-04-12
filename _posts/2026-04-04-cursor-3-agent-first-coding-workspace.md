@@ -4,8 +4,8 @@ excerpt: "Cursor rebuilt its entire interface from scratch around autonomous age
 coverImage: "/assets/blog/cursor-3-cover.png"
 date: 2026-04-04T14:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/cursor-3-cover.png"
 ---

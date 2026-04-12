@@ -4,8 +4,8 @@ excerpt: "Mixpeek decomposes videos, images, documents, and audio into searchabl
 coverImage: "/assets/blog/mixpeek-cover.png"
 date: 2026-04-01T14:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/mixpeek-cover.png"
 ---

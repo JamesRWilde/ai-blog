@@ -4,8 +4,8 @@ excerpt: "Pika's Model 2.2 brings 1080p AI video generation to developers throug
 coverImage: "/assets/blog/pika-api-cover.jpg"
 date: 2026-03-21T17:58:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/pika-api-cover.jpg"
 ---

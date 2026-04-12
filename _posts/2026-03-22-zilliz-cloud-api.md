@@ -4,8 +4,8 @@ excerpt: "Zilliz Cloud provides a managed vector database API built on the open-
 coverImage: "/assets/blog/zilliz-cloud-cover.jpg"
 date: 2026-03-22T10:47:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/zilliz-cloud-cover.jpg"
 ---

@@ -4,8 +4,8 @@ excerpt: "Eden AI consolidates LLMs, OCR, speech, vision, and translation from 5
 coverImage: "/assets/blog/eden-ai-cover.jpg"
 date: 2026-03-22T08:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/eden-ai-cover.jpg"
 ---

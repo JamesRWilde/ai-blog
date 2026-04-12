@@ -4,8 +4,8 @@ excerpt: "Pollinations.AI offers free text, image, and audio generation through 
 coverImage: "/assets/blog/pollinations-ai-cover.png"
 date: 2026-03-21T20:45:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/pollinations-ai-cover.png"
 ---

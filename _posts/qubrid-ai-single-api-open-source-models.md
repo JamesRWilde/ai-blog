@@ -4,8 +4,8 @@ excerpt: "Qubrid AI launched at NVIDIA GTC 2026 with a single API giving develop
 coverImage: "/assets/blog/qubrid-ai-cover.jpg"
 date: 2026-03-16T22:00:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/qubrid-ai-cover.jpg"
 ---

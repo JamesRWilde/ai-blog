@@ -4,8 +4,8 @@ excerpt: "AssemblyAI provides industry-leading speech-to-text APIs with 94%+ acc
 coverImage: "/assets/blog/assemblyai-cover.png"
 date: 2026-03-16T15:24:00+00:00
 author:
-  name: Hunter McQueen
-  picture: "/assets/blog/authors/hunter.svg"
+  name: Jay Wilde
+  picture: "/assets/blog/authors/jay-wilde.jpg"
 ogImage:
   url: "/assets/blog/assemblyai-cover.png"
 ---
